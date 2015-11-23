@@ -1,0 +1,1654 @@
+; This is a language file
+; You can translate it into your native language
+; To do this, follow instructions:
+; - PLEASE make sure FDM hasn't already been translated into your language 
+;   You should go to FDM web site (http://freedownloadmanager.org) and 
+;   check the list of available languages
+;   or e-mail to support@freedownloadmanager.org
+; - copy this language file to xxx.lng, where xxx is the reduced name 
+;   of your language. For English it is eng
+; - translate all strings of xxx.lng into your language
+; - send the translated file to support@freedownloadmanager.org 
+;
+;
+;
+; Translator - FreeDownloadManager.ORG, 2004
+;
+
+; Your language name. Please keep it in English
+;
+Hrvatski (Croatian)
+;
+;
+; Below are the strings to translate:
+;
+Spremi sve
+Odreži
+Kopiraj
+Zalijepi
+Mala
+Srednja
+Velika
+Opæe postavke
+Uspostava veze
+O programu
+Izlaz
+Datoteka
+Uredi
+Prikaz
+Moguænosti
+Alati
+Pomoæ
+Alatna traka
+Statusna traka
+Ureðaj za spajanje
+Postavke veze 
+Ostale postavke
+Uspostava veze
+Prekini vezu nakon završetka
+Ugasi raèunalo nakon završetka
+Upute
+FDM Web stranica
+Reci prijatelju
+E-pošta podrške
+Automatsko ažuriranje
+Ima li novija inaèica
+-
+-
+Panel
+Brzina preuzimanja
+Registracije
+Preuzimanje datoteka
+Planer
+Pretraga Internet adrese
+HTTP/FTP pretraživaè
+Upravljaè Internet adresa
+Novo preuzimanje
+Nastavi preuzimanje
+Zaustavi preuzimanje
+Planirano preuzimanje
+Novi zadatak
+Postavke
+Preuzmi odabrane datoteke
+Prekini
+Osvježi
+Dodaj stranicu
+Postavke
+Grupe preuzimanja
+Obavijesti o preuzimanju
+Zapis planera
+Zapis pretraženih Internet adresa
+Boèna traka
+Novo preuzimanje
+Izbriši preuzimanje
+Pokreni datoteku
+Otvori mapu
+Automatski pokreni preuzimanje
+Postavke
+Aktiviraj zadatak
+Deaktiviraj zadatak
+Izbriši zadatak
+Otvori matiènu mapu
+Prekida veze
+Preuzmi
+Postavke
+Izbriši stranicu
+Privremeni unos
+Stranice
+Glavno okno
+Nadzor preglednika
+Nadzor meðuspremnika
+Nastavi sva preuzimanja
+Zaustavi sva preuzimanja
+-
+Nastavi
+-
+-
+-
+-
+-
+Odustajem
+-
+-
+-
+Sve grupe
+Oznake
+Dovršeno
+U toku
+Planirano
+Zaustavljeno
+Ostalo
+Stvori novu grupu
+Izbriši grupu
+Izbriši sva preuzimanja
+Izbriši sva završena preuzimanja
+Otvori mapu grupe
+Svojstva grupe
+Naziv grupe:
+Zadana mapa:
+Tip datoteka - odvojene razmakom:
+Prioritet preuzimanja
+Vrlo nizak
+Nizak
+Prosjeèan
+Visok
+Vrlo visok
+Molim, unesite naziv grupe
+Greška u unosu
+Grupa sa ovim nazivom veæ postoji. Molimo unesite drugi naziv
+Molim, unesite naziv mape
+Odredite mapu za ovu grupu
+Unesite naziv grupe
+Mapa za pohranu preuzetih datoteka ove gupe
+Pregledaj
+Tip datoteka gupe. Koristi se za automatsko odreðivanje grupe preuzimanja
+Prioritet preuzimanja ove grupe
+Odustajem od promjene. Zatvori ovaj dijalog!
+Primjeni promjene i zatvori ovaj dijalog
+Greška u grupama preuzimanja
+Molimo, reinstalirajte FDM
+Greška
+Popis preuzimanja ne može biti otvoren. Možda je datoteka popisa ošteæena ili ju trenutno koristi druga aplikacija
+Integracija u Internet Explorer nije uspjela.
+Da li ste sigurni?
+Ovo æe izbrisati sve grupe preuzimanja!
+Potvrda
+Naziv datoteke
+Velièina
+Preuzeto
+Preostalo vrijeme
+Blokovi
+Brzina
+Komentar
+Zapis
+Napredak
+Vrijeme
+Datum
+Obavijest
+Obriši
+Automatsko pomicanje
+Nepoznata mrežna greška
+Pristup nije odobren. Neispravno korisnièko ime ili lozinka
+Pristup nije odobren. Neispravna lozinka
+Uspješno
+Povezivanje s poslužiteljem nije uspjelo
+Datoteka na poslužitelj nije pronaðena
+Veza sa poslužiteljem je prekinuta
+Poslužitelj ne odgovara
+Neuspjelo razrješenje naziva poslužitelja
+Poslužitelj ne podržava nastavak preuzimanja. Ne zaustavljajte preuzimanje, jer æe te ga morati zapoèeti ponovo.
+Proxy zahtjeva korisnièko ime i lozinku
+Produžena greška
+Neispravan zahtjev. Moguæa greška: Neispravna adresa
+Nepoznata greška poslužitelja
+Veza prekinuta
+Neispravna adresa
+Veza sa Internetom ne postoji
+Odabrana HTTP inaèica nije podržana na ovom poslužitelju
+Nepoznata greška
+Datoteka na disku ne može biti izbrisana
+Ogranièenje veze na ovom poslužitelju je dostignuto
+Ogranièenje veza je dostignuto
+Pauza %d s.
+Blokovi
+Zapoèeto
+Završeno
+Preuzimanje završeno
+Povezivanje...
+Povezano
+Preusmjeravanje...
+Preusmjereno. Otvaranje nove Internet adrese
+Poèetak preuzimanja...
+Zaustavljeno
+Stvaranje novog bloka...
+Otkazano
+Ponovno pokretanje preuzimanja...
+Otvaranje datoteke na disku...
+Naziv datoteke je predugaèak
+Datoteka veæ postoji. Preimenovanje u
+Preimenovanje u
+Izlazna datoteka je izbrisana. Nastavak je nemoguæ.
+Datoteka veæ postoji. Natpisati
+Datoteka veæ postoji. Nastaviti preuzimanje
+Datoteka veæ postoji
+Neuspjelo otvaranje datoteke na disku
+Velièina datoteke na poslužitelju je promijenjena!
+Podešavanje na novu velièinu...
+Nemoguæe je natpisati datoteku
+Datoteka æe biti preimenovana
+Nemoguæe preimenovati datoteku u njen izvorni naziv
+Nemoguæe je pohraniti grupe
+Nemoguæe je pohraniti preuzimanja
+Uspostava veze
+Poveži preko:
+Automatska uspostava veze
+Povezivanje
+Izaberite unos za uspostava veze
+Automatska uspostava veze, u buduæe
+Uspostavi vezu sada
+Ne uspostavljaj veze i ne zatvaraj ovaj dijalog.
+Nisu pronaðeni podatci o uspostavi veze na ovom raèunalu
+Linija je zauzeta
+Hardverska greška
+Nedostaje ton biranja
+Biranje
+Pokušaj
+Otvaranje ulaza...
+Biranje do ISP-a...
+Povezivanje s udaljenim raèunalom
+Verifikacija korisnièkog imena i lozinke...
+Brzina veze je %d BPS
+Prekini vezu
+Ponavljanje
+Korisnièko ime i lozinka su nužni
+Korisnik:
+Lozinka:
+Grupa:
+Pohrani u mapu:
+Pohrani kao:
+Nastavi
+Automatski
+Ruèno
+Planiranje
+Prioritet preuzimanja
+Podešavanje
+Adresa datoteke koju želite preuzeti
+Unesite korisnièko ime
+Unesite lozinku
+Oznaèite, ako poslužitelj zahtjeva autorizaciju
+Naziv grupe u koju se svrstava preuzimanje. Grupe pomažu pri upravljanju preuzimanjima
+Mapa za pohranu datoteka
+Novi naziv preuzete datoteke. Ostavite prazno, ako želite pohraniti datoteku s izvornim nazivom
+Kratki opis preuzimanja
+Ovo preuzimanje pokrenuti æe se automatski
+FDM neæe automatski pokrenuti ovo preuzimanje
+Planirajte ovo preuzimanje
+Podesite planirano preuzimanje
+Prioritet preuzimanja. Preuzimanja sa veæim prioritetom zapoèet æe ranije od onih sa nižim prioritetom
+Pregledajte ostala postavke za ovo preuzimanje
+Adresa koju ste unijeli nije ispravna. Molim, provjerite.
+Molim, unesite korisnièko ime
+Izaberite izlaznu mapu
+Poèetne
+Opæe obavijesti
+Preuzeto je pohranjeno u datoteku
+Naziv preuzete datoteke
+Adresa ovog preuzimanja se ne može izmijeniti
+Preuzimanje je aktivno. Nemoguæe je promijeniti naziv datoteke
+Nemoguæe je preimenovati datoteku
+Datoteka nije pronaðena
+Internet adresa nije pronaðena
+Neispravan .exe oblik
+Datoteku koristi druga aplikacija
+Pristup nije odobren
+Ureðaj nije spreman
+Disk je pun
+Naziv datoteke nije ispravan
+Prijava je nužna
+Veza
+Mreža
+Biranje
+Pauza izmeðu pokušaja biranja [u sekundama]:
+Najveæi broj pokušaja
+Èekanje poslužitelja [u sekundama]:
+Najmanja velièina:
+Najveæi broj:
+Ogranièavanje brzine ovog preuzimanja
+Granica brzine
+Zanemari sva ogranièenja
+B
+KB
+MB
+; second. e.g. KB/s
+s
+Unesite vrijednost veæu od %d
+Molimo odaberite jedinicu mjere
+Vrijeme èekanja poslužitelja u sluèaju greške
+Ogranièenje najveæeg broja neuspjelih pokušaja preuzimanja.
+Èekanje odgovora poslužitelja
+Najmanja velièina bloka. Preuzimanje se neæe vršiti u blokovima manjim od
+Najveæi broj blokova. Preuzimanje se neæe vršiti u više blokova od zadanog.
+Odredite najveæu vrijednost brzine preuzimanja FDM-a
+Zanemari ogranièenja brzine i najveæeg broja veza za ovo preuzimanje
+Odredite vrijednosti u bajtima (B), kilobajtima (KB) ili megabajtima
+Protokol
+Prijavi se na poslužitelju kao:
+Uputa poslužitelju:
+Koristi HTTP 1.1
+Dopusti "kolaèiæe"
+Koristi pasivni naèin
+Naèin prijenosa
+Binarno
+ASCII za datoteke sljedeæeg tipa:
+Odredite kako æe se FDM predstaviti HTTP poslužitelju
+Ovaj podatak æe biti poslan HTTP poslužitelju na znanje. Nije ga nužno unositi
+FDM koristi HTTP inaèicu 1.1
+FDM koristi "kolaèiæe", male registracijske upite poslužitelja
+FDM koristi pasivni naèin za FTP poslužitelje. Ponekad je neophodno ako se koriste vatrozidi
+Koristi binarni naèin za FTP prijenose. Odaberite ovaj naèin ako otpremana datoteka  nije tekst.
+Koristi ASCII naèin za FTP prijenose. Odaberite ovaj naèin ako je preuzimana datoteka tekst.
+FDM æe koristiti ASCII naèin prijenosa za sljedeæe tipove datoteka. Za sve ostale, FDM æe koristiti binarni naèin
+Proxy
+Postavke proxy-a
+Microsoft Internet Explorer postavke
+Unosi korisnik
+Ne koristi proxy
+Postavke
+Adresa:
+Port:
+Molimo unesite proxy adresu
+Molimo unesite proxy port
+FDM æe koristiti Internet Explorer proxy postavke
+Proxy postavke unosite sami
+FDM neæe koristiti proxy
+Odaberite tipove poslužitelja za koje želite podesiti proxy
+Unesite proxy adresu koju želite koristiti
+Unesite proxy port. Kao primjer; 3128, 1080 ili 8080
+Oznaèite, ako proxy poslužitelj zahtjeva autorizaciju
+Ostalo
+Preuzeta datoteka
+Ako datoteka veæ postoji:
+Rezerviraj prostor na disku za preuzimajuæu datoteku
+Dodaj ovaj tip datoteke za nezavršena preuzimanja:
+Internet poslužitelj
+Ne pokreæi ponovno ako poslužitelj ne podržava nastavljanje
+Ako se promijenila velièina datoteke na poslužitelju:
+Zaustavi se na greške
+Pitaj
+Natpiši
+Preimenuj
+Nastavi
+Ponovno pokreni
+Podesi
+Molimo unesite tip datoteke
+Odredite što æe FDM uèiniti u sluèaju da datoteka veæ postoji na disku
+Rezerviranje prostora na disku za preuzimanje koje je krenulo
+FDM pridodaje odreðenu ekstenziju nazivu datoteke prilikom preuzimanja. Kad preuzimanje završi, FDM æe preimenovati datoteke u izvorni naziv.
+FDM neæe ponavljati preuzimanje ako poslužitelj ne podržava nastavljanje preuzimanja
+Odredite što æe FDM uèiniti ako se velièina datoteke promijeni na poslužitelju
+Zaustavljanje preuzimanja kada datoteka nije pronaðena na poslužitelju
+Oznaèite, kako bi zaustavili preuzimanje ako korisnièko ime ili lozinka nije ispravna
+Èinitelji brzine prijenosa
+Odaberite brzinu:
+Najveæi broj veza:
+Najveæi broj veza prema poslužitelju:
+Ogranièenje brzine:
+Neogranièeno
+Odaberite brzinu prijenosa koju želite
+Ogranièenje najveæeg broja istovremenih veza
+Ogranièenje najveæeg broja istovremenih veza prema poslužitelju
+Odredite FDM brzinu (najveæu) za preuzimanje datoteka
+U toku: 
+Kolone panela
+Automatski pohrani svakih
+min.
+Pri brisanju nepotpuno preuzete datoteke
+Automatski izbriši završena preuzimanja
+Ne briši datoteku
+Izbriši datoteku
+FDM automatski pohrannjuje popis preuzimanja u zadanom intervalu vremena. To štiti od gubitka popisa u sluèaju prestanka rada raèunala zbog moguæeg gubitka struje ili slièno.
+Odredite što æe FDM uèiniti pri brisanju datoteke s diska nedovršenog preuzimanja.
+Automatsko brisanje preuzimanja s popisa, nakon završetka.
+Nadzor
+Hvatanje zahtjeva za preuzimanje
+Meðuspremnika
+Nadzor datoteka tipa
+Zanemarivanje datoteka tipa
+ALT tipka ne smije biti pritisnuta
+ALT tipka mora biti pritisnuta
+Molim, odaberite ekstenzije
+FDM æe nadzirati klikove za preuzimanje u Internet Exploreru
+FDM nadzire sadržaj meðuspremnika
+Nadgledavaj datoteka samo odreðenih tipova
+Ne nadgledavaj datoteke odreðenih tipova
+Nadzor samo ako ALT tipka nije pritisnuta
+Nadzor samo ako je ALT tipka pritisnuta
+Pokretanje Windowsa
+Pokreni s Windowsima
+Pokreni minimalizirano
+Sistem
+Minimaliziraj u traku zadaæa
+Tipka 'Zatvori' minimalizira okno
+FDM æe se automatski pokrenuti s pokretanjem raèunala
+FDM æe biti minimiziran kad se pokrene
+Kad pritisnete tipku za minimaliziranje, FDM æe se prikazati u traci zadaæa
+Ako je odabrano, tipka 'Zatvori' æe imati jednaku funkciju kao i tipka 'Minimaliziraj'
+Nova inaèica
+Adresa poslužitelja za ažuriranje
+FDM æe automatski provjeravati ima li nova inaèica
+Pomoænik za podešavanje korištenja mreže
+Dobrodošli!
+Ovaj pomoænik pomaže pri optimalnom podešavanju postavki vašeg naèina veze s Internetom. Postavke su vezane uz sam program i postavke preuzimanja.
+Molim, odaberite naèin povezivanja.
+Završi
+Odredite koji naèin veze s Internetom koristite.
+Podesite FDM za optimalan rad s vašim naèinom veze.
+Zadatak
+Vrijeme
+Naredni poèetak
+Zadnji poèetak
+Popis planiranih zadataka ne može biti uèitan. Popis je možda ošteæen ili ga trenutno koristi druga aplikacija.
+Zapis planera ne može biti uèitan
+Popis zadataka ne može biti saèuvana
+Zadatak "%s" je pokrenut. Izvršiti?
+Mijenjanje brzine u "%s"
+Prekini vezu
+Sve veze
+Promijeni naèin veze u
+Ugasi
+Ponovno nastavi
+Odjavi
+Jednom
+Ne
+Po
+Ut
+Sr
+Èe
+Pe
+Su
+Na dane:
+Svakih
+dan(a)
+sata(i))
+Pri pokretanju FDM-a
+Pri uspostavljanju veze
+Pri neuspjelom pokušaju povezivanja
+Kad nema aktivnih preuzimanja
+Kad je brzina prijenosa jednaka ili manja %d BPS tokom %d
+Kad su sva preuzimanja prijavila grešku tokom
+Nikad
+Nepoznato
+Uspješno povezan s "%s"
+Neuspjelo je povezivanje s "%s"
+Pokretanje uspješno
+Nedostatak memorije
+Nemoguæe je pokrenuti
+Dospjeli zadatak æe uzrokovati izlaženje iz programa prilikom pokretanja. Zadatak æe biti zanemaren.
+Najveæi broj pokušaja povezivanja
+Stanka izmeðu pokušaja
+Prekini vezu ako je brzina manja od:
+Pokušaj ponovo
+Ne više od
+Koristi vezu
+Ako je uspješno
+puta
+Prekini sve aktivne veze
+Prekid veze
+Naziv programa:
+Argumenti:
+Tip gašenja:
+Prisilno gašenje programa
+Pokreni program
+Uspostavi vezu
+Prekini vezu
+Promijeni naèin brzine prijenosa
+Ugasi FDM
+Ugasi raèunalo
+Zapoèni preuzimanja
+Zaustavi preuzimanja
+Programi
+Sve datoteke
+Ova moguænost dostupna je jedino u operativnim sistemima Windows 2000, XP i novijima
+Molim, unesite naziv programa
+Molim, odaberite preuzimanja
+Odaberite èinitelje brzine koje želite da ovaj zadatak koristi na poèetku
+Ogranièenje broja neuspjelih pokušaja spajanja
+Vremenski razmak izmeðu neuspjelih biranja
+Uspostavljane veze s manjom brzinom od odreðene
+Najmanja željena vrijednost brzine veze
+FDM æe pokušati ponovo uspostaviti prekinutu vezu
+Ogranièenje najveæeg broj neuspjelih pokušaja spajanja
+Odredite željena preuzimanja
+Popis dostupnih preuzimanja
+Dodaj oznaèena preuzimanja u popis zadataka
+Ukloni odabrana preuzimanja iz popisa zadataka
+Odredite program koji želite pokrenuti
+Pronaðite program na vašem raèunalu
+Odredite argumente programa
+Odredite tip prekida
+Prisilno gašenje raèunala. Korisno u sluèaju dodatnih upita ili ne gašenja programa. Svi nepohranjeni podaci æe biti izgubljeni.
+Odredite akciju planera
+FDM prekida sve aktivne veze
+Odredite koje veze æe biti prekinute
+Na dane:
+nedjelja
+ponedjeljak
+utorak
+srijeda
+èetvrtak
+petak
+subota
+Na dogaðaj
+Tokom
+Niska brzina:
+min.
+minute(a)
+sata(i)
+dana
+Kad je brzina prijenosa preniska
+Kad su sva preuzimanja prijavila grešku
+Molimo odredite dane
+Pokreni zadatak u
+Odredite vrijeme poèetka zadatka
+Pokreni zadatak na dan
+Odredite datum poèetka zadatka
+Pokreni zadatak na odreðene dane u tjednu
+Pokreni zadatak svake nedjelje
+Pokreni zadatak svakog ponedjeljka
+Pokreni zadatak svakog utorka
+Pokreni zadatak svake srijede
+Pokreni zadatak svakog èetvrtka
+Pokreni zadatak svakog petka
+Pokreni zadatak svake subote
+Pokreni zadatak periodièno
+Ovo polje dozvoljava unos vremenskog intervala u minutama, satima i danima
+Pokreni zadatak na odreðenu radnju
+Odredite radnju
+Unesite vremenski interval
+Unesite najmanju željenu brzinu
+Potrebna je potvrda za izvršenje zadatka
+Èekaj potvrdu tokom
+s.
+Ako je oznaèeno, FDM æe tražiti potvrdu prije izvršenja zadatka
+Ako je oznaèeno, FDM æe èekati potvrdu odreðeno vrijeme. Ako potvrda nije dana u tom vremenu, zadatak æe se izvršiti.
+Adresa:
+Izrada popisa preuzimanja
+Povezivanje s poslužiteljem
+Pokušaj korištenja korisnièkog imena i lozinke pohranjenog u Upravljaèu stranica
+Dobivanje podataka o datotekama s poslužitelja
+Veza s poslužiteljem je prekinuta. Pokušaj obnavljanja
+Izrada popisa
+Utvrðivanje velièine i datuma zadnje izmjene datoteka
+Korištenje ovog parametra može znaèajno umanjiti brzinu
+Provjera velièine i datuma datoteka HTTP poslužitelja
+Naziv stranice
+Veze
+Prijava
+Grupa
+Popis stranica ne može biti uèitan. Možda je popis ošteæen ili ga trenutno koristi druga aplikacija.
+Nemoguæe pohraniti popis stranica
+Najveæi broj istovremenih veza:
+Grupa za nova preuzimanja s ove Internet adrese:
+Koristi FTP pasivni naèin
+Molim, unesite Internet adresu
+Internet adresa tog naziva veæ postoji. Molimo unesite drugi naziv.
+Broj veza mora biti veæi od 0
+Molim, odaberite grupu
+Unesite Internet adresu
+Ogranièenje najveæeg broja istovremenih veza s poslužiteljem
+Prekid automatske pohrane preuzetog u standardnu grupu
+Pitaj korisnika
+Ne pitaj ponovo
+Greška pri pohranjivanju
+Datoteka "%s" veæ postoji na disku. Što želite napraviti?
+Ovaj izbor prihvati kao standardni
+Natpiši postojeæu datoteku
+Preimenuj ovu datoteku
+Nastavi preuzimanje. Preuzimanje æe se nastaviti na poziciji pauziranja postojeæe datoteke
+Zaustavi ovo preuzimanje
+Da
+Ne
+Preuzimanje
+je izbrisano. Izbrisati ovu datoteku s diska?
+Molimo unesite korisnièko ime i lozinku
+Prijava na "%s"
+Slanje poslužitelju korisnièkog imena i lozinke koje ste odredili.
+Ne povezuj se s ovim poslužiteljem.
+Velièina datoteke "%s" je promijenjena na poslužitelju. Što èiniti?
+Pokreni preuzimanje od poèetka.
+Podesi preuzimanje na novu velièinu. Nije preporuèljivo.
+Molim, prièekajte
+Ažuriraj
+Opis
+Ažuriraj koristeæi:
+Ažuriranje
+Vi veæ koristite najnoviju inaèicu programa!
+Preuzimanje
+Inaèica %s inaèica %s je dostupna
+Potpuna distributivna inaèica %s (%s)
+Ažuriraj na inaèicu %s
+Ažuriraj na inaèicu %s (%s)
+FDM treba ponovno pokrenuti. Pokrenuti sada?
+Ažuriranje dovršeno
+Nemoguæe pokrenuti ažuriranje
+Odredite tip ažuriranja ovdje
+Ažurirati FDM koristeæi cijelu distribuciju
+Ažurirati FDM koristeæi distribuciju ažuriranja
+Više obavijesti o procesu ažuriranja
+Što je novo u ovoj inaèici?
+Pokreni ažuriranje sada
+Odustajem od ažuriranja i zatvori ovaj dijalog
+Stvori preuzimanja
+Odabir sadržaja
+Oznaèeni odabir
+Popis dodatnih preuzimanja
+Odaberite stavke za dodavanje u popis preuzimanja
+Oznaèite stavke koje ne želite dodati u popis preuzimanja
+O programu
+Autorsko pravo (c)
+Sva prava pridržana
+Registriran na:
+Veæ je ažurirano. Potrebno je ponovno pokretanje
+Neispravno korisnièko ime ili lozinka
+Nemoguæe uèitati datoteku prošlih zadataka/preuzimanja
+Nemoguæe pohraniti datoteku prošlih zadataka/preuzimanja
+Preuzimanja Web-a
+Preuzimanje Web-a
+Stablo Web stranica
+Novo preuzimanje
+Postavke
+Nastavi preuzimanje
+Zaustavi preuzimanje
+Planiraj preuzimanje
+Izbriši
+Otvori Web stranicu u pregledniku
+Automatski pokreni preuzimanja
+Internet adresa
+Datoteke
+Izbrisati i preuzeto?
+Nemoguæe uèitati popis Internet adresa
+Nemoguæe pohraniti popis Internet adresa
+Internet adresa ili HTTP poslužitelja kojeg želite preuzeti
+Internet adresa ili HTTP poslužitelja èije je preuzimanje zapoèelo
+Naziv mape u koju se pohranjuju preuzimanja
+Izlazna mapa:
+Web stranice
+Moguænosti
+Tipovi datoteka s HTML kodom:
+Preuzmi stilove (css) Web stranica
+Preuzmi Web stranice s drugih Internet adresa
+Slike
+Preuzimanje slika s drugih Internet adresa
+Preuzmi slike koje s drugih Internet adresa
+Dubina preuzimanja:
+Ekstenzije datoteka Web stranica sa HTML kodom. Web stranice æe biti pregledane zbog moguæih Internet adresa slika koje se nalaze na drugim stranicama
+Ako je oznaèeno, stilovi web stranica (CSS) æe biti takoðer preuzeti. Preporuèeno
+Ako nije oznaèeno, Web stranice s vezanih Internet adresa neæe biti preuzete.
+Ako je oznaèeno, slike s vezanih Internet adresa æe biti preuzete
+Ako nije oznaèeno, slike s vezanih Internet adresa neæe biti preuzete
+Npr.: Preuzimate http://primjer.com/index.html, a na njoj je veza na http://primjer.com/nesto.html. Ta, druga Internet adresa je dubina 1. Postavljanje dubine na 0 rezultirat æe preuzimanjem samo poèetne stranice.
+Preuzimanje datoteka s drugih Internet adresa
+Preuzmi datoteke koje su vezane na drugim Internet adresama
+Datoteke tipa
+Filtar
+Preuzmi
+Nemoj preuzeti
+Datoteke tipa:
+Preuzimanje datoteke s Web stranica
+Preuzimanje datoteke s drugih Internet adresa
+Zanemarivanje datoteka odreðenog tipa
+Ako je oznaèeno, datoteke navedenog tipa, biti æe preuzete
+Ako je oznaèeno, datoteke navedenog tipa, neæe biti preuzete
+Postavke
+Postavke
+Neuspjeli pokušaj pokretanja regedit.exe
+Došlo je do greške prilikom izvoza postavki
+Došlo je do greške prilikom uvoza postavki
+FDM registrirane datoteke
+Ne preuzimaj slijedeæe tipove slika
+Slike sljedeæeg tipa:
+Zanemarivanje slika odreðenog tipa.
+Ako je oznaèeno, slike sa dolje odreðenim ekstenzijama biti æe preuzete.
+Ako je oznaèeno, slike sa dolje odreðenim ekstenzijama neæe biti preuzete.
+Ne preuzimaj ovo i izbriši!
+Poslužitelj ne podržava nastavljanje preuzimanja. Pokrenuti ponovo?
+Neuspjelo otvaranje Internet adrese
+Neoèekivana greška prilikom pokušaja pisanja u registar
+Hvala na registriranju! Molimo ponovno pokrenite FDM
+Preuzmi s FDM
+Preuzmi Web s FDM
+Dodaj FDM u kontekstni izbornik Internet Explorera
+Oznaèeno, dodaje "Preuzmi s FDM" i "Preuzmi Web s FDM" u padajuæem izborniku pod desnim klikom miša.
+Uspori preuzimanja pri aktivnosti preglednika
+Smanji za jednu razinu
+Koristi Malu brzinu
+Automatsko smanjenje brzine pri pregledavanju Internet stranice. Ubrzava pregledavanje stranica, ali usporava preuzimanje datoteke.
+Brzina æe se smanjiti za jednu razinu. Velika -> Srednju, Srednja -> Malu.
+Brzina preuzimanja æe biti postavljena na Malu.
+Važi za
+važi za pod-domene
+Stvaranje zapisa preuzimanja s HTTP-a
+Stvaranje zapisa preuzimanja s HTTPS-a
+Stvaranje zapisa preuzimanja s FTP-a
+Stvaranje zapisa preuzimanja s poslužiteljovim pod-domenama. Npr.: Za Internet adresu http://stranica.com biti æe zapisani i http://neka.stranica.com
+Molimo odaberite barem jedan protokol
+Najveæi broj istovremenih preuzimanja
+Ogranièenje broja istovremenih preuzimanja
+Pokreni ponovno preuzimanje
+Jedan blok više
+Jedan blok manje
+; context: [section x] - Stopped
+Zaustavljeno
+; tray menu
+Košara
+;
+Mapa Opera preglednika nije pronaðena. Želite li mapu pronaæi sami?
+Mapa Netscape preglednika nije pronaðena. Želite li mapu pronaæi sami?
+Nemoguæe dodati nadzor za Opera preglednik.
+Nemoguæe ukloniti nadzor za Opera preglednik.
+Nemoguæe dodati nadzor za Netscape preglednik.
+Nemoguæe ukloniti nadzor za Netscape preglednik.
+FDM æe nadzirati klikove za preuzimanje u Opera pregledniku.
+FDM æe nadzirati klikove za preuzimanje u Netscape pregledniku.
+; create download dlg
+Provjeri velièinu
+; request a size of a download
+Provjeravanje...
+Provjeri velièinu preuzimanja na ovom poslužitelju
+Da za sve
+Ne za sve
+Detaljan zapis preuzimanja
+Prikaz svih odgovora poslužitelja.
+Ove promjene æe nastupiti nakon ponovnog pokretanja preglednika.
+Popis zadataka
+Popis datoteka
+Popis Internet adresa
+Popis stranica
+Brisanje preuzimanja
+Stvaranje popisa preuzimanja
+Grupno preuzimanje
+Od:
+Do:
+Korak:
+Sekvence, bajta:
+Rezultati
+Primjer:
+Poèetni broj sekvence
+Završni broj sekvence
+Korak sekvence. Primjer, ako je odreðen korak 10, tada æe sekvenca biti 0, 10, 20, 30,...
+Brojanje bajta u sekvencama. Primjer, ako iznosi 1, tada æe sekvenca biti 1, 2, 3,... Ako iznosi 2, tada æe sekvenca biti 01, 02, 03,...
+Pregled sekvence
+Dopusti preuzimanje Internet Exploreru ako se otkaže preuzimanje.
+Preuzimanja preglednikom, iako je odabrana tipka "Odustajem"
+Završni broj sekvence mora biti veæi od poèetnoga
+Molimo koristite (*) u Internet adresama za odreðivanje predloška
+Dodaj tip datoteke ako ga nema
+Unos tipa datoteke kada nedostaje npr., ako je datoteka nazvana "dopis", a vi odredite tip "txt", dobit æe te "dopis.txt"
+Prikaži velièinu samo u bajtima
+Izbor prikaza velièine datoteke u bajtima umjesto u Kb ili Mb
+Izvrši antivirusnu provjeru
+Argumenti:
+Tipovi:
+Automatska provjera preuzimane datoteke antivirusnim programom.
+Odredite antivirusni program.
+Odredite argumente antivirusnog programa.
+Odredite tipove preuzetih datoteka koje æe biti kontrolirane.
+Molim, unesite naziv antivirusnog programa.
+Naziv nije ispravan. Molimo provjerite.
+Pokreni antivirusni program
+Deaktiviraj zadatak nakon pokretanja.
+Izbriši zadatak nakon pokretanja.
+Automatsko deaktiviranje zadatka nakon njegovog izvršenja.
+Automatsko brisanje zadatka nakon njegovog izvršenja.
+Kreni
+Natrag
+Automatski unesi naziv datoteke.
+Automatsko stvaranje naziva datoteke preuzimanja.
+Pohrani kao "htm" tip.
+Pohrana Web stranice kao "htm" tip.
+Kliknite na ovu tipku da bi izraèunali ukupnu velièinu svih preuzimanja.
+Zadrži strukturu mapa s poslužitelja.
+Zadržavanje izvorne strukture mapa kao na poslužitelju. U protivnom sve datoteke æe biti pohranjene u istu mapu
+Izabrali ste drugu mapu. Da li želite postaviti ovu mapu kao zadanu mapu ovoj grupi? Zadanu mapu možete promijeniti i u svojstvima grupe.
+; === ADDED LINES ===
+Preuzimanje s te Internet adrese veæ postoji. Što želite uèiniti?
+Nastavi
+Pokreni preuzetu datoteku
+Inaèica
+Kliknite i pošaljite e-poštu
+Kliknite i preuzmite zadnju inaèicu
+Pažnja: Ovaj raèunalni program je zaštiæen zakonom o autorskim pravima i meðunarodnim ugovorima. Neovlašteno umnažanje ili distribucija ovog programa, ili bilo kojeg njegovog dijela, mogu rezultirati kaznama, a prekršitelj æe biti tužen i zatražena najveæa moguæa zakonska kazna.
+; === new version ===
+Preuzmi sve s FDM
+Dodaj u popis preuzimanja
+Ukloni odabrano
+Ovo je popis Internet adresa koji æe biti dodan
+Kliknite tipku da uklonite popis svih adresa
+Nema mape dodataka Firefox preglednika. Želite li mapu pronaæi sami?
+Nemoguæe instalirati dodatak za Firefox preglednik.
+Nemoguæe deinstalirati dodatak za Firefox preglednik.
+FDM æe nadzirati klikove za preuzimanje u Mozilla Firefox pregledniku.
+Preuzimanje oznaèenog s FDM-om
+Povezivanje s davateljem
+Web stranice
+Aktivna preuzimanja
+Trenutno ne postoje aktivna preuzimanja
+Obavijesti
+Koristi sistemske natuknice
+Istek vremena
+Želite li natuknice koje obavještavaju o završetku  ili zaustavljanju preuzimanje. Samo za Win 2000, XP ili novijima
+Automatsko zatvaranje natuknica nakon isteka danog vremena
+Zrcala
+Automatski traži zrcalne adrese
+Najveæi broj zrcala
+Izraèunaj brzinu zrcala
+Izraèunaj brzinu svakih:
+Automatsko traženje zrcalne adrese preuzimanja.
+Ogranièenje broja zrcalnih adresa po preuzimanju. Time se smanjuje vrijeme izraèuna brzine prijenosa.
+Izraèun brzine svakog zrcalnog poslužitelja.
+Automatski izraèunava brzinu zrcalnog poslužitelja kroz odreðeni vremenski interval.
+Ne traži ako je velièina datoteke manja od
+FDM neæe tražiti zrcala ako je velièina datoteke manja od date velièine.
+Ne traži ako nije poznata velièina datoteke (Preporuèeno).
+Dodaj zrcalo
+Traži zrcala
+Unesite adresu zrcala za ovo preuzimanje
+Traži zrcala za ovo preuzimanje na FileSearching.COM
+Popis adresa zrcala
+Brzina poslužitelja
+U uporabi
+Mjeri brzinu zrcala
+Mjeri brzinu zrcala poslužitelja
+Obavijesti preuzimanja
+Èekanje...
+Adresa zrcala za preuzimanje
+Velièina datoteke nadilazi 2GB. Takva preuzimanja su podržana jedino kroz FTP.
+;
+;
+; #NEW LINES (BUILDS NEWER THAN 195)#
+;
+;
+; BEGIN: New Download page
+Preuzimanja
+Automatski odredi grupu preuzimanja
+Grupa:
+Pohrani preuzimanja u mapu grupe
+Grupe preuzimanja su odreðene tipom datoteka ili postavkama Upravljaèa stranica.
+Odreðivanje zadane grupe ruèno.
+Ne pohranjuj u zadanu mapu svoje grupe. (v. svojstva grupe).
+Odredite zadanu mapu ruèno.
+; END
+; BEGIN: Monitoring page
+Tihi nadzor.
+Ako je oznaèeno, neæe se prikazivati dijalog novog preuzimanja pri dodavanju preuzimanja iz preglednika
+Izbor oblika
+Odaberite stavke koje æe se prikazivati u kontekst izborniku preglednika
+; END
+Izbor stavki za prikaz
+Barem jedna stavka mora biti odabrana
+Koristi zvukove
+Zvuèno oznaèavanje akcija FDM-a (Npr.:, Završetak preuzimanja).
+Izaberite zvukove za svaki dogaðaj
+; BEGIN : Customize sounds dialog
+Zvukovi
+Odaberite zvuk
+Ukloni
+Provjeri
+Popis dogaðaja i zvukova FDM-a. Ovdje možete odrediti koje zvukove i za što æe ih FDM koristiti kao zvuènu obavijest.
+Dodavanje preuzimanja - Oglašava se kada je jedno ili više preuzimanja dodano u popis.
+Preuzimanje završeno - Oglašava se kada je preuzimanje uspješno završeno.
+Preuzimanje neuspjelo - Oglašava se kada se pojavi greška pri preuzimanju.
+Uspješno povezivanje - Oglašava se kada Planer uspješno uspostavi vezu naredbom "Uspostavi vezu"
+Neuspješno povezivanje - Oglašava se kada Planer nije uspješno obavio "Uspostavi vezu"
+Odreðivanje zvuka za odabrani dogaðaj
+Ne oglašavaj se na oznaèeni dogaðaj
+Provjeri odabrani zvuk
+Dogaðaj
+Zvuèna datoteka
+Bez zvuka
+Preuzimanje dodatno
+Preuzimanje završeno
+Preuzimanje neuspjelo
+Uspješno povezivanje
+Neuspješno povezivanje
+Zvuène datoteke
+; END
+Traženje zrcala...
+Mjerenje brzina zrcala...
+Veæ je obavljena potraga za zrcalima
+Spajanje pretraženog poslužitelja...
+Dobivanje rezultata...
+Pronaðeno je %d zrcala
+Traženje zrcala je završeno
+Pokušaj na drugom zrcalu...
+Zrcala nisu pronaðena
+Neuspjelo
+Brzina zrcala je izmjerena
+; BEGIN: History page
+Preuzimanja
+Pohrani prošle adrese i mape
+Pohrani samo prošle mape
+Zadrži zapise unutar
+Najveæi broj zapisa
+Obriši stare zapise
+FDM æe pohraniti popis prošlih Internet adresa i mapa koji su uneseni
+FDM æe pohraniti jedino popis prošlih mapa
+FDM æe izbrisati zapise koji su stariji od odreðenog perioda vremena
+Najveæi broj unosa prošlih preuzimanja. Kad broj unosa prekoraèi zadani, FDM æe izbrisati najstariji unos
+Izbriši sve unose iz popisa prošlih preuzimanja
+; END
+Uvezi
+Izvezi
+Popis Internet adresa
+Popis preuzimanja
+Tekstovne datoteke
+Datoteka ne može biti otvorena
+Izvezi sva preuzimanja
+Izvezi sva preuzimanja iz liste
+Izvezi odabrana preuzimanja
+Ne izvozi završena preuzimanja
+Pridodaj ako datoteka veæ postoji
+Neispravan naziv grupe. Molimo ne koristite / ili \ simbole.
+Zatvori nakon završetka
+; BEGIN : Downloads History window
+Dodano
+Pohranjeno u
+; END
+Koš
+; BEGIN: Recycle Bin
+Postavke
+Isprazni koš
+;END
+;BEGIN: Recycle Bin properties
+Ne zamjenjuj preuzimanja u košu
+Zadrži najviše
+Preuzimanja
+Ne zadržavaj završena preuzimanja
+Traži potvrdu pri brisanju preuzimanja
+Postavke koša
+Pohrana izbrisanih preuzimanja u koš
+Ogranièenje broja datoteka u košu
+Najveæi broj datoteka u košu:
+Završena preuzimanja ne pohranjuj u koš nakon brisanja
+Potvrðivanje brisanja preuzimanja
+;END
+Prethodno stanje
+Vraæanje preuzimanja...
+; History subitems
+Danas
+Juèer
+Zadnji tjedan
+Zadnji mjesec
+U periodu...
+; end
+Obriši stare zapise
+Pohrani zapis prošlih preuzimanja
+Pohrani zapis jedino završenih preuzimanja
+Pohrana popisa prošlih preuzimanja.
+Pohrana popisa prošlih završenih preuzimanja.
+Postavke zapisa prošlih preuzimanja
+Izrada popisa prošlih preuzimanja...
+; Download Was deleted
+Izbrisano
+Izaberite vremenski period
+Pronaði
+Traži sljedeæe
+Pojam
+; BEGIN : Find dialog
+Traži u
+Lokalni naziv datoteke
+Odredite što želite pronaæi
+Traži u djelu adrese
+Traži u cijeloj adresi
+Traži u komentaru preuzimanja
+Traži u mapi preuzimanja na lokalnom disku
+Dodatne postavke potrage
+; ADVANCED settings
+Traži u
+popisu preuzimanja
+popisa prošlih preuzimanja
+datumu
+Podesi
+košu
+Traži odreðenu velièinu datoteke
+Najmanje
+Najviše
+Traži u popisu preuzimanja
+Traži u popisa prošlih preuzimanja
+Traži preuzimanja koja zadovoljavaju zadani period vremena.
+Podesi period vremena
+Traži u košu
+Traži datoteke koje zadovoljavaju odreðenu velièinu.
+Najmanja tražena velièina
+Najviša tražena velièina
+ovoj grupi:
+Izaberite grupu u kojoj treba tražiti
+; END
+Traženje preuzimanja...
+Ni jedan unos nije pronaðen
+Nema dodatnih pronaðenih unosa
+Traženje završeno
+Adresu u meðuspremnik
+ZIP pregled
+Barem jedna datoteka mora biti odabrana
+Možda je datoteka koju preuzimate je ZIP arhiv. Želite li ju pregledati?
+Audio/Video pregled
+Nemoguæe otvoriti datoteku.
+Nepoznati tip medija.
+Molim, instalirajte DirectX 8.0 ili noviji za korisštenje ove moguænosti. Najnoviji DirectX je na microsoft.com.
+Obavijesti o mediju
+Velièina:
+Dostupno:
+Trajanje:
+Ugasi zvuk
+Produciraj
+Pauziraj
+Filtar
+Tipovi [odvojeni razmakom, Npr.: zip rar arj]:
+Ukloni datoteke tipa
+Jedino ostavi datoteke tipa
+Niz podataka argumenta ne sadrži %file% makro. Ovaj makro je neophodan za  odreðivanje datoteke koju æe antivirusni programa pregledati.
+Ipak nastaviti?
+Pažnja
+Koristi atribut skrivanja za nedovršena preuzimanja
+Nakon završetka preuzimanja, nazivu datoteke dodaj komentar 
+Ne pohranjuj stranice s poslužitelja
+Pohrana samo slika i datoteka na vaše raèunalo.
+Omoguæi predpregled ZIP arhiva
+Pregledavanje sadržaja ZIP arhiva na poèetku preuzimanja. Omoguæuje preuzimanje samo dijela datoteke.
+Kolièina:
+Automatski pokreni preuzimanje
+Automatsko pokretanje svakog novog preuzimanja
+Molimo odaberite datoteke za preuzimanje
+Unesite alternativne adrese za ovo preuzimanje
+Nema predpregleda ubuduæe
+Ugasili ste ZIP predpregled. Vratiti ga možete u Opcije -> Postavke preuzimanja (Ctrl+O) -> Preuzimanja i "Koristi ZIP pregled".
+Popis zanemarenog
+Popis Web stranica koje æe biti zanemarene pri preuzimanju.
+Podmape
+Dodaj
+Zanemari i sve podmape
+; Proxy tab new settings
+Vrati prijašnje stanje prekinute veze
+Velièina povrata
+bajta
+Omoguæavanje povratka na prijašnje stanje. Ova moguænost pomaže vam da zaštite svoja preuzimanja od ošteæenja.
+Što je povrat veæi, to je rad sigurniji. Preporuèena velièina je 3000 bajta. Poveæajte ovu vrijednost ako preuzimanje ipak biva ošteæeno.
+; downloader options -> monitor tab
+Ne nadziri datoteke manje od
+Koristite ovu opciju ako želite da FDM zanemari datoteke manje od zadane velièine
+Kilobajta
+Pažnja! Previše unosa u košu. Ovo može bitno utjecati na brzinu i kvalitetu rada programa. Preporuèuje se pražnjenje koša. Isprazniti?
+Ne provjeravaj ovo ubuduæe
+Pažnja! Popis prošlih preuzimanja je prevelik. Ovo može bitno utjecati na brzinu i kvalitetu rada programa. Preporuèuje se brisanje prošlih popisa. Izbrisati?
+poslužitelj ne može garantirati svoje moguænosti nastavljanja preuzimanja. Odgovor je neispravan.
+Kopiraj u meðuspremnik
+; general settings | skins page
+Ruha
+Ruho
+Ruho koristi vlastite ikone
+Ruho koristi vlastite bitmape
+; default skin
+<default>
+Promjene æe nastupiti nakon ponovnog pokretanja Free Download Managera.
+Obavijesti o preuzimanjima u toku
+Zanemari datoteke sljedeæeg tipa:
+Popis tipova datoteka za zanemarivanje
+Nema aktivnih preuzimanja
+Oglasi se kada sva preuzimanja završe
+Popis adresa iz meðuspremnika
+Lozinke
+Upravljaè lozinki
+; Save password dialog
+Pohraniti lozinku?
+Free Download Manager može pohraniti lozinke za svaki poslužitelj èime se izbjegava unosa lozinke pri svakom novom povezivanju.
+Pohraniti ovu lozinku?
+Ne predlaži pohranjivanje lozinki ubuduæe!
+; Site Manager options | Passwords tab
+Koristi Upravljaè stranica za pohranu mojih lozinki
+Pitaj me za pohranu lozinki
+Ne predlaži pohranu lozinki
+Izbriši sve lozinke prije izlaza iz programa
+Izbriši sve lozinke
+; create new HTML Spider task
+Automatski izbriši završena preuzimanja (preporuèeno)
+Automatsko brisanje preuzimanja Web stranica. Ovo ubrzava preuzimanje velikih stranica.
+Promjene æe nastupiti nakon ponovnog pokretanja Free Download Managera
+Novi stil
+Stari stil
+Naziv mape je neispravan
+Sakrij plutajuæe okno u maksimiliziranom naèinu rada
+Sakrivanje plutajuæe okno pri naèinu rada u punom zaslonu.
+datoteka za izvršenje.
+Pokrenuti?
+Nakon preuzimanja, pokreni ili otvori datoteku
+Molim, koristite (*), (*A) ili (*a) zamjenske znake pri odreðivanju predloška adresa
+Potraga za  zrcalom poslužitelja:
+Hibernacija
+Spreman
+Zapamti moj izbor
+Predloži izmjenu standardne mape grupe
+Pohrani datoteku
+Otvori datoteku
+Pohrani datoteku i otvori je
+Naèin preuzimanja:
+Nek se zna...
+Web veza na Free Download Manager
+Dragi korisnièe!
+Free Download Manager je program ponuðen vam bez naplate. Koristite ga koliko želite.
+Ipak, ako vam se èini Free Download Manager koristan, molimo vas postavite vezu na svojoj Web stranici. Tako se širi dobar glas o Free Download Manager-u.
+Unaprijed vam hvala na pomoæi,\nFree Download Manager razvojni tim.
+Podsjeti me unutar 3 dana
+Podsjeti me pri slijedeæem pokretanju Free Download Manager-a.
+Ne prikazuj više ovo okno!
+Prikaz veze HTML koda
+Veza HTML koda
+Više primjera
+Kopiraj u meðuspremnik
+Sakrij
+; "Traffic usage mode has been changed" window
+Brzina preuzimanja se promijenila
+Vi odabirete brzinu preuzimanja.\nFree Download Manager brzina se dijeli u tri stupnja:
+Ovim naèinom Free Download Manager æe preuzimati najbrže što je moguæe.
+Ovim naèinom Free Download Manager æe preuzimati srednjom brzinom pa ostaje dovoljno vremena za kretanje Internetom uz istovremeno brzo preuzimanje.
+Ovim naèinom Free Download Manager æe preuzimati nižom brzinom. Tako se možete kretati Internetom bez vidljivog smanjenja brzine uèitavanja stranica.
+;
+Preimenuj nakon ponovnog pokretanja
+Unesite vrijednost manju od %d
+; export/import downloads
+Popis adresa i datoteka
+Popis datoteka preuzimanja
+;
+Eksport moguænosti
+;
+Postavi isti datum kao na poslužitelju
+Postavljanje istog datum datoteke kao na poslužitelju
+Stvori datoteku opisa
+Stvaranje datoteke naziva "*.dsc.txt" (* - zamjenjuje izvorni naziv) koja sadrži kratak opis preuzete datoteke (komentar + adresu + datum). To je moguæe samo ako preuzeta datoteka sadrži komentar.
+Datoteka je preuzeta s
+Ne prenosi datum izvorne datoteke s poslužitelja
+Ovaj izbor poveæava brzinu pokretanja FTP preuzimanja. FDM koristi 'SIZE' naredbu umjesto 'LIST'.
+Ne pohranjuj zapis preuzimanja
+Odabirom ove moguænosti Free Download Manager æe se brže pokretati i gasiti te trošiti manje memorije.
+;
+Zapis prošlih preuzimanja
+Izvezi sve unose
+Izvoz svih unosa s popisa
+Izvezi oznaèene unose
+Izvoz oznaèenih unosa s popisa
+;
+HTML datoteke
+;
+Free Download Manager popisa prošlih preuzimanja
+Internet adrese preuzimanja
+Preuzmi u datoteku
+Velièina datoteke
+Preuzimanje je dovršeno
+Preuzimanje je obrisano
+;
+Pohranjuje se u
+Velièina datoteke
+Podrška nastavku
+Nakon završetka ili stanke, zatvori ovaj dijalog.
+Otvori
+Želite li vidjeti ovo okno ponovo?
+Da, ali iznimno sakrij okno za ovo preuzimanje
+Ne, ne prikazuj okno napretka za bilo koje preuzimanje.
+Da, ali iznimno sakrij okno za ovo  preuzimanje
+Upotreba tipke 'SHIFT' obrisat æe pohranjeno preuzimanje\nŽelite li to?
+Izbor grupe
+Postava temeljne mape grupa
+Postavljanje temeljne mape grupa.\nPromjene važe nakon pokretanja novog preuzimanja.
+Zadnja preuzimanja
+(prazno)
+Zadrži sva preuzimanja
+Prikaz okna napretka preuzimanja
+FDM æe prikazati okno s obavijestima o preuzimanju za svako novo preuzimanje.
+; general settings | misc page
+Vrijeme èekanja potvrde naredbe istièe nakon:
+Nastavi preuzimanje
+Upitaj za naèin gašenja
+Èekanje na potvrdu naredbe "Alat | Prekini vezu kad je gotovo".
+Èekanje na potvrdu naredbe "Alat | Ugasi FDM kad je gotovo".
+Èekanje na potvrdu naredbe "Alat | Ugasi raèunalo kad je gotovo".
+Èekanje na potvrdu pokretanja preuzimanja datoteke kad je preuzimanje završeno.
+FDM æe upitati za naredbu gašenja "Alat | Ugasi raèunalo kad je gotovo".
+Ne traži potvrðivanje
+; 5 sekunda, 10 sekunda, ...
+%d sekunda
+Saèekaj potvrdu
+Zanemari stranice u ovoj mapi
+Preuzmi stranice samo iz ove mape
+Ukljuèi i podmape
+Zanemari sve stranice ove mape.
+Preuzimanje stranica samo iz ove mape zanemarujuæi ostale.
+Web preuzimanje æe se izvršiti samo unutar odabrane mape.
+Unesite adresu mape.\nNpr.: "http://site.com/docs/".
+Tip
+Zanemari
+Samo
+Broj sekvenci:
+Dodijeli
+Dodjela broja stavki s popisa.\nNpr.: 1-100, ili 1-100s2w3.
+Odreðivanje broja u oknu dijaloga.
+Jedna
+Broj
+Dodjela broja
+Greška u sintaksi
+Raspakiravanje arhiva
+Raspakiraj
+Raspakiravanje
+Odredišna mapa
+Ne mogu raspakirati. Nepoznat oblik arhiva..
+Preuzimanja ovog mjeseca\n(%s isto kao do sada).
+Brzina preuzimanja
+Nakon završetka zadatka onemoguæi naredbu Alati...
+Automatsko onemoguæavanje Alati | "nakon završetka" nakon izvedbe zadatka. Tako æe se naredba izvršiti samo jednom.
+; %s
+; 1st - naziv datoteke
+; 2nd, 3rd - obavijesti o datoteci (velièina + datum).
+"%s" datoteka veæ postoji.\n\nZamijeniti\n(%s)\n\ns ovom novom\n(%s)?
+Da za sve
+Zanemari
+Zanemari sve
+Nepoznat oblik arhiva
+Posjeti Web stranicu
+Instaliraj paket
+Standardno, FDM podržava samo ZIP, RAR i ARJ arhive.\nMožete instalirati paket dodatnih moguænosti FDM-a (veza s Internetom se podrazumijeva).
+FDM paket dodatnih arhivskih moguænosti
+Premjesti gore
+Premjesti dole
+Premjesti oznaèena preuzimanja gore
+Premjesti oznaèena preuzimanja dolje
+Cjelovitost datoteke
+Neke Internet adrese pridodaju poseban kontrolni broj, 'CRC' datoteka raspoloživih za preuzimanje, što osigurava provjeru cjelovitosti datoteke koju preuzimate. Unesite taj broj i FDM æe provjeriti cjelovitost datoteke.
+Algoritam
+Provjeri CRC
+Zalijepi iz meðuspremnika
+Provjera
+Provjeravanje CRC-a preuzete datoteke...
+Provjera CRC-a preuzete datoteke potvrdila je ispravnost
+Provjera CRC-a preuzete datoteke nije ispravna
+U datoteci nema grešaka.
+Datoteka je ošteæena. Možda se to dogodilo tokom preuzimanja. Treba ga ponoviti.
+Ne prikazuj okno obavijesti o uspješnoj provjeri CRC-a
+Ne mogu naæi antivirusni program koji ste naznaèili.\nMolim, naðite ga sami.
+Velièina datoteka nije jednaka
+Pohrani kao:\n(Uzorak: Datoteka(*)(*A)(*a).txt)
+Greška pri pohrani predloška.\nProvjerite odgovara li izvorniku.
+Nakon izvršenja
+Nakon izvršenja (sve gotovo ili greška)
+Aplikacije
+Što je to?
+Mišljenje
+;
+Dragi narode!
+Free download Manager (FDM) je jedna od najomiljenijih aplikacija za preuzimanje na svijetu. Veæ je koriste milijuni, ali kako smo postali socijalni, želimo i više!
+Ako ste suglasni da je to program kojeg se mora imati, lijepo vas molimo da pripomognete širenju dobrog glasa postavljanjem veze na svoj blog, Web ili osobni prostor kao npr. Mojprostor/MSN.
+; %s nastat æe "FDM zujalica" 
+Službeno %s poèeli smo 16. 08. 2006. Želja nam je napraviti najrasprostranjeniji Internet alat nakon FireFox-a!
+FDM zujalica
+; %s æe se zamijeniti s "blog" 
+Možete pogledati napredak FDM-a na našem %s.
+blog
+Unaprijed hvala na pomoæi,\nFree download Manager razvojni tim
+Ne prikazuj ovo okno ponovo. Zapamtio sam.
+Pridruženje zujalici
+Ne, hvala
+FDM provjera
+Nakon preuzimanja prikaži moguænosti 
+Automatsko aktiviranje "Moguænosti" nakon završenog preuzimanja.
+Izmjena mrežne prijave u Web pregledniku
+Naznaka Internet adresama koje posjeæujete da je FDM vaš program. Pažnja, upotreba ove moguænosti može uzrokovati blokadu nekih Internet adresa.
+Zlonamjerno?
+Oznaèite ako netko od FDM korisnika utvrdi da preuzimanje sadrži virus/adware/spyware/idr.
+U redu, nitko od FDM korisnika nije utvrdio da preuzimanje sadrži virus.\n\nIpak to nije garancija pa preporuèamo upotrebu antivirusnog programa.
+; zadrži sve %xxx, \n kako je.
+%d od %d FDM korisnika utvrdi(o)lo je da preuzimanje sadrži zlo.\nProsjeèna ocjena preuzimanje je %.*g.\n\nPrikaži moguænosti ovog preuzimanja?
+Provjeri svako novo preuzimanje, nije li zaraženo virusom
+Automatska provjera prije preuzimanja postoji li ocjena.
+Prikaži moguænosti preuzimanja
+Automatsko aktiviranje "Moguænosti" preuzimanja.
+Provjera da li je preuzimanje oznaèeno kao zaraženo (v. "Moguænosti")
+U redu, nitko nije prijavio zloèestoæu
+Pažnja! Postoji prijava o preuzimanju kao zaraženom
+Zatvori
+Uèitaj
+Ne preuzimaj ovo
+Pohrani preuzimanje u predmemoriju na disku
+FDM æe koristiti unutarnji meðuspremnik, velièine koju odredite, za preuzimanje podataka. To smanjuje broj pristupa disku i doprinosi poveæanju brzine preuzimanja.\nIpak, podaci se ne zapisuju odmah pa može doæi do gubitka u sluèaju neke greške (oznaèena velièina ili struja).\nKorisno za bržu vezu.
+Ne mogu instalirati SeaMonkey (Mozilla paket) nadzor
+Ne mogu instalirati nadzor u SeaMonkey (Mozilla paket) preglednik
+FDM æe nadzirati klikove za preuzimanje u Mozilla Firefox pregledniku
+FDM æe nadzirati klikove za preuzimanje u SeaMonkey (Mozilla paket) pregledniku
+Nastavak preuzimanja iako je pritisnuta tipka 'Odustajem'
+Preglednik æe nastavi preuzimanje iako ste odabrali 'Odustajem' u dijalogu "Pokreni preuzimanje".
+Dodaj FDM u kontekst izbornik preglednika
+U padajuæi izbornik æe biti ugraðena naredba "preuzmi s FDM" i "preuzmi Web s FDM" dostupno pod desni klik miša
+Odredite naredbu koja æe se prikazati u kontekst izborniku preglednika
+Ne mogu instalirati nadzor u Firefox preglednik
+Premjesti u mapu
+Brzina prijenosa je premala. Pokrenite ponovo...
+Pokreni ponovo ako je brzina premala unutar, min:
+Pokretanje ponovnog preuzimanja ako je zaista presporo.
+Želite li vidjeti okno napretka za ovakva preuzimanje ponovo?
+Nažalost, usluga nije trenutno dostupna. Pokušajte kasnije.
+Premjesti na vrh
+Premjesti na kraj
+Premjesti preuzimanje na poèetak popisa
+Preuzimanje æe biti pokrenuto kao prvo.
+Nadzor u Firefox pregledniku nije omoguæeno zbog FlashGot instalacije.\nPrvo trebate deinstalirati FlashGot.
+Omoguæi
+Onemoguæi
+Ukljuèi
+Omoguæavanje ili onemoguæavanje stanke u preuzimanju.
+Službeno %s poèeli smo 16. 08. 2006. Želja nam je napraviti najrasprostranjeniji Internet alat nakon FireFox-a!
+Automatski preuzmi i instaliraj dogradnju
+Samo me podsjeti da je dogradnja dostupna
+Iskljuèi automatsku dogradnju
+Nadzor je ponovo omoguæen u %s.
+Obriši zapis
+Potvrdite brisanje?
+FDM mapa za pohranu nije dostupna.\nOdredite mapu za FDM preuzimanje inaèe æe svi podaci biti izgubljeni nakon ponovnog pokretanja.
+Ovaj mali okvir-košara, omoguæuje prevlaèenje vašeg preuzimanja u FDM.\nOna omoguæuje brzi prikaz i skrivanje Free download Manager-ovog okna desnim dvoklikom miša.\n\nTo omoguæujete kvaèicom uz "Košara" u brzom izborniku.
+Košara FDM-a
+Onemoguæi sva upozorenja pri skupnom preuzimanju
+Nema prikaza natuknica i zvuka pri korištenju naredbe "%s".
+Izostavi tipove
+Tipovi datoteka koji æe se izostaviti.
+Ne preuzimaj s ovih Internet adresa:
+Odreðivanje lokacija se vrši unosom njihovih Internet adresa (npr. "site.com"). Možete koristiti '*' zamjenski znak.
+Pažnja!\nNe može se izvršiti antivirusna provjera.\nPreuzeti?
+Cjelovitost
+Provjeri cjelovitost datoteke nakon preuzimanja
+Za ovaj postupak potreban je kontrolni broj CRC. Èesto je dodan uz preuzimanje.
+Ako je kontrolni broj pogrešan
+Ispravan CRC kontrolni broj za ovu datoteku
+Zanemari
+Kada CRC kontrolni broj nije ispravan\nFDM æe predložiti:.\nPonovno pokretanje tog preuzimanja.\nZanemarivanje, pri èemu æe FDM to zabilježiti u zapis o preuzimanju.
+Provjeravanje cjelovitosti datoteke...
+Cjelovitost datoteke je potpuna.
+Cjelovitost datoteke je nepotpuna!
+Odredite algoritam provjere cjelovitosti.
+Valjani CRC kontrolni broj
+Rezultirajuæi CRC kontrolni broj
+; zip preview window
+Provjeri/zanemari sve
+; group's properties dialog
+Makroi
+Naziv poslužitelja (npr. "freepreuzimanjemanager.org")
+Staza do preuzimane datoteke na poslužitelju
+godina
+mjesec (broj 1 to 12)
+dan
+; don't translate "%year%-%month%-%day%" here
+ili "%year%-%month%-%day%"
+;
+Mozilla Firefox postavke
+FDM æe preuzeti proxy postavke iz Firefox-a
+; new dovnload settings
+Koristi ovu grupu
+; dovnload -> Schedule ->
+Pokretanje
+Zaustavljanje
+Planiranje pokretanja preuzimanja
+Planiranje zaustavljanja preuzimanja
+;
+; dovnload that not completed or were completed recently
+Nedovršena preuzimanja
+Roditeljska grupa
+;
+; create new dovnload dialog -> set output folder as default dialog
+Standard za sve grupe preuzimanja
+; %s - place of name of the group. don't change this
+To je standardna mapa "%s" grupe?
+;
+;
+Obriši iz popisa preuzimanja
+Otprema
+Nova otprema
+Pokreni otpremanje
+Zaustavi otpremanje
+Raspored otpreme
+Pomakni oznaèeno naprijed
+Pomakni oznaèeno nazad
+Otpremljeno
+Popis otpremljenog
+Uzmi adresu otpreme iz baze poslužitelja...
+Prekini
+; outlook express: view | insert file | ...
+Kao prilog
+Kao Internet adresu (otpreme)
+Mapa
+;
+Dodaj datoteke
+Dodaj mape
+Bittorrent
+Omoguæi podršku za Bittorrent protokol
+Ogranièenje brzine otpreme
+Ogranièenje broja veza pri otpremi
+Koristi portove od
+do
+Omoguæi DHT
+Bittorrent protokol za razmjenu datoteka izmeðu raèunala. Ako u popisu ili košu postoji i jedno Bittorrent preuzimanje protokol ne æe biti onemoguæen potpuno.
+Najveæa brzina veze pri otpremi. Nije preporuèljivo za Bittorrent protokol jer može smanjiti brzinu preuzimanja.
+Najveæa brzina veze svake otpreme. Premala vrijednost može smanjiti brzinu preuzimanja.
+Unesite raspon portova koje æe FDM koristiti pri otpremi.
+Omoguæavanje DHT tipova
+Naziv
+Prijava je obvezna
+Dodaj Bittorrent preuzimanje
+Došlo je do greške u radu s torent datotekom.
+Torent datoteka
+Želite preuzeti .torent datoteku. Prethodno treba omoguæiti Bittorrent protokol u FDM-u.\n\nOmoguæiti?
+Ponovo unesite lozinku. Unesena lozinka ne odgovara.
+Odredite datoteke za otpremu.
+Postavke otpreme
+Lažna obavijesna datoteka je otkrivena. Nastaviti?
+Bittorrent obavijesna datoteka je otkrivena. Nastaviti?
+Nemoguænost pristupa datotekama na disku.
+Davatelj veze...
+Nema valjanog odgovora davatelja veze.
+Odgovor davatelja veze zadovoljava.
+Kontrola dijela preuzimanja ne zadovoljava. Ponoviti...
+Širina pojasa preuzimanja
+Onemoguæavanje automatskog FDM pokretanja pri pokretanju Windows-a?
+Nažalost, FDM usluge trenutno nisu dostupne. Pokušajte kasnije.
+Naziv datoteke ne smije sadržavati znakove:\ / : * ? " < > |. Unesite drugi naziv.
+Naziv mape ne smije sadržavati znakove: * ? " < > |. Unesite drugi naziv
+Prilagodba plutajuæeg okna...
+Prozirnost
+Podaci
+Pohrani sve datoteke u trenutnoj korisnikovoj mapi
+Pohrani datoteke u ovoj mapi
+Promjene æe biti vidljive nakon novog pokretanja Free download Manager-a.
+Prikaži okno napretka
+Stvori prenosnu inaèicu
+Prenosnu inaèica FDM-a koristite na bilo kojem raèunalu bez potrebe instalacije.\n\nNpr.; Koristite program s flash diska.\n\nNakon pokretanja, program se sam prijavi u preglednik i odjavi nakon izlaska.\n\nOdredite mapu, ukljuèujuæi i prenosni disk u koju æe se pohraniti prenosna inaèica.\n\nNpr.: "G:\Prenosivi programi\".
+Integracija
+Pridruži Free download Manager uz .torent datoteke
+Uvijek koristi ovu grupu za novo preuzimanje
+Uvijek koristi ovu grupu i zadnju korištenu mapu za novo preuzimanje
+Preuzimanje videa
+Preuzimanje videa s FDM-om
+Internet adresa nije podržana. Provjerite popis podržanih Internet adresa.
+Prikaz u oknu preuzimanja
+Stranica sadrži flash video. Preuzimanje...
+Pretvaranje...
+Pretvori
+Moguænosti pretvorbe
+Oblik datoteke
+Velièina videa
+; video quality
+Kakvoæa
+Vrlo niska
+Niska
+Normalna
+Dobra
+Visoka
+Vrlo visoka
+;
+AVI koristi MPEG-4 (*.avi)
+AVI koristi XVID (*.avi)
+Ne mijenjaj
+Video bitrate
+Audio bitrate
+Zapamti postavke kao standardne
+;
+Novo preuzimanje
+Automatski pretvori preuzeti video u ovaj oblik
+Postavke naprednih moguænosti
+Pregled popisa podržanih Internet adresa
+; used in "create flash video preuzimanje" window
+Npr.
+Slijedeæi pokušaj povezivanja s davateljem za %d sekunda
+Priprema datoteka na disku... To može potrajati.
+Stanje
+Priprema datoteka na disku...
+MP4 za iPod/PSP (MPEG4 + AAC, *.mp4)
+Medija predpregled/pretvorba
+Pretvorba media datoteke
+Automatski otvori ovaj dijalog
+;keep "\n\n%s\n" as is
+Medija datoteka je uspješno pretvorena i pohranjena u\n\n%s\n.
+Greška pri pretvorbi medija datoteke\n\n%s.
+Grupa novog preuzimanja
+Hash oznaka
+Sudionika
+Klijent
+Tragaè
+Davatelj
+Status davatelja
+Brzina otpreme
+Otpremljeno
+Ocjena diobe
+Izgubljenih bajta
+Adrese torent datoteka
+Jeste li sigurni?\nTo æe pokrenuti preuzimanje od poèetka.
+Naèin prijenosa ("preuzimanja"; "otpreme") ovog mjeseca\n(%s kao i prošlog)
+Ukupna brzina ("preuzimanja"; "otpreme")
+Datoteke za otpremu
+Naziv paketa
+Sažmi
+Lozinka za ovo preuzimanje
+Ponovite unos
+Zadrži ove datoteke
+Pretpostavljeni broj preuzimanja
+Dodaj adresu datoteke u katalog
+Ukljuèivanje naprednih obavijesti
+Opis
+Tag-ovi
+Vaše ime
+Vaša adresa e-pošte
+E-pošta primatelja
+Manje od 10
+Od 10 do 100
+više od 100
+2 dana
+7 dana
+1 mjesec
+;compression methods
+Ništa
+Brzo
+Srednje
+Najjaèe
+Postavke otpreme
+Postavi preèice otpreme u
+Explorer's kontekst izbornik
+Explorer-ov "Send To..." izbornik
+Koristi skraæeni izbornik otpreme
+Najmanja velièina datoteke za otpremu
+HTTP proxy postavke
+Aktiviranje otpreme
+Ovo štiti poslužitelja od automatske otpreme. Unesite aktivacijski kod.
+Spajanje s poslužiteljem otpreme
+Spajanje s poslužiteljem otpreme je uspjelo
+Datoteke su uspješno otpremljene
+Otprema datoteka je zaustavljena
+Stvaranje zip paketa otpremanih datoteka...
+Greška pri stvaranju zip paketa
+Zip paket je uspješno završen
+Slanje zahtjeva poslužitelju
+Slanje poslužitelju obavijesti o ovoj otpremi
+Obavijest je poslana
+Greška pri slanju obavijesti poslužitelju o ovoj otpremi 
+Aktiviranje otpreme...
+Otprema je aktivirana
+Greška pri aktivaciji otpreme
+Otpremljena datoteka je izmijenjena na disku
+Neoèekivana greška
+Izraèun kontrolnog broja...
+; "I agree to terms" string in two lines
+Suglasan sam s
+uvjetima
+Trebali bi prihvatiti uvjete
+Greška pri traženju dogradnje
+Nova inaèica je raspoloživa. Možete dograditi svoju.\nDograditi sada?
+Dogradnja Free download Manager je poželjna
+Ponovno pokretanje Free download Manager je potrebno
+Predloži otpremu i priloga
+Prilog pismu (usporava)...
+Otpremi i umetni vezu (nešto brže)...
+Greška pri pokretanju otpreme. Provjerite vezu ili pokušajte kasnije.
+Priložili ste veliku (puno) datoteku(a)(s).\nPuno je razloga protiv otpreme velikih priloga. Otpremajte datoteke ili dajte veze na njih.\n\nOtpremiti?
+Otprema se preporuèuje
+Postavke integracije
+Otprema %s je završena.\nMogli bi koristiti slijedeæu Internet adresu kao vezu za preuzimanje:
+Ukupna velièina
+Otvori u pregledniku
+Postojeæa inaèica Free download Manager-a ne može otpremati datoteke. Potrebna je dogradnja.
+Postojeæa inaèica Free Upload Manager-a ne može otpremati datoteke. Potrebna je dogradnja. Molim, posjetite freedownloadmanager.org Web stranicu.
+Predugi unos.
+Postavke integracije
+Free Upload Manager postavke integracije
+Otprema
+Preuzimanje dogradnje...
+Omoguæi doradu (seeding)
+Onemoguæi doradu uvijek
+Uzmite u obzir da preuzimanje može biti zaraženo
+% ako su korisnici to oznaèili.
+U redu, Free download Manager korisnici nisu prijavili ovo preuzimanje kao zaraženo.\n\nIpak to nije garancija pa preporuèamo upotrebu antivirusnog programa.
+U redu, FDM korisnici nisu prijavili ovo preuzimanje kao zaraženo.
+Oznaka diska FDM æe biti npr. "C:". Korisno za prenosnu inaèicu.
+Trebali bi instalirati Video Conversion dodatak za korištenje ove moguænosti.
+Trebali bi instalirati Bittorrent dodatak za preuzimanje u tom protokolu.
+Pažnja: ove datoteke (*.sav) su FDM servisne (nisu za preuzimanje).
+Želite li kopirati ovu datoteku podataka u novu mapur (postojeæa datoteka æe biti natpisana)?
+Stadardno, to æe biti mapa za pohranu preuzimanje svih grupa.\nU redu?
+Stadardna mapa pohrane preuzimanja
+Za vrijeme preuzimanja ne dozvoli prelaz raèunala u stanje spreman.
+Najviši broj poluotvorenih veza
+Torenti
+Greška pri pristupu datotekama na disku. Provjerite nije li disk popunjen ili možda zaštiæen.
+Odnos
+Popis torenta
+Dodaj torent za preuzimanje s Web-a
+Dodaj torent za preuzimanje iz datoteke
+Stvori novi torent
+(auto)
+Izvor
+Velièina dijelova
+Praæenja
+Dodaj praæenje
+Ukloni praæenje
+Zapoèni slanje ovog torenta
+Pohrani
+Stvaranje novog torenta
+Torent datoteke
+Prioritet
+;normal/high priority
+preskoèi
+normalni
+visoki
+Plutajuæa okna
+Servisne datoteke (popis preuzimanja, povijest, i dr.)
+Standardne postavke za preuzimanje Web-a
+Zaustavili ste sva preuzimanja. To æe jako usporiti sva preuzimanja (1B/s uobièajeno).\nTo omoguæuje "pauziranje" i preuzimanja koja ne podržavaju nastavak.\n\nOvu naredbu bi trebali ponovno pozvati ili ponovo pokrenite FDM, što æe ju poništiti.
+Dostupnost
+Omoguæi dostupnost (preporuèujemo)
+Uvjetna dostupnost
+Ogranoèeno odnosom
+Dostupno dok odnos ne padne na
+Ogranièenje vremena
+Trajanje dostupnosti
+Provjeri ne postoji li veæ preuzimanje tog URL-a
+Pohrani zapis preuzimanja
+Popis èesto preuzimanih datoteka
+Standardne postavke za BitTorrent preuzimanja
+Ponovno pokreni završena preuzimanja
+Odreðivanje mape Firefox portabl inaèice.
+Ne mogu naæi Apple Safari mapu dodataka. Želite li ju unijeti ruèno?
+Ne mogu naæi Google Chrome mapu dodataka. Želite li ju unijeti ruèno?
+Ne mogu instalirati Apple Safari nadgledanje
+Ne mogu deinstalirati Apple Safari nadgledanje
+Ne mogu instalirati Google Chrome nadgledanje
+Ne mogu deinstalirati Google Chrome nadgledanje
+Vremensko ogranièenje
+;hours, for shprt
+sati.
+Vremensko ogranièenje poèetka FDM preuzimanja
+Preuzimanje samo od
+Normalni prioritet
+Visoki prioritet
+Osnovno
+Bez info balonèiæa o isteku vremena do dovršetka preuzimanja

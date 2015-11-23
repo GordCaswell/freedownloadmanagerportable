@@ -1,0 +1,1775 @@
+; This is a language file
+; You can translate it into your native language
+; To do this, follow instructions:
+; - PLEASE make sure FDM hasn't already been translated into your language 
+;   You should go to FDM web site (http://freedownloadmanager.org) and 
+;   check the list of available languages
+;   or e-mail to support@freedownloadmanager.org
+; - copy this language file to xxx.lng, where xxx is the reduced name 
+;   of your language. For English it is eng
+; - translate all strings of xxx.lng into your language
+; - send the translated file to support@freedownloadmanager.org 
+;
+;
+;
+; Translator - alsasto@gmail.com
+;
+
+; Your language name. Please keep it in English
+;
+Slovene
+;
+;
+; Below are the strings to translate:
+;
+Shrani vse
+Izreži
+Kopiraj
+Prilepi
+Lažji naèin
+Srednji naèin
+Zahtevnejši naèin
+Možnosti prenosa
+Klicna povezava
+O FDM
+Izhod
+Datoteka
+Uredi
+Pogled
+Možnosti
+Orodja
+Pomoè
+Orodna vrstica
+Statusna vrstica
+Optimizacijska nastavitev
+Privzete nastavitve prenosa
+Splošne nastavitve
+Klicna povezava
+Po zakljuèku prekini povezavo
+Po zakljuèku ugasni raèunalnik
+Odpri okno pomoèi
+Domaèa stran FDM
+Povej prijatelju
+Pošlji e-pošto skupini za podporo FDM
+Samodejno preverjaj, èe obstajajo posodobitve
+Preveri, ali obstajajo posodobitve
+-
+-
+Preklopi v
+Naèin izrabe prometa
+Registracija
+Prenosi
+Razporejevalnik opravil
+Raziskovalec portalov
+Raziskovalec HTTP//FTP
+Upravljavec portalov
+Dodaj prenos
+Zaèni prenos
+Ustavi prenos
+Naèrtuj prenos
+Dodaj opravilo
+Lastnosti opravila
+Prenesi izbrane datoteke
+Ustavi
+Osveži
+Dodaj portal
+Lastnosti portala
+Skupina prenosov
+Informacije prenosa
+Dnevnik upravljavca urnikov
+Dnevnik raziskovalca portalov
+Stranska vrstica
+Nov prenos
+Izbriši prenos
+Zaženi datoteko
+Odpri mapo
+Prenos zaèni samodejno
+Lastnosti prenosa
+Omogoèi opravilo
+Onemogoèi opravilo
+Izbriši opravilo
+Odpri nadmapo
+Prekini povezavo
+Prenos
+Nastavitve raziskovalca portalov
+Izbriši stran
+Zaèasni vnos
+Strani
+Pokaži glavno okno
+Spremljanje brskalnika
+Spremljanje odložišèa
+Zaèni vse prenose
+Ustavi vse prenose
+-
+Nadaljuj
+-
+-
+-
+-
+-
+Preklièi
+-
+-
+-
+Vse skupine
+Filtri
+Konèano
+V teku
+Naèrtovano
+Ustavljeno
+Drugo
+Ustvari novo skupino
+Izbriši skupino
+Izbriši vse prenose
+Izbriši vse zakljuèene prenose
+Odpri mapo skupine
+Lastnosti skupine
+Ime skupine:
+Privzeta mapa:
+Konènice datotek (loèene s presledkom):
+Privzeta prednost prenosa
+Zelo nizko
+Nizko
+Povpreèno
+Visoko
+Zelo visoko
+Prosimo, vnesite ime skupine
+Napaka pri vnosu
+Skupina s tem imenom že obstaja. Prosimo, vnesite drugo ime
+Prosimo, vnesite ime mape
+Izberite privzeto mapo skupine
+Tukaj vnesite ime skupine
+Privzeta mapa za shranjevanje prenosov te skupine
+Razišèi
+Konènica datoteke za to skupino. Uporabljena bo za samodejno izbiro skupine prenosa
+Privzeta prednost prenosa za to skupino
+Preklièi spremembe in zapri okno
+Uporabi spremembe in zapri okno
+Napaka v skupinah prenosov
+Prosimo, ponovno namestite Free Download Manager
+Napaka
+Seznama prenosov ni možno naložiti. Verjetno je poškodovana ali jo uporablja drug program
+Inicializacija integracije v Internet Explorer ni uspela
+Ali ste preprièani?
+Vsi prenosi skupine bodo izbrisani
+Potrditev
+Ime datoteke
+Velikost
+Preneseno
+Preostali èas
+Razdelki
+Hitrost
+Komentar
+Dnevnik
+Napredovanje
+Èas
+Datum
+Informacija
+Poèisti
+Samodejno drsenje
+Neznana omrežna napaka
+Dostop prepreèen. Nepravilno uporabniško ime ali geslo
+Dostop prepreèen. Nepravilno geslo
+Uspel
+Povezava s strežnikom ni možna
+Datoteke na strežniku ni bilo možno najti
+Povezava s strežnikom je bila prekinjena
+Strežnik se ne odziva
+Imena strežnika ni možno razrešiti
+Strežnik ne podpira nadaljevanja prenosa. Ne ustavljajte tega prenosa; v nasprotnem primeru se bo prenos zaèel od zaèetka
+Strežnik proxy zahteva uporabniško ime in gesle
+Razširjena napaka
+Neustrezna zahteva. URL je verjetno napaèen
+Neznana napaka strežnika
+Povezava prekinjena
+Napaèen URL
+Ni povezave z internetom
+Izbrana razlièica HTTP ni podprta na tem strežniku
+Neznana napaka
+Datoteke ni možno izbrisati z diska
+Omejitev števila povezav na strežnik je dosežena
+Omejitev števila povezav je bila dosežena
+Pavza %d sek.
+Razdelek
+Zaèeto
+Konèano
+Prenos konèan
+Povezovanje ...
+Povezava uspela
+Preusmerjanje ...
+Preusmeritev uspela. Odpiram novi URL
+Zaèenjanje prenosa ...
+Ustavljeno
+Delanje novega razdelka ...
+Preklicano
+Ponastavljanje prenosa ...
+Odpiranje datoteke na disku ...
+Ime datoteke je predolgo
+Datoteka že obstaja. Preimenuj v
+Preimenuj v
+Izhodna datoteka je bila izbrisana. Nadaljevanje ni možno
+Datoteka že obstaja. Prepiši
+Datoteka že obstaja. Nadaljujem prenos
+Datoteka že obstaja
+Datoteke na disku ni bilo možno odpreti
+Velikost datoteke na strežniku se je spremenila!
+Prilagajanje na novo velikost ...
+Datoteke ni možno prepisati
+Datoteka bo preimenovana
+Ni mogoèe preimenovati datoteke nazaj v izvorno ime
+Skupin ni mogoèe shraniti
+Ni mogoèe shraniti prenosov
+Povezava na klic
+Poveži se z:
+Samodejno vzpostavi povezavo na klic
+Poveži
+Tukaj izberite nastavitve za povezavo na klic
+Želite, da se povezava na klic naslednjiè vzpostavi samodejno
+Vzpostavi povezavo na klic zdaj
+Ne vzpostavi povezave na klic in zapri to okno
+Ne najdem nastavitev za povezavo na klic na tem raèunalniku
+Linija je zasedena
+Napaka strojne opreme
+Ni klicnega tona
+Klièem
+Poskus
+Odpiram vrata ...
+Klièem ponudnika ...
+Povezava z oddaljenim raèunalnikom vzpostavljena
+Preverjam uporabniško ime in geslo ...
+Hitrost povezave je %d BPS
+Prekini povezavo
+Ponovitev
+Uporabniško ime in geslo sta potrebni
+Uporabnik:
+Geslo:
+Skupina:
+Shrani v mapo:
+Shrani kot:
+Zaèni
+Samodejno
+Roèno
+Naèrtuj
+Prednost prenosa
+Napredno
+Naslov datoteke, katero hoèete prenesti
+Tukaj vnesite uporabniško ime
+Tukaj vnesite geslo
+Strežnik zahteva avtorizacijo
+Ime skupine, v katero se naj uvrsti prenos. Skupine pomagajo pri upravljanju prenosov
+Mapa, v katero naj se shranijo prenosi
+Novo ime za preneseno datoteko. Pustite to polje prazno, èe želite shraniti datoteko z izvornim imenom
+Kratek opis prenosa
+Ta prenos se bo zaèel samodejno takoj, ko bo to mogoèe
+FDM ne bo poskušal zaèeti tega prenosa samodejno
+Naèrtuj ta prenos
+Konfiguriraj urnik prenosov
+Prednost prenosa. Prenosi z višjo prednostjo se bodo zaèeli prej. Prenosi z nižjo prednostjo bodo preloženi
+Pregled naprednih nastavitev za ta prenos
+Vnesen URL je napaèen. Prosim preverite ga
+Prosimo, vnesite uporabniško ime in geslo
+Izberite izhodno mapo
+Splošno
+Splošne informacije
+Prenos je trenutno shranjen v datoteko:
+Ime prenesene datoteke
+URL-ja tega prenosa ni možno spreminjati
+Prenos je v teku. Ni mogoèe spremeniti imena datotek
+Preimenovanje datoteke ni mogoèe
+Ne najdem datoteke
+Ne najdem poti
+Neveljavna oblika .exe
+Datoteka je v uporabi drugega programa
+Dostop prepreèen
+Naprava ni pripravljena
+Disk je poln
+Ime datoteke je neveljavno
+Potrebna je prijava
+Povezava
+Omrežje
+Napaka
+Premor med poskusi vzpostavitve povezave (v sek):
+Najveèje število poiskusov
+Potek èasa (v sek):
+Najmanjša velikost:
+Najveèje število:
+Omejitev prometa za ta prenos
+Omeji promet
+Prezri vse omejitve
+B
+KB
+MB
+; second. e.g. KB/s
+s
+Vnesite vrednost veèjo od %d
+Prosimo, izberite dimenzijo
+Èakanje pred ponovno vzpostavitvijo povezave s strežnikom v primeru napake
+Obkljukajte, èe želite omejiti najveèje število neuspešnih poskusov prenosa
+Èas za èakanje na odziv strežnika
+Najmanjša velikost razdelka. Prenos se ne bo delil na razdelke manjših velikosti
+Najveèje število razdelkov. Prenos se ne bo delil na veèje število razdelkov
+Doloèite, koliko prometa (najveè) bo FDM uporabljal za prenos
+Prezri omejitev prometa in omejitev števila povezav za prenos
+V tem polju lahko izrazite vrednost v bajtih (B), kilobajtih (KB) ali megabajtih (MB)
+Protokol
+Na strežniku se identificiraj kot:
+Posrednik (Referrer):
+Uporabi HTTP 1.1
+Uporabi piškotke
+Uporabi pasivni naèin
+Naèin prenosa
+Dvojiško
+ASCII za datoteke s konènico:
+Navedite, kako bo FDM identificiran s strežnikom HTTP
+Ta niz bo poslan strežniku HTTP v polju "Referrer". Ponavadi ni obvezno
+Obkljukajte, èe želite, da FDM uporablja HTTP razlièice 1.1
+Obkljukajte, èe želite, da FDM uporablja piškotke
+Obkljukajte, èe želite, da FDM deluje v pasivnem naèinu za strežnike FTP. Vèasih je potrebno zaradi požarnih zidov
+Uporabi dvojiški naèin za prenose FTP. Uporabite ta naèin, èe datoteka, ki jo prenašate, ni tekstovna
+Uporabi naèin ASCII za prenose FTP. Uporabite ta naèin, èe je datoteka, ki jo prenašate, tekstovna
+FDM bo uporabil naèin ASCII za datoteke z navedenimi konènicami. Za ostale datoteke bo FDM uporabil dvojiški naèin
+Proxy
+Pridobi nastavitve proxy
+Iz Microsoft Internet Explorerja
+Roèna nastavitev
+Ne uporabljaj proxyja
+Nastavitve
+Naslov:
+Vrata:
+Prosimo, vnesite naslov proxyja
+Prosimo, vnesite vrata proxyja
+FDM bo uporabil nastavitve proxy iz Internet Explorerja
+Sami vnesite nastavitve proxyja
+FDM ne bo uporabljal proxyja
+Izberite vrsto strežnika, za katerega želite vnesti proxy
+Vnesite naslov proxyja, katerega želite uporabljati
+Tukaj vnesite vrata proxyja. Ponavadi so 3128, 1080 ali 8080
+Obkljukajte, èe strežnik proxy zahteva avtorizacijo
+Mešano
+Lokalna datoteka
+Èe datoteka že obstaja:
+Rezerviraj prostor na disku za datoteko, ki se prenaša
+Dodatna konènica datoteke za nedokonèane prenose:
+Spletni strežnik
+Ne zaèenjaj ponovno prenosa, èe strežnik ne podpira nadaljevanja prenosov
+Èe se je velikost datoteke na strežniku spremenila:
+Ustavi se v primeru napake
+Vprašaj
+Prepiši
+Preimenuj
+Nadaljuj
+Ponovno zaèni
+Nastavi
+Prosim, navedi konènico datoteke
+Tukaj lahko nastavite, kako naj FDM ukrepa, èe datoteka že obstaja na disku
+Okljukajte, èe želite, da se na disku rezervira prostor za prenos, ko se ta zaène
+Èe je obkljukano, bo FDM dodal konènico datoteke imenu datoteke med prenosom. Ko je prenos konèan, bo datoteka preimenovana nazaj v prvotno ime
+FDM ne bo zaèenjal prenosa ponovno, èe oddaljeni strežnik ne podpira nadaljevanja
+Tukaj lahko nastavite, kako se naj FDM odzove, èe se velikost datoteke na strežniku spremeni
+Obkljukajte, èe želite ustaviti prenos v primeru, da datoteka na strežniku ni najdena
+Obkljukajte, èe želite ustaviti prenos v primeru, da sta uporabniško ime ali geslo napaèni
+Naèini izrabe prometa
+Izberi naèin za konfiguracijo:
+Najveèje število povezav:
+Najveèje število povezav na strežnik:
+Omejitev prometa:
+neomejeno
+Tukaj izberite naèin izrabe prometa, katerega želite konfigurirati
+Obkljukajte, èe želite omejiti najveèje število povezav
+Obkljukajte, èe želite omejiti najveèje število povezav na en strežnik
+Tukaj vnesite (najveèji) promet FDM za prenos datotek
+Vsi prenosi
+Spisek prenosov
+Samodejno shrani vsake
+min.
+Pri brisanju nedokonèanega prenosa
+Samodejno izbriši konèane prenose
+Ne briši datoteke
+Briši datoteko
+FDM samodejno shrani spisek prenosov glede na doloèeno obdobje. Spisek je tako zašèiten pred "zmrzovanjem" raèunalnika ali izpadu elektriènega toka
+Tukaj doloèite, kaj naj FDM stori z datoteko na disku pri brisanju nedokonèanega prenosa
+Obkljukajte, èe želite, da se prenos samodejno izbriše s spiska, ko je konèan
+Spremljanje
+Spremljanje
+Odložišèe
+Spremljaj datoteke s konènicami
+Prezri datoteke s konènicami
+ALT ne sme biti pritisnjen
+ALT mora biti pritisnjen
+Prosimo, navedite konènice
+Obkljukajte, èe želite, da FDM ujema klike v Internet Explorerju
+Obkljukajte, èe želite, da FDM spremlja vaše odložišèe
+Spremljanje le za datoteke z doloèeno konènico
+Ne spremljaj za datotekami z doloèeno konènico
+Spremljaj le, èe ALT ni pritisnjen
+Spremljaj le, èe je ALT pritisnjen
+Zagon
+Nalaganje ob zagonu
+Zaèni minimirano
+Sistem
+Minimiraj v vrstico stanja
+Gumb zapri minimira okno
+FDM bo samodejno zagnan ob zagonu Windows
+FDM bo minimiran po zagonu
+Ko kliknete gumb Minimiraj bo FDM minimiran v vrstico stanja
+Èe je obkljukano, bo rezultat gumba zapri imel podobne posledice kot gumb minimiraj
+Posodobi
+Naslov strežnika za posodobitve
+FDM bo samodejno preverjal, èe obstaja novejša razlièica
+Èarovnik za optimizacijo izrabe omrežja
+Dobrodošli v èarovniku za optimizacijo izrabe omrežja!
+Èarovnik vam bo pomagal do optimalnih nastavitev za vašo vrsto povezave. Nastavil bo lastnosti Prenašalca in privzete lastnosti za prenos.
+Prosimo, izberite vrsto povezave
+Zakljuèi
+Tukaj navedite vrsto vaše internetne povezave
+Konfiguriraj FDM, da bo deloval optimalno z vašo povezavo
+Opravilo
+Èas zaèetka
+Naslednji èas zaèetka
+Zadnji èas zaèetka
+Spiska urnikov ni možno naložiti. Najverjetneje je poškodovan ali ga uporablja drug program
+Dnevnika razporejevalnika opravil ni možno naložiti
+Spiska urnikov ni možno shraniti
+Opravilo "%s" je bilo naèrtovano. Ga želite zaèeti?
+Spreminjanje naèina izrabe prometa v "%s"
+Odloži
+Vse povezave
+Spremeni naèin izrabe prometa v
+Ugasni
+Ponovno zaženi
+Odjavi
+Enkrat
+Ned
+Pon
+Tor
+Sre
+Èet
+Pet
+Sob
+Ob dnevih:
+Vsakih
+dni
+ur
+Ob zagonu FDM-ja
+Èe je klicanje uspelo
+Èe klicanje ni uspelo
+Èe ni aktivnih prenosov
+Èe je hitrost manjša ali enaka %d BPS med %d
+Èe so vsi prenosi v stanju napake med
+Nikoli
+Neznano
+Uspešno povezan z "%s"
+Povezava z "%s" ni uspela
+Zagon uspešen
+Zmanjkalo pomnilnika
+Zagon ni mogoè
+Naèrtovanje izvajanja bo povzroèilo izhod programa pri zagonu. Naèrtovanje bo prezrto
+Najveèje število poizkusov klicanja
+Èakanje med poizkusi
+Odloži, èe je hitrost povezave manjša od:
+Poizkusi ponovno
+Ne veè kot
+Uporabi povezavo
+Èe je uspešno
+krat
+Odloži vse aktivne povezave
+Povezava, ki bo prekinjena
+Ime programa:
+Argumenti:
+Vrsta ugasnitve:
+Prisili programe k izhodu
+Zaženi program
+Vzpostavi povezavo na klic
+Prekini povezavo
+Spremeni naèin izrabe prometa
+Izhod iz FDM
+Ugasni raèunalnik
+Prenosi za zaèet
+Prenosi za ustavit
+Programi
+Vse datoteke
+Oprostite, ta možnost je na voljo le v Windows 2000, XP ali novejših
+Prosimo, vnesite ime programa
+Prosimo, izberite prenose
+Izberite naèin izrabe prometa, ki naj se uporabi ob zaèetku opravila
+Obkljukajte, èe želite omejiti število neuspešnih poizkusov klicanja
+Èas med neuspelimi pozkusi
+Obkljukajte, èe želite da je povezava vzpostavljena pri hitrosti, ki ni manjša od navedene
+Vnesite najmanjšo hitrost povezave
+Èe obkljukate, bo FDM ponovno poizkusil vzpostaviti potrebno povezavo
+Obkljukajte, èe želite omejiti število neuspelih poizkusov vzpostavitve povezave
+Tukaj navedite potrebne prenose
+Spisek prenosov, ki so na voljo
+Dodaj izbrani prenos med opravilo spisek prenosov
+Odstrani izbrani prenos iz opravila spisek prenosov
+Navedite progam katerega želite zagnati
+Pošèite program na vašem raèunalniku
+Tukaj navedite argumente programa
+Tukaj nastavite vrsto prekinitve seje
+Obkljukajte, èe želite nasilno prekinitev seje. Uporabno, èe sistem vsebuje programe, ki se ne odzivajo. V tem primeru bodo vse neshranjene spremembe izgubljene
+Tukaj navedite naèrtovano dejanje
+Obkljukajte, èe želite, da FDM prekine vse aktivne povezave
+Navedite povezavo, ki se naj prekine
+Ob doloèenih dnevih
+Nedelja
+Ponedeljek
+Torek
+Sreda
+Èetrtek
+Petek
+Sobota
+Ob dogodku
+Med
+Nižja hitrost:
+min.
+Minut
+Ur
+Dni
+Ko je hitrost prenosa prenizka
+Ko so vsi prenosi v stanju napake
+Prosimo, navedite dneve
+Zaèni opravilo ob doloèenem èasu
+Tukaj nastavite èas, ob katerem naj se opravilo zaène
+Zaèni opravilo na doloèen datum
+Tukaj nastavite datum, ob katerem naj se opravilo zaène
+Zaèni opravilo na doloèene dni v tednu
+Zaèni opravilo vsak nedeljo
+Zaèni opravilo vsak ponedeljek
+Zaèni opravilo vsak torek
+Zaèni opravilo vsako sredo
+Zaèni opravilo vsak èetrtek
+Zaèni opravilo vsak petek
+Zaèni opravilo vsako soboto
+Zaèenjaj opravilo periodièno
+To polje omogoèa vnos intervala v minutah, urah ali dnevih
+Zaèni opravilo ob doloèenem dogodku
+Tukaj navedite vrsto dogodka
+Tukaj vnesite èasovni interval
+Tukaj vnesite najmanjšo potrebno hitrost
+Za izvršitev opravila je potrebna potrditev
+Èakanje na potrditev med
+sek.
+Èe je obkljukano, bo FDM zahteval potrditev izvajanja za to opravilo
+Èe je obkljukano, bo FDM èakal na potrditev izvajanja v doloèenem èasovnem intervalu. Èe ne reagirate v tem èasu, se bo izvajanje opravila zaèelo
+Naslov:
+Pripravljanje spiska datotek za prenos
+Vzpostavitev povezave s strežnikom
+Poskušam uporabiti uporabniško ime in geslo shranjeno v upravljavcu portalov
+Pridobivanje spiska datotek s strežnika
+Povezava s strežnikom je bila prekinjena. Poskus obnovitve
+Gradim seznam
+Pridobi velikost in datum zadnje spremembe datotek
+Uporaba parametra lahko vpliva na veliko zmanjšanje hitrosti
+Obkljukajte, èe želite, da FDM poizve velikosti in datume datotek na strežniku HTTP
+Ime portala
+Povezave
+Prijava
+Skupina
+Spiska portalov ni mogoèe naložiti. Verjetno je poškodovan ali ga uporablja drug program
+Spiska portalov ni možno shraniti
+Najveèje število istoèasnih povezav:
+Privzeta skupina za nov prenos s tega portala
+Uporabi pasivni naèin FTP
+Prosimo, vnesite ime portala
+Portal s tem imenom že obstaja. Prosimo, vnesite drugo ime portala
+Najveèje število povezav mora biti veèje od 0
+Prosimo, izberite skupino
+Tukaj navedite ime portala
+Obkljukajte, èe želite omejiti najveèje število hkratnih povezav na ta strežnik
+Obkljukajte, èe želite, da se prenosi s tega strežnika samodejno dodajo izbrani skupini
+Vprašaj uporabnika
+Ne sprašuj ponovno
+Napaka pri pisanju na disk
+Datoteka "%s" že obstaja na disku. Kaj naredim?
+Tega vprašanja ne postavljaj veè. Vaša izbira bo naslednjiè uporabljena kot privzeta
+Prepišem obstojeèo datoteko
+Preimenuj to datoteko
+Nadaljuj prenos. (Prenos se bo zaèel na mestu, ki sovpada z velikostjo obstojeèe datoteke)
+Ustavi ta prenos
+Da
+Ne
+Prenos
+je bil izbrisan. Izbrišem tudi datoteko na disku?
+Prosimo, vnesite uporabniško ime in geslo
+Prijava na "%s"
+Vneseno uporabniško ime in geslo pošlji strežniku
+Ne povezuj se na ta strežnik
+Velikost "%s" na strežniku se je spremenila. Kaj naredim?
+Zaèni prenos od zaèetka
+Prilagodi prenos novi velikosti datoteke. Ni priporoèljivo
+Poèakajte prosim
+Posodobitev
+Opis
+Posodobi z uporabo:
+Preverjam posodobitve
+Že uporabljate najnovejšo razlièico
+Prenašam
+Na voljo je razlièica %s gradnja %s
+Polna distribucija razlièice %s (%s)
+Posodobitev na razlièico %s
+Posodobitev na razlièico %s (%s)
+Free Download Manager mora biti ponovno zagnan. Ga želite ponovno zagnati zdaj?
+Posodobitev konèana
+Ne najdem posodobljevalca
+Tukaj navedite vrsto posodobitve
+Posodobi FDM z uporabo polne distribucije
+Posodobi FDM z uporabo distribucije nadgrajevanja
+Pošèi veè informacij o postopku posodobitve
+Kaj je novega v tej razlièici?
+Zaèni posodabljati FDM zdaj
+Preklièi posodabljanje in zapri okno
+Naredi prenose
+Izberi vsebino
+Ne izberi vsebine
+Spisek prenosov za dodajo
+Obkljukajte dele map, katere želite prenesti
+Ne obkljukajte delov map, katerih ne želite prenesti
+O FDM
+Avtorska pravica (c)
+Vse pravice pridržane
+Registriran na:
+Že posodobljeno. Potreben je ponovni zagon
+Nepravilno uporabniško ime ali geslo
+Datoteke z zgodovino ni mogoèe naložiti
+Datoteke z zgodovino ni mogoèe shraniti
+Privzete nastavitve Pajka HTML
+Pajek HTML
+Drevo spletnih strani
+Prenesi spletni portal
+Nastavitve prenosa spletnih strani
+Zaèni prenos
+Ustavi prenos
+Naèrtuj prenašanje
+Izbriši
+Odpri spletno stran v brskalniku
+Prenos zaèni samodejno
+URL spletne strani (portala)
+Datoteke
+Izbrišem tudi prenose?
+Spiska spletnih strani ni mogoèe naložiti
+Spiska spletnih strani ni mogoèe shraniti
+URL spletne strani ali strežnik HTTP, s katerega želite prenašati
+URL spletne strani ali strežnik HTTP, s katerega je bil zaèet prenos
+Ime mape, v katero naj se shranjujejo prenosi
+Izhodna mapa:
+Spletne strani
+Strani
+Konènica datotek spletnih strani s kodo HTML:
+Prenesi datoteke CSS
+Prenesi spletne strani z drugih portalov
+Slike
+Prenesi slike
+Prenesi slike, ki povezujejo na druge portale
+Globina prenosa:
+Konènice datotek spletnih strani s kodo HTML. Na spletnih straneh se bodo poiskale povezave do slik in drugih spletnih strani za prenos
+Èe je obkljukano, se bodo prenašale tudi datoteke CSS. Priporoèeno
+Èe ni obkljukano, se spletne strane z drugih portalov ne bodo prenašale. Na primer: kvadrat ni bil obkljukan, ko ste zaèeli prenašati s http://primer.com/, potem http://drugPortal.com/stran.html ne bo prenesena, medtem ko stran http://primer.com/stran.html bo prenesena
+Èe je obkljukano, bodo prenesene tudi slike spletnih strani
+Èe ni obkljukano, slike spletnih strani, ki povezujejo na druge portale, ne bodo prenesene
+Globina prenašanja. Na primer: zaèeli ste prenašati s strani http://ex.com/index.html. Obstaja povezava na http://ex.com/some.html s strani http://ex.com/index.html. Globina strani http://ex.com/some.html je v tem primeru 1. Nastavitev globine prenašanja na 0 bi pomenilo le prenos vsebine zaèetne spletne strani.
+Prenesi datoteke s spletnih strani
+Prenesi datoteke z drugih spletnih portalov
+Izkljuèitve datotek po konènici
+Vkljuèi
+Prenesi
+Ne prenesi
+datoteke s konènico:
+Obkljukajte za prenos datotek iz spletne strani
+Obkljukajte, èe želite, da se prenesejo tudi datoteke z drugih portalov
+Obkljukajte, èe želite, da se datoteke z doloèeno konènico prezrejo
+Èe je obkljukano, bodo datoteke s spodaj navedenimi konènicami prenesene
+Èe je obkljukano, datoteke s spodaj navedenimi konènicami NE bodo prenesene
+Izvoz nastavitev
+Uvoz nastavitev
+Zagon Regedit.exe ni uspel
+Napaka pri poizkusu izvoza nastavitev
+Napaka pri poizkusu uzvoza nastavitev
+FDM-jeve datoteke registra
+Izkljuèitev slik po konènici
+slike s konènico:
+Obkljukajte, èe želite, da se slike z navedeno konènico ne upoštevajo
+Èe je obkljukano, se bodo slike s spodaj navedeno konènico prenesle
+Èe je obkljukano, se slike s spodaj navedeno konènico NE bodo prenesle
+Ne prenašaj tega in izbriši
+Strežnik ne podpira nadaljevanja prenosa. Zaènem ponovno
+Odpiranje URL-ja ni uspelo
+Oprostite, neprièakovana napaka pri poizkusu pisanja v register
+Hvala za registracijo! Prosimo za ponoven zagon FDM-ja
+Prenos z uporabo Free Download Managerja
+Prenesi spletni portal z uporabo Free Download Managerja
+Dodaj FDM v meni (desni klik) brskalnika
+Obkljukajte, èe želite dodati "Prenos z uporabo Free Download Managerja" in "Prenesi spletni portal z uporabo Free Download Managerja" v meni (meni se prikaže ob desnem kliku)
+Zmanjšaj izrabo prometa ob brskanju
+Zmanjšaj za eno stopnjo
+Nastavi lažji naèin
+Obkljukajte, èe želite med brskanjem po spletu samodejno zmanjšati izrabo prometa. To omogoèa hitrejše brskanje, medtem ko FDM prenaša
+Izraba prometa se bo zmanjšala za eno stopnjo. Zahtevnejši->Srednji, Srednji->Lažji
+Naèin izrabe prometa se bo spremenil v lažji naèin
+Veljavno za
+Veljavno za poddomene
+Obkljukajte, èe želite uporabljati ta vnos za prenose z uporabo HTTP
+Obkljukajte, èe želite uporabljati ta vnos za prenose z uporabo HTTPS
+Obkljukajte, èe želite uporabljati ta vnos za prenose z uporabo FTP
+Obkljukajte, èe želite uporabljati ta vnos za prenose s poddomenskih strežnikov. Na primer: za stran http://stran.com je poddomena http://primer.stran.com
+Prosimo, izberite vsaj en protokol
+Najveèje število hkrati aktivnih prenosov
+Obkljukajte, èe želite omejiti najveèje število hkrati aktivnih prenosov
+Prenos zaèni ponovno
+Dodaj en razdelek
+Ustavi en razdelek
+; context: [section x] - Stopped
+Ustavljen
+; tray menu
+Košara za hitro dodajanje prenosov
+;
+Ne najdem mape vtiènikov Opere. Jo želite vnesti roèno?
+Ne najdem mape vtiènikov Netscapa. Jo želite vnesti roèno?
+Spremljanja Opere ni možno namestiti
+Spremljanja Opere ni možno odstraniti
+Spremljanja Netscape ni možno namestiti
+Spremljanja Netscape ni možno odstraniti
+Obkljukajte, èe želite, da FDM spremlja klike znotraj Opere
+Obkljukajte, èe želite, da FDM spremlja klike znotraj Netscapa
+; create download dlg
+Poizvej velikost
+; request the size of a download
+Poizvedujem ...
+Poizvej velikost prenosa s strežnika
+Da za vse
+Ne za vse
+Podrobni dnevnik
+Èe je obkljukano, bo FDM prikazoval odzive strežnika
+Spremembe bodo veljavne po ponovnem zagonu brskalnika
+Spisek opravil
+Spisek datotek
+Spisek portalov
+Spisek strani
+Brišem prenose
+Gradim spisek prenosov
+Nov množièni prenos
+Od:
+Do:
+Korak:
+Št. nadomestnih bajtov:
+Rezultati
+Primer:
+Zaèetna številka zaporedja
+Konèna številka zaporedja
+Korak zaporedja. Èe je npr. 10, potem bo zaporedje 0, 10, 20 ...
+Št. nadomestnih bajtov. Èe je npr. 1, potem bo zaporedje 1, 2, 3; èe je 2, potem bo zaporedje 01, 02, 03.
+Kliknite za pregled ustvarjenega zaporedja
+Dovoli prenos brskalniku, èe pritisnem Preklièi
+Obkljukajte, èe želite, da brskalnik prenese datoteko, potem ko ste kliknili Preklièi v oknu "Dodaj prenos"
+Konèna številka zaporedja mora biti veèja od zaèetne
+Da bi definirali predlogo za URL, uporabite (*) v URL-ju
+Dodaj konènico, èe je datoteka nima
+Obkljukajte, èe želite izbrati konènico za datoteke, ki je nimajo. Èe je ime datoteke na primer "datoteka" vi pa ste izbrali "txt", potem bo rezultat "datoteka.txt"
+Prikaži velikosti le v bajtih
+Obkljukajte za prikaz vseh velikost le v bajtih namesto v kilobajtih ali megabajtih
+Preveri s protivirusnim programom
+Argumenti:
+Konènice:
+Obkljukajte, èe želite prenesene datoteke samodejno preveriti s protivirusnim programom
+Tukaj navedite ime protivirusnega programa
+Tukaj navedite argumente protivirusnega programa
+Tukaj navedite konènice prenesenih datotek, katere naj se preverijo
+Prosimo, vnesite ime protivirusnega programa
+Ime ni veljavno. Prosime preverite ga
+Zaganjam protivirusni program
+Onemogoèi opravilo po izvedbi
+Izbriši opravilo po izvedbi
+Obkljukajte, èe želite opravilo po izvedbi samodejno onemogoèiti
+Obkljukajte, èe želite opravilo po izvedbi samodejno izbrisati
+Pojdi
+Nazaj
+Samodejno ustvarjanje imen datotek
+Obkljukajte, èe želite, da se ime za prenesene datoteke ustvari samodejno
+Shrani s konènico "htm"
+Obkljukajte, èe želite, da se shranijo vse spletne strani s konènico "htm"
+Izraèunaj povzetek velikosti vseh prenosov
+Obdrži strukturo map s strežnika
+Obkljukajte, èe želite ohraniti strukturo map s strežnika. V nasprotnem primeru bodo vse datoteke s tega strežnika shranjene v eno mapo
+Izbrali ste drugo mapo. Naj bo to privzeta mapa za to skupino? Privzeto mapo lahko spremenite tudi v lastnostih skupine
+; === ADDED LINES ===
+Prenos s tem URL-jem že obstaja. Kaj narediti?
+Zaženi
+Zaženi preneseno datoteko
+Razlièica
+Kliknite tukaj za stik z nami
+Kliknite za prenos najnovejše razlièice
+Opozorilo: ta raèunalniški program je zašèiten z avtorskim pravom in mednarodnimi pogodbami. Nepooblašèena reprodukcija ali razširjanje tega programa, oziroma dela programa, podleže sodnemu pregonu v najvišji možni meri in lahko privede do stroge kazni po civilnem ter kazenskem postopku.
+; === new version ===
+Prenesi vse s Free Download Managerjem
+Dodaj spisek prenosov
+Odstrani izbrano
+To je spisek URL-jev, ki bodo dodani
+Ta gumb bo odstranil vse izbrane URL-je iz tega spiska
+Ne najdem mape vtiènikov Firefoxa. Jo želite vnesti roèno?
+Spremljanja Firefoxa ni možno namestiti
+Spremljanja Firefoxa ni možno odstraniti
+Obkljukajte, èe želite da FDM spremlja klike v brskalniku Mozilla Firefox
+Prenesi izbrano s Free Download Managerjem
+Zaèenjam
+Spletni portali
+Aktivni prenosi
+Trenutno ni aktivnih prenosov
+Obvestila
+Uporabljaj "balone" v vrstici stanja
+Èasovni potek
+Obkljukajte, èe želite omogoèiti obvestila v obliki sistemskih "balonov", ko se prenos ustavi ali konèa. Opomba: možnost deluje le v Windows 2000/XP in novejših
+"Balon" se bo samodejno zaprl po preteku tega èasa
+Zrcala
+Samodejno išèi zrcalne URL-je
+Najveèje število zrcal
+Izraèunaj hitrost zrcala
+Preraèunaj hitrost vsakih
+Obkljukajte, èe želite, da DFM avtomatsko išèe zrcalne URL-je za vsak prenos
+Omejitev števila zrcalnih URL-jev na prenos. To omogoèa zmanjšanje èasa potrebnega za izraèun hitrosti zrcala
+Obkljukajte, èe želite, da FDM izraèuna hitrost za vsak zrcalni strežnik
+Hitrost zrcala bo samodejno ponovno izraèunana ob izbranem èasovnem intervalu
+Ne išèi, èe je velikost datoteke manjša kot
+FDM ne bo iskal zrcal, èe je velikost datoteke manjša od navedene velikosti
+Ne išèi, èe je velikost datoteke neznana (priporoèljivo)
+Dodaj zrcalo
+Išèi zrcala
+Roèno dodaj zrcalne URL-je za ta prenos
+Išèi zrcalne URL-je za ta prenos z uporabo FileSearching.com
+Spisek zrcalnih URL-jev
+Hitrost strežnika
+V uporabi
+Merjenje hitrosti zrcala
+Merjenje hitrosti zrcalnega strežnika
+Informacije o prenosih
+Èakam ...
+Zrcalni URL za prenos
+Velikost datoteke presega 2 GB. Takšni prenosi so podprti le s FTP-jem
+;
+;
+; #NEW LINES (BUILDS NEWER THAN 195)#
+;
+;
+; BEGIN: New Download page
+Nov prenos
+Samodejno doloèi skupino za prenos
+Skupina:
+Shrani prenos v primerno mapo njegove skupine
+Obkljukajte, èe želite, da se prenosu doloèi skupina glede na konènico datoteke ali nastavitve upravljavca portalov
+Privzeto skupino doloèi roèno
+Obkljukajte, èe želite, da se prenos shrani v privzeto mapo njegove skupine (glej lastnosti skupine)
+Izhodno mapo doloèi roèno
+; END
+; BEGIN: Monitoring page
+Tiho spremljanje
+Èe je obkljukano, se okno "Dodaj prenos" ne bo prikazovalo ob dodajanju prenosa iz brskalnika
+Po meri
+Izberite postavke menija, ki bodo prikazane v meniju brskalnika
+; END
+Izberite postavke menija za prikaz
+Vsaj ena postavka menija mora biti izbrana
+Uporabi zvok
+Obkljukajte, èe želite da FDM predvaja zvok ob doloèenih dogodkih (npr. ob koncu prenosa)
+Izberite zvok za dogodek
+; BEGIN : Customize sounds dialog
+Zvoki po meri
+Doloèi zvok
+Odstrani
+Preizkus
+Spisek FDM-jevih dogodkov in primernih zvokov. Tukaj lahko doloèite zvok, ki ga FDM predvaja, ko pride do doloèenega dogodka
+Prenos dodan - predvajaj zvok, èe je med spisek prenosov dodan ali dodanih veè prenosov.
+Prenos konèan - predvajaj zvok, èe se je prenos uspešno zakljuèil.
+Prenos ni uspel - predvajaj zvok, èe je med poskusom prenosa datoteke prišlo do napake.
+Klicanje uspelo - predvajaj zvok, èe se je opravilo "Vzpostavi povezavo na klic" uspešno izvedlo.
+Klicanje ni uspelo - predvajaj zvok, èe opravilo "Vzpostavi povezavo na klic" ni uspelo.
+Doloèi zvok za izbrani dogodek
+Ne predvajaj zvoka ob izbranem dogodku
+Preizkusi izbrani zvok
+Dogodek
+Zvoèna datoteka
+Brez zvoka
+Prenos dodan
+Prenos konèan
+Prenos spodletel
+Klicanje uspelo
+Klicanje ni uspelo
+Zvoène datoteke
+; END
+Iskanje zrcal ...
+Merjenje hitrosti zrcal ...
+Iskanje zrcal je bilo že izvedeno
+Povezujem se na iskalni strežnik ...
+Pridobivanje rezultatov ...
+Najdenih %d zrcal
+Iskanje zrcal zakljuèeno
+Preizkušanje drugega zrcala ...
+Ni najdenih zrcal
+Neuspešno
+Hitrost zrcala izmerjena
+; BEGIN: History page
+Zgodovina
+Shrani zgodovino povezav in map
+Shrani le zgodovino map
+Obdrži vnose znotraj
+Najveèje število vnosov
+Poèisti zgodovino
+FDM bo shranil zgodovino povezav in vpisanih imen map
+FDM bo shranil le zgodovino map
+FDM bo zbrisal vnose, ki so v zgodovini veè kot doloèen èas
+Najveèje število vnosov v zgodovini. Ko število vnosov preseže to mejo, bo DFM izbrisal najstarejši vnos
+Izbriši vse vnose iz zgodovine
+; END
+Uvoz
+Izvoz
+Uvoz spiska prenosov
+Izvoz spiska prenosov
+Tekstovne datoteke
+Ne morem odpreti datoteke
+Izvoz vseh prenosov
+Izvoz vseh prenosov na spisku
+Izvoz izbranih prenosov
+Ne izvažaj konèanih prenosov
+Dodaj, èe datoteka že obstaja
+Neveljavno ime skupine. Prosimo, ne uporabljajte simbola / ali \ .
+Po zakljuèku zapri FDM
+; BEGIN : Downloads History window
+Dodano
+Shranjeno v
+; END
+Smeti
+; BEGIN: Recycle Bin
+Lastnosti
+Poèisti smeti
+;END
+;BEGIN: Recycle Bin properties
+Ne shranjuj izbrisanih prenosov med smeti
+Obdrži najveè
+prenosov
+Ne obdrži konèanih prenosov
+Vprašaj za potrditev, pred brisanjem prenosov
+Lastnosti smeti
+Obkljukajte, èe izbrisanih prenosov noèete shranjevati v smeteh
+Obkljukajte, èe želite omejiti število izbrisanih prenosov v smeteh
+Najveèje število prenosov v smeteh
+Obkljukajte, èe konèanih prenosov po brisanju noèete shranjevati v smeti
+Obkljukajte, èe želite, da FDM zahteva potrditev ob brisanju prenosa
+;END
+Obnovi
+Obnavljanje prenosov ...
+; History subitems
+Danes
+Vèeraj
+En teden
+En mesec
+Po meri ...
+; end
+Poèisti zgodovino
+Shrani zgodovino prenosov
+Shrani zgodovino le zakljuèenih prenosov
+Obkljukajte, èe želite shraniti zgodovino vaših prenosov
+Obkljukajte, èe želite shraniti le zgodovino zakljuèenih prenosov
+Nastavitve zgodovine prenosov
+Gradnja spiska vnosov zgodovine ...
+; Download was deleted
+Izbrisan
+Izberite èasovni interval
+Išèi
+Išèi naprej
+Iskani niz
+; BEGIN : Find dialog
+Išèi v
+Ime lokalne datoteke
+Navedite kaj želite poiskati
+Iskanje v delih datotek URL-jev
+Iskanje po celotnem URL-ju
+Iskanje po komentarjih prenosov
+Iskanje po imenih datotek in poti datotek prenesenih na lokalni disk
+Nastavitev naprednih nastavitev iskanja
+; ADVANCED settings
+Išèi po
+Iskanje po spisku prenosov
+Iskanje po zgodovini prenosov
+Iskanje po èasovnem intervalu
+Nastavi
+Iskanje po smeteh
+Iskanje po velikosti datoteke
+Najmanj
+Najveè
+Iskanje po spisku prenosov
+Iskanje po zgodovini prenosov
+Išèi le prenose, ki se ujemajo z doloèenim èasovnim intervalom
+Nastavitev èasovnega intervala
+Išèi v smeteh
+Išèi le datoteke, katerih velikost je znotraj navedenega obmoèja
+Najmanjša možna velikost
+Najveèja možna velikost
+Iskanje znotraj skupine
+Izberite skupino, znotraj katere se bo izvedlo iskanje
+; END
+Iskanje prenosa ...
+Ni iskanih zadetkov
+Ni veè iskanih zadetkov
+Iskanje konèano
+URL v odložišèe
+Predogled ZIP
+Vsaj ena datoteka naj bo izbrana.
+Datoteka, ki jo prenašate je verjetno arhiv ZIP. Želite predogled?
+Predogled zvoka/videa
+Odpiranje datoteke ni uspelo.
+Neznana vrsta predstavnosti.
+Prosimo, namestite DirectX 8.0 ali novejšega, èe želite uporabljati to funkcijo. Najnovejši DirectX lahko snamete z microsoft.com.
+Podatki o predstavnosti
+Velikost:
+Na voljo:
+Trajanje:
+Utišaj
+Predvajaj
+Pavza
+Filter
+Konènice (loèene s presledki, npr. zip rar arj):
+Odstrani datoteke s takimi konènicami
+Obdži le datoteke s takimi konènicami
+Niz argumentov ne vsebuje makra %file%. Ta makro je potreben, saj pove protivirusnemu programu, katero datoteko naj pregleda.
+Vseeno nadaljuj?
+Opozorilo
+Uporabi atribut skrit za nedokonèane prenose
+Po zakljuèku dodaj komentar imenu datoteke
+Ne shranjuj strežnikovih strani
+Obkljukajte, èe ne želite shranjevati strežniških strani na vaš raèunalnik, temveè le datoteke in slike
+Uporabi predogled ZIP
+Obkljukajte, èe želite predogled vsebine arhiva ZIP ob zaèetku prenašanja, da se bo prenesel le del arhiva.
+Glasnost:
+Zaèni prenos samodejno
+Obkljukajte, èe želite, da zaène FDM samodejno prenašati vsak nov prenos
+Prosimo, preverite datoteke, katere želite prenesti
+Nastavite alternativne lokacije (URL-je) za ta prenos
+V prihodnosti ne uporabljaj predogleda
+Izklopili ste predogled arhivov ZIP. Èe ga želite vklopiti, pojdite v Možnosti -> Možnosti prenosa (Ctrl+O) -> zavihek Nov prenos in obkljukajte "Uporabi predogled ZIP".
+Spisek prezrtih
+Spisek spletnih strani, ki naj jih prezrem med prenosom portala
+Podmape
+Dodaj
+Prezri tudi vse podmape
+; Proxy tab new settings
+Uporabi povrnitev prejšnjega stanja pri zlomljenih povezavah
+Velikost povrnitve prejšnjega stanja
+bajtov
+Obkljukajte, èe želite vklopiti funkcionalnost povrnitve prejšnjega stanja. Ta možnost pomaga pri zašèiti prenosov pred poškodbami.
+Velikost povrnitve prejšnjega stanja. Veèja velikost omogoèa varnejše delo povrnitvi prejšnjega stanja. Priporoèena velikost je 3000 bajtov. To vrednost lahko povišate, èe je prenos še vedno poškodovan.
+; downloader options -> monitor tab
+Ne spremljaj datotek manjših od
+Uporabite to možnost, èe želite da FDM prezre datoteke z manjšo velikostjo od predpisane
+kilobajtov
+Opozorilo! Smeti so prevelike. To lahko obèutno vpliva na hitrost delovanja. Priporoèljivo je brisanje smeti. Jih želite brisati?
+Tega veè ne preverjaj
+Opozorilo! Zgodovina prenosov je prevelika. To lahko obèutno vpliva na hitrost delovanja. Priporoèljivo je brisanje zgodovine. Jo želite brisati?
+Strežnik ne more zagotoviti možnosti nadaljevanja. Odziv je neveljaven.
+Kopiraj v odložišèe
+; general settings | skins page
+Preobleke
+Preobleka
+Dovoli preoblekam uporabo lastnih ikon
+Dovoli preoblekam uporabo lastnih bitnih slik
+; default skin
+<privzeto>
+OPOMBA: Spremembe bodo zaèele veljati po ponovnem zagonu Free Download Managerja.
+Med prenašanjem prikaži informacije o prenosu
+Prezri datoteke s konènico:
+Spisek konènic datotek, katere naj ignoriram
+Ni aktivnih prenosov
+Predvajaj zvok, ko se vsi prenosi zakljuèijo
+Uvoz spiska URL-jev iz odložišèa
+Gesla
+Možnosti upravljavca portalov
+; Save password dialog
+Shranim geslo?
+Free Download Manager lahko shrani geslo za ta strežnik; tako gesla ne bo potrebno vpisovati ob vsakem prenosu s tega strežnika.
+Shranim to geslo?
+Shranjevanja gesel ne predlagaj veè
+; Site Manager options | Passwords tab
+Uporabi upravljavca portalov za shranjevanje gesel
+Vprašaj, ali želim shraniti geslo ali ne
+Ne predlagaj shranjevanja gesel
+Izbriši vsa gesla ob izhodu
+Izbriši vsa gesla
+; create new HTML Spider task
+Odstrani konèane prenose s spiska (priporoèljivo)
+Obkljukajte, èe želite prenose Pajka HTML brisati samodejno. To pohitri prenašanje velikih portalov.
+Spremebe bodo stopile v veljavo po ponovnem zagounu Free Download Managerja
+Nov slog
+Stari slog
+Ime mape ni veljavno
+Skrij lebdeèa okna v celozaslonskem naèinu
+Obkljukajte, èe želite, da se lebdeèa okna samodejno skrijejo v celozaslonskem naèinu.
+je bil naèrtovan za izvedbo.
+Ga želite izvesti?
+Izvedi prenos, ko je konèan
+Pri definiranju predloge URL-ja, prosimo, uporabljajte (*), (*A) ali (*a) v URL-ju
+Strežnik za iskanje zrcal:
+V stanje mirovanja
+V stanje pripravljenosti
+Zapomni si mojo izbiro
+Predlaganje spremembe privzete mape za skupino
+Shrani datoteko
+Odpri datoteko
+Shrani in odpri datoteko
+Vrsta prenosa:
+Povezava do FDM
+Povezava do Free Download Managerja
+Dragi uporabnik!
+Free Download Manager je neplaèljiv program. Brezplaèno ga lahko uporabljate dokler želite.
+Kakor koli, èe se vam zdi Free Download Manager uporaben, vas prosimo, da nam ga pomagate širiti s povezavo na vaši spletni strani. Tako bo veè ljudi izvedelo za Free Download Manager.
+Za pomoè se vam vnaprej zahvaljujemo,\nrazvojna ekipa Free Download Manager.
+Opomni me èez 3 dni
+Opomni me ob naslednjem zagonu Free Download Managerja
+Tega okna ne kaži veè
+Pregled kode HTML povezave
+Koda HTML povezave
+Veè primerov
+Kopiraj v odložišèe
+Skrij
+; "Traffic usage mode has been changed" window
+Naèin izrabe prometa se je spremenil
+Spremenili ste naèin rabe mrežnega prometa.\nFree Download Manager ima tri naèine:
+V tem naèinu bo Free Download Manager prenašal v najveèji možni hitrosti. To je najbolj agresiven naèin.
+V tem naèinu bo Free Download Manager prenašal v povpreèni hitrosti. Ta naèin vam omogoèa brskanje po internetu in prenašanje v veliki hitrosti hkrati.
+V tem naèinu bo Free Download Manager prenašal v nizki hitrosti. Ta naèin vam omogoèa prenašanje, brez dramatiène upoèasnitve omrežja.
+;
+Preimenuj ob ponovnem zagonu
+Vnesite vrednost manjšo od %d
+; export/import downloads
+Datoteka s spiskom URL-jev
+Datoteke spiskov informacij o prenosih
+;
+Možnosti izvoza
+;
+Datum datoteke nastavi na enak datum, kot ga navaja strežnik
+Datum prenesene datoteke nastavi na vrednost, ki jo ima datoteka na strežniku
+Ustvari opisno datoteko
+Ustvari datoteko z imenom "*.dsc.txt" (* - ime prenesene datoteke), ki bo vsebovala kratek opis prenesene datoteke (komentarji + url + datum). Ta datoteka bo ustvarjena le za prenos, ki ima komentarje.
+Ta datoteka je prenesena z
+S strežnika ne pridobivaj datuma datoteke
+Ta možnost omogoèa poveèanje hitrosti med zaèenjanjem prenosa FTP. Free Download Manager bo uporabil ukaz SIZE namesto LIST.
+Ne shranjuj dnevnikov prenosov
+Z vklopom te možnosti bo zagon in izhod iz Free Download Managerja hitrejši. Zmanjšala se bo tudi raba pomnilnika.
+;
+Izvoz zgodovine prenosov
+Izvozi vse vnose
+Izvozi vse vnose na spisku
+Izvozi izbrane vnose
+Izvozi le vnose o zakljuèenih prenosih
+;
+Datoteke HTML
+;
+Zgodovina prenosov Free Download Manager
+URL prenosa
+Prenesen v datoteko
+Velikost datoteke
+Prenos se je zakljuèil
+Prenos je bil izbrisan
+;
+Shranjen v
+Velikost datoteke
+Podpora nadaljevanju prenosov
+Zapri okno, ko se prenos zakljuèi ali ustavi
+Odpri
+Želite ponovno videti to okno?
+Da, okno želim videti ob vsakem prenosu
+Ne, okna ne kaži veè
+Da, ampak ne za ta prenos
+Uporaba tipke SHIFT pomeni, da bo ta prenos izbrisan z diska ter da ga ne bo mogoèe obnoviti.\nSte preprièani?
+Izberi skupino
+Izbira korenske mape skupine
+Izbira korenske mape skupine.\nSpremembe bodo veljale le za nove prenose.
+Nedavne prenesene datoteke
+(prazno)
+Omejitev vseh prenosov
+Pokaži okno napredovanje prenosa
+Èe je obkljukano, bo FDM ustvaril posebno okno z informacijami o prenašanju, za vsak prenos v teku
+; general settings | misc page
+Èasovni poteki za potrditve
+Zaženi prenos
+Vprašaj za vrsto izklopa
+Èasovni potek potrditve za ukaz: "Orodja | Po zakljuèku prekini povezavo".
+Èasovni potek potrditve za ukaz: "Orodja | Po zakljuèku zapri FDM".
+Èasovni potek potrditve za ukaz: "Orodja | Po zakljuèku ugasni raèunalnik".
+Èasovni potek potrditve za poženi preneseno datoteko, ko je prenos zakljuèen.
+Èe je obkljukano, vas bo FDM vprašal po vrsti ugasnitve za ukaz: "Orodja | Po zakljuèku ugasni raèunalnik".
+Ne zahtevaj potrditve
+; 5 seconds, 10 seconds, ...
+%d sekund
+Èakaj na mojo potrditev
+Prezri strani iz te mape
+Prenesi strani le iz te mape
+Vkljuèno s podmapami
+Prezri vse spletne strani, ki se nahajajo v tej mapi.
+Prenesi le strani, ki se nahajajo v tej mapi in prezri ostale strani.
+Obkljukajte, èe želite, da Pajek HTML prezre (oz. upošteva le) strani, ki se nahajajo v doloèeni mapi in vseh podmapah.
+Tukaj navedite URL mape.\nNa primer: "http://stran.com/dokumenti/".
+Vrsta
+Prezri
+Samo
+Niz števil
+Doloèi
+Tukaj navedite niz števil za spisek množiènih prenosov.\nNpr. 1-100 ali 1-100s2w3.
+Pritisnite gumb za navedbo niza števil z uporabo pogovornega okna.
+Eno število
+Število
+Doloèi niz števil
+Skladenjska napaka
+Razširi arhiv
+Razširi
+Izvleèek
+Ciljna mapa
+Razširjanje ni uspelo. Neznana oblika datoteke.
+Promet prenosov v tem mesecu\n(%s preneseno v prejšnjem mesecu)
+Skupna hitrost prenašanja
+Onemogoèi opravilo Orodja | "Po zakljuèku"
+Èe je omogoèeno, bo katero koli opravilo tipa Orodja | "Po zakljuèku" samodejno onemogoèeno po izvedbi. To pomeni, da bo zagnano le enkrat.
+; %s
+; 1st - name of a file
+; 2nd, 3rd - file info (size + date).
+Datoteka %s že obstaja.\n\nŽelite zamenjati obstojeèo datoteko \n(%s)\n\ns to datoteko \n(%s)?
+Da za vse
+Preskoèi
+Preskoèi vse
+Format arhiva je neznan
+Obisk spletne strani
+Namestitev paketa
+Privzeto FDM podpira le arhive ZIP, RAR in ARJ.\nSpisek podprtih arhivov lahko razširite z namestitvijo paketa za podporo dodatnih arhivov za Free Download Manager (potrebna je internetna povezava).
+Paket FDM za podporo arhivov
+Pomakni gor
+Pomakni dol
+Pomakni izbran(e) prenos(e) gor
+Pomakni izbran(e) prenos(e) dol
+Preveri neokrnjenost datoteke
+Nekateri spletni portali nudijo posebne kontrolne vsote (checksum) datotekam, ki so na voljo za prenos. S tem imajo uporabniki možnost preveriti, ali je prenesena datoteka poškodovana. Tako kontrolno vsoto lahko vstavite tukaj in FDM bo preveril neokrnjenost datoteke.
+Algoritem
+Poskusna vsota (checksum)
+Prilepi z odložišèa
+Preveri
+Raèunanje poskusne vsote prenesene datoteke ...
+Preverjanje neokrnjenosti datoteke uspešno konèano
+Preverjanje neokrnjenosti datoteke spodletelo
+Preverjanje neokrnjenosti datoteke se je uspešno zakljuèilo.\nV preneseni datoteki ni bilo najdenih napak.
+Preverjanje neokrnjenosti datoteke se je zakljuèilo.\nNajdene so bile napake: datoteka se je poškodovala v postopku prenosa. Potreben je ponoven prenos.
+Tega okna ne kaži veè, ko je preverjanje uspešno
+Ne najdem izvršilne datoteke (.exe) izbranega protivirusnega programa.\nProsimo, navedite jo roèno.
+Velikosti datotek se ne ujemajo
+Shrani kot:\n(Primer: datoteka(*)(*A)(*a).txt)
+Navedli ste neveljavno predlogo "Shrani kot".\nPreprièajte se, da se ujema s predlogo URL.
+Po koncu
+Po koncu (vsi konèani ali v napaki)
+Programi
+Kaj je to?
+Mnenja
+;
+Dragi ljudje!
+Free Download Manager (FDM) je v svetu med najbolj priljubljenimi programi za prenašanje, z milijon aktivnimi uporabniki, ampak zdaj, ko je postal socialna aplikacija, hoèemo veè!
+Èe se vam zdi uporaben kot nam oz. program, ki ga "morate" imeti, vas prosimo, da nam ga pomagate širiti s povezavo na blogu, spletni strani ali zasebnem prostoru, kot je na primer Myspace/MSN.
+; %s will be replaced with "FDM buzz" 
+Uradno %s se je zaèelo 16. avgusta 2006. Naš cilj je narediti FDM najhitreje širjeni internetni pripomoèek po Firefoxu!
+brenèanje FDM
+; %s will be replaced with "blog" 
+Napredovanje FDM lahko spremljate na našem %s.
+blogu
+Za pomoè se vam vnaprej zahvaljujemo,\nrazvojna ekipa Free Download Manager.
+Imam dober spomin, tega okna ne kaži veè.
+Pridruži se brenèanju
+Ne, hvala
+Skupnost FDM
+Po prenosu preklopi na "Mnenja"
+Èe je omogoèeno, se bo po koncu prenosa samodejno sprožil zavihek "Mnenja".
+Spremeni omrežno identifikacijo Internet Explorerja
+Èe je omogoèeno, bo spletnim stranem, po katerih brskate, sporoèeno, da je Free Download Manager namešèen. Ta možnost lahko povzroèi blokiranje nekaterih portalov.
+Zlobno?
+Preverite, èe je kateri izmed uporabnikov Free Download Managerja prijavil, da ta prenos vsebuje virus/adware/spyware itd.
+V redu, nobeden izmed uporabnikov Free Download Managerja ni prijavil tega prenosa kot zlobnega.\n\nTo ne zagotavlja, da prenos dejansko ni "zloben"; priporoèljivo ga je preveriti s protivirusnim programov.
+; keep all %xxx, \n as is.
+%d od %d uporabnikov Free Download Managerja je prijavilo ta prenos kot "zloben".\nPovpreèna ocena tega prenosa je %.*g.\n\nPrikažem mnenja o tem prenosu?
+Pred zaèetkom prenašanja za vsak nov prenos preveri, ali je "zloben"
+Uporabite to možnost, èe želite, da FDM pred zaèetkom prenašanja samodejno preveri, ali je kateri uporabnik prijavil prenos kot "zloben".
+Prikaži mnenja med prenašanjem
+Èe je omogoèeno, bo FDM samodejno sprožil zavihek "Mnenja" in prikazal mnenja o trenutnem prenosu.
+Preverjanje, èe je prenos "zloben" (glej možnosti za izkljuèitev te funkcije)
+V redu, prenos ni prijavljen kot "zloben"
+Opozorilo! Prenos je prijavljen kot "zloben"
+Zapri
+Nalaganje
+Ne prenesi tega
+Predpomnenje operacij zapisovanja prenesenih podatkov na disk
+Èe je omogoèeno, bo FDM uporabil notranji predpomnilnik z velikostjo, katero ste navedli za operacije pisanja prenesenih podatkov na disk. To bo zmanjšalo število dostopov do HDD, kar lahko poveèa hitrost prenašanja pri povezavah velikih hitrosti.\nKer pa podatki niso zapisani na HDD nemudoma, se lahko zgodi, da bo potreben ponoven prenos podatkov v primeru napake raèunalnika (v najslabšem primeru podatkov velikosti, katero ste navedli).\nPriporoèljivo za povezave velikih hitrosti.
+Spremljanja SeaMonkeyja (Mozilla Suite) ni možno namestiti
+Spremljanja SeaMonkeyja (Mozilla Suite) ni možno odstraniti
+Obkljukajte, èe želite da FDM spremlja klike znotraj brskalnika Mozilla Firefox
+Obkljukajte, èe želite da FDM spremlja klike znotraj brskalnika SeaMonkey (Mozilla Suite)
+Dopusti brskalniku, da prenese, èe kliknem Preklièi
+Obkljukajte, èe želite, da brskalnik prenese datoteko po tem, ko ste v oknu "Dodaj prenos" izbrali Preklièi
+Dodaj FDM v meni (desni klik) brskalnika
+Obkljukajte, èe želite dodati "Prenos z uporabo Free Download Managerja" in "Prenesi spletni portal z uporabo Free Download Managerja" v meni (meni se prikaže od desnem kliku)
+Izberite postavke menija, ki bodo prikazane v meniju brskalnika
+Spremljanja Firefoxa ni možno namestiti
+Premakni datoteke v mapo
+Hitrost je premajhna. Ponovno zaèenjanje razdelka ...
+Ponovno zaèni, èe je hitrost prenizka med (v min):
+Ponovno zaèni razdelek pri dramatiènem upadu hitrosti prenašanja.
+Želite ponovno videti okno napredovanja prenašanja?
+Oprostite, ta storitev trenutno ni na voljo. Prosimo, poskusite kasneje.
+Pomakni na vrh
+Pomakni na dno
+Postavi prenos na vrh spiska
+Obkljukajte, èe želite, da se prenos uvrsti na vrh spiska prenosov.
+Spremljanje brskalnika Firefox ni mogoèe, ker je namešèena razširitev FlashGot.\nNajprej odstranite FlashGot.
+Omogoèi
+Onemogoèi
+Preklopi
+Èe je vkljuèena "Omejitev vseh prenosov", se bo izkljuèila, drugaèe vkljuèila.
+Uradno %s se bo zaèelo 16. avgusta 2006. Naš cilj je narediti FDM najhitreje širjeni internetni pripomoèek po Firefoxu!
+Samodejno prenesi in namesti posodobitve
+Obvesti me samo, ko je na voljo posodobitev
+Izklopi samodejne posodobitve
+Sedaj je spremljanje v %s omogoèeno.
+Izbriši zapis
+Lahko izbrišem?
+Mapa Free Download Managerja nima nastavljenega dostopa za pisanje.\nPriporoèamo, da omogoèite dostop za pisanje, èe želite Free Download Managerju dovoliti shranjevanje svojih podatkovnih datotek; v nasprotnem primeru bodo vsi podatki ob ponovnem zagonu Free Download Managerja dovoljeni.
+Ta majhna košarica vam omogoèa, da povleèete in spustite povezave iz brskalnika v Free Download Manager.\nOmogoèa hitro skrivanje ali prikaz okna Free Download Managerja z dvojnim klikom levega gumba.\n\nÈe jo želite skriti, z desnim gumbom kliknite nanjo in odznaèite vnos "Spustna košarica".
+Spustna košarica Free Download Managerja
+Onemogoèi vsa obvestila za množiène prenose
+Oznaèite to možnost, èe želite onemogoèiti vsa obvestila (balone, zvoke) za prenose, ustvarjene z ukazom "%s".
+Seznam izpustov
+Doloèite seznam konènic datotek in seznam strani, katerih naj ne spremljam.
+Ne ujemi prenosov s teh strani (loèenih s presledkom):
+Free Download Manager ne bo spremljal prenose s strani, doloèenih na tem seznamu. Domene doloèite tukaj (npr. "stran.com"). Uporabite lahko znak '*'.
+Opozorilo!\nMed poskusom izvedbe pregleda za virusi je prišlo do napake.\nŽelite vseeno zagnati preneseno datoteko?
+Neokrnjenost
+Izvedi preverjanje neokrnjenosti ob dokonèanem prenosu datoteke
+Èe želite izvesti preizkus neokrnjenosti, mora Free Download Manager vedeti veljavno kontrolno vsoto datoteke. V veèini primer jo morate navesti za vsak prenos.
+Èe preverjanje ni uspelo
+Veljavna kontrolna vsota datoteke
+Ne naredi nièesar
+Tukaj doloèite, kaj naj FDM naredi, ko preverjanje neokrnjenosti spodleti.\nVprašaj - FDM bo vprašal, kaj naj naredi.\nPonovno zaèni - FDM bo ponovno zaèel prenos od zaèetka.\nNe naredi nièesar - FDM bo dodal zapis o spodletelem pregledu v dnevnik prenesene datoteke in ne bo naredil nièesar drugega.
+Izvajanje preizkusa neokrnjenosti ...
+Preizkus neokrnjenosti je uspel.
+Preizkus neokrnjenosti je spodletel.
+Doloèite algoritem preizkusa neokrnjenosti.
+Veljavna kontrolna vsota
+Rezultat kontrolne vsote
+; zip preview window
+Oznaèi/opusti vse
+; group's properties dialog
+Makri
+ime strežnika (npr. "freedownloadmanager.org")
+pot do datoteke za prenos na strežniku
+trenutno leto
+trenutni mesec (število od 1 do 12)
+trenutni dan
+; don't translate "%year%-%month%-%day%" here
+enako kot "%year%-%month%-%day%"
+;
+Iz Mozille Firefox
+FDM bo uporabil nastavitve proxy iz Firefoxa
+; new download settings
+Uporabi to skupino
+; Downloads -> Schedule ->
+Zaèni
+Ustavi
+Naèrtovan zaèetek prenosa
+Naèrtovana ustavitev prenosa
+;
+; downloads that are not completed or have been completed recently
+Nedokonèano+Nedavno
+Starševska skupina
+;
+; create new download dialog -> set output folder as default dialog
+Nastavi kot privzeto za vse skupine prenosov
+; %s - place of name of the group. don't change this
+Nastavim to mapo kot privzeto izhodno mapo za skupino "%s"?
+;
+;
+Poèisti seznam prenosov
+Nalaganja
+Naloži datoteke
+Zaèni z nalaganjem
+Ustavi nalaganje
+Naèrtuj nalaganje
+Pomakni izbrana nalaganja gor
+Pomakni izbrana nalaganja dol
+Naloženo
+Seznam nalaganj
+Pridobivanje ciljnega URL nalaganja z baznega strežnika ...
+Prekini
+; outlook express: view | insert file | ...
+Kot priloga
+Kot povezava (nagalanje)
+Mapa
+;
+Dodaj datoteke
+Dodaj mapo
+BitTorrent
+Omogoèi podporo protokolu BitTorrent
+Omeji promet nalaganja
+Omeji število povezav nalaganja
+Uporabi vrata v obmoèju od
+do
+Omogoèi DHT
+Omogoèi/onemogoèi podporo protokola BitTorrent. Kakor koli, èe so na seznamu ali v smeteh še kakšni prenosi BitTorrent, protokol BitTorrent ne bo popolnoma onemogoèen.
+Omeji najveèjo hitrost povezav za nalaganje. To ni priporoèljivo za protokol BitTorrent in bo morda zmanjšalo vašo hitrost prenašanja.
+Omeji najveèje število celotnih povezav za nalaganje. Nastavitev prenizke številke lahko povzroèi padec vaše hitrosti prenašanja.
+Tukaj doloèite razpon vrat, katera bo FDM uporabil za povezave za nalaganje.
+Omogoèi razširitev DHT (prenos brez uporabe sledilnika). Omogoèitev možnosti bo vplivala na dvig porabe prometa omrežja.
+Ime
+Sledilnik zahteva prijavo
+Dodaj prenos BitTorrent
+Med poskusom obdelave datoteke torrent je prišlo do napake.
+Datoteka torrent
+Kot kaže, želite prenesti datoteko .torrent. Da lahko to storite, mora biti v Free Download Managerju omogoèena podpora BitTorrent.\n\nŽelite omogoèiti BitTorrent?
+Vnesite vaši gesli: vneseni gesli se ne ujemata.
+Doloèite datoteke, ki jih želite prenesti.
+Nastavitve nalaganja
+Zaznana je bila datoteka z informacijami Metalink. Nadaljujem s prenašanjem.
+Zaznana je bila datoteka z informacijami BitTorrent. Nadaljujem s prenašanjem.
+Dostopanje do datotek na disku je spodletelo.
+Povezovanje sledilnika ...
+Nisem uspel prejeti veljavnega odziva sledilnika.
+Odziv sledilnika sem uspešno prejel.
+Preverjanje zgošèene vrednosti (hash) dela prenosa je spodletelo. Ponovno ga prenašam ...
+Nameni vso pasovno širino za ta prenos
+Onemogoèim samodejni zagon Free Download Managerja ob zagonu sistema Windows?
+Oprostite, storitev skupnosti FDM trenutno ni na voljo. Prosimo, poskusite znova pozneje.
+Ime datoteke ne sme vsebovati katerega koli od znakov \ / : * ? " < > |. Prosimo, vnesite drugo ime.
+Ime mape ne sme vsebovati katerega koli od znakov : * ? " < > |. Prosimo, vnesite drugo ime.
+Prilagodi lebdeèa okna ...
+Prosojnost
+Podatki
+Hrani vse podatkovne datoteke v mapo trenutnega uporabnika
+Hrani datoteke v tej mapi
+Spremembe bodo stopile v veljavo po ponovnem zagonu Free Download Managerja.
+Prikaži okno napredovanja prenosa
+Ustvari prenosno razlièico
+Prenosno razlièico Free Download Managerja lahko uporabljate na razliènih raèunalnikih brez potrebe po namestitvi in konfiguriranju na vsakem raèunalniku.\n\nPriroèno ga lahko shranite na npr. kljuèek USB.\n\nKo ga zaženete, se samodejno registrira v sistem raèunalnika in integrira v brskalnike. Ob izhodu se bo samodejno odregistriral.\n\nTukaj doloèite pot, kjer bi radi ustvarili to razlièico. Mapa naj bo na nekem odstranljivem pogonu.\n\nNpr. "I:\Moji prenosni programi\".
+Integracija
+Poveži Free Download Manager z datotekami .torrent
+Vedno uporabi to skupino za nove prenose
+Vedno uporabi to skupino in vsakiè si zapomni zadnjo izhodno mapo
+Prenosi flashvideov
+Prenesi video s Free Download Managerjem
+Ta stran ni podprta. Oglejte si seznam podprtih strani.
+Ogled v oknu Prenosi
+To je stran s flashvideom. Prenašanje flashvidea ...
+Pretvarjanje ...
+Pretvori
+Možnosti pretvorbe
+Oblika datoteke
+Velikost videa
+; video quality
+Kakovost
+Zelo nizka
+Nizka
+Normalna
+Povpreèna
+Visoka
+Zelo visoka
+;
+AVI z uporabo MPEG-4 (*.avi)
+AVI z uporabo XVID (*.avi)
+Ne spremeni
+Bitna hitrost videa
+Bitna hitrost zvoka
+Zapomni si nastavitve kot privzete
+;
+Ustvari prenos flashvidea
+Samodejno pretvori prenesen video v doloèeno obliko
+Nastavi napredne nastavitve
+Ogled seznama podprtih strani
+; used in "create flash video download" window
+npr.
+Naslednji poskus povezave s sledilnikom v %d sekundah
+Pripravljanje datotek na disku ... To lahko traja nekaj minut
+Stanje
+Pripravljanje datotek na disku ...
+MP4 za iPod/PSP (MPEG4 + AAC, *.mp4)
+Predogled/pretvorba
+Pretvori predstavnostno datoteko
+Samodejno preklopi na ta zavihek
+;keep "\n\n%s\n" as is
+Predstavnostna datoteka je bila uspešno pretvorjena in shranjena v\n\n%s\n.
+Pretvorba predstavnostne datoteke je spodletela\n\n%s.
+Skupina novih prenosov
+Odtis informacij
+Omrežni vrstniki
+Odjemalec
+Delci
+Sledilnik
+Stanje sledilnika
+Hitrost nalaganja
+Naloženih bajtov
+Razmerje deljenja
+Števec zapravljenih bajtov
+URL datoteke torrent
+Ste preprièani?\nTo bo ponovno zagnalo prenos od zaèetka.
+Uporabljen promet ("preneseno"; "naloženo") v tem mesecu\n(%s je bilo uporabljeno v prejšnjem mesecu)
+Skupna hitrost ("prenašanje"; "nalaganje")
+Datoteke za nalaganje
+Ime paketa
+Stisni
+Doloèite geslo za ta prenos
+Ponovno
+Ohrani te datoteke
+Domnevno število prenosov
+Dodaj povezavo do teh datotek v naš katalog
+Vkljuèi napredne informacije (vsa polja so neobvezna)
+Opis
+Oznake
+Vaše ime
+Vaša e-pošta
+E-pošta prejemnika
+Manj kot 10
+Od 10 do 100
+Veè kot 100
+2 dneva
+7 dni
+1 mesec
+;compression methods
+Brez
+Hitro
+Povpreèno
+Najboljše
+Nastavitve nalagalnika
+Integriraj nalagalnik v
+Kontekstni meni Exporerja
+Explorerjev meni "Pošlji ..."
+Uporabi preprost meni za nagalanje
+Najmanjša velikost datoteke za nalaganje
+Nastavitve proxy HTTP
+Aktivacija nalaganja
+Nagalanje potrebuje aktivacijo. To je potrebno zaradi zašèite našega strežnika pred samodejnimi nalaganji. Vnesite aktivacijsko kodo.
+Povezovanje s strežnikom za nalaganje
+Uspešno povezan na strežnik za nalaganje
+Datoteke so bile uspešno naložene na strežnik
+Nalaganje datoteke je ustavljeno
+Ustvarjanje arhiva zip naloženih datotek ...
+Ustvarjanje arhiva zip je spodletelo
+Arhiv zip je bil uspešno ustvarjen
+Pošiljanje zahteve na strežnik
+Pošiljanje informacij o tem nalaganju na strežnik
+Informacije so bile poslane
+Pošiljanje informacij o tem nalaganju na strežnik je spodletelo
+Aktiviranje nalaganje ...
+Nalaganje je bilo uspešno aktivirano
+Aktiviranje nalaganje je spodletelo
+Nalagana datoteka je bila spremenjena na disku
+Neprièakovana napaka
+Raèunanje kontrolne vsote ...
+; "I agree to terms" string in two lines
+Strinjam se s
+pogoji
+Strinjati se morate s pogoji.
+Preverjanje posodobitev je spodletelo
+Na voljo je nova razlièica. Zahtevana je posodobitev vaše razlièice.\nŽelite posodobiti zdaj?
+Zahtevana je posodobitev Free Download Managerja
+Zahtevan je ponovni zagon Free Download Managerja
+Vprašaj me za nalaganje priponk
+Pripni pismu (poèasno) ...
+Naloži in vstavi povezavo (svetlobno hitro) ...
+Med poskusom zaèetka nalaganja je prišlo do napake. Preverite svojo povezavo ali poskusite znova pozneje.
+Pripeli ste velike datoteke.\nIz veè razlogov pošiljanje velikih datotek kot priponke ni priporoèljivo, ampak datoteke raje naložite in pošljite povezave do njih.\n\nJih želite naložiti?
+Priporoèljiva je posodobitev
+Nastavitve integracije
+Nalaganje %s je konèano.\nUporabite naslednji URL kot povezavo za prenos:
+Skupna velikost
+Odpri v brskalniku
+Trenutne razlièice Free Download Managerja veè ni mogoèe uporabljati za nalaganje datotek. Potrebno jo je posodobiti.
+Trenutne razlièice Free Upload Managerja veè ni mogoèe uporabljati. Potrebno jo je posodobiti. Prosimo, obišèite stran freedownloadmanager.org.
+Predolgi vnos.
+Nastavitve integriranja upravljavca nalaganj
+Nastavitve integriranja Free Upload Managerja
+Naloži
+Prenašanje posodobitev ...
+Omogoèi sejanje
+Onemogoèi sejanje po privzetem
+Štej prenos za zloben, èe ga je najmanj
+% uporabnikov oznaèilo kot zlobnega
+V redu, uporabniki FDM tega prenosa niso oznaèili kot zlobnega.\n\nKakor koli, to ne zagotavlja, da prenos ni zloben, zato priporoèamo, da ga preverite z uporabo protivirusnega programa.
+V redu, uporabniki FDM tega prenosa niso oznaèili kot zlobnega
+èrke pogona je bil FDM pognan. Npr. "C:". To je uporabno za prenosno razlièico.
+Za uporabo te funkcije morate namestiti vtiènik za pretvarjanje videoposnetkov.
+Za prenašanje preko pretokola BitTorrent morate namestiti vtiènik BitTorrent.
+Opomba: te datoteke (*.sav) so datoteke storitve Free Download Manager (ne prenesene datoteke).
+Želite kopirati trenutne podatkovne datoteke v novo mapo (obstojeèe datoteke bodo prepisane)?
+Privzeta mapa za prenose vseh skupin bo nastavljena na to mapo.\nNaj nadaljujem?
+Nastavi privzeto mapo za prenose
+Prepreèi uporabniku prehod v stanje pripravljenosti med prenašanjem
+Najveèje število polodprtih povezav
+Torrenti
+Dostopanje do datotek na disku je spodletelo. Preverite, èe je disk poln ali zašèiten pred zapisovanjem.
+Razmerje
+Seznam torrentov
+Dodaj prenos torrenta s spleta
+Dodaj prenos torrenta iz datoteke
+Ustvari nov torrent
+(samodejno)
+Vir
+Velikost delca
+Sledilniki
+Dodaj sledilnik
+Odstrani sledilnik
+Zaèni sejanje torrenta
+Shrani
+Ustvari nov torrent
+Datoteke torrent
+Prednost
+;normal/high priority
+preskoèi
+navadna
+visoka
+Lebdeèa okna
+Datoteke storitve (seznam prenosov, zgodovina itn.)
+Privzete nastavitve za prenose strani
+Zastali ste vse prenose. To pomeni, da se bodo vsi prenosi prenašali z zelo nizko hitrostjo (po navadi 1 B/s).\nTo omogoèa celo "premor" prenosov, ki nimajo podpore za nadaljevanje.\n\nZa povrnitev v normalno stanje ponovno izvedite ta ukaz ali ponovno zaženite FDM.
+Sejanje
+Omogoèi sejanje (zelo priporoèljivo)
+Neomejeno sejanje
+Omeji z razmerjem
+Sejaj, dokler ne bo razmerje
+Omeji s èasom
+Sejaj med
+Preveri, ali prenos z enakim URL že obstaja
+Shrani zgodovino prenosov
+Navedi moje nedavno prenesene datoteke
+Privzete nastavitve prenosov BitTorrent
+Ponovno zaèni konèane prenose
+Doloèite mapo prenosne razlièice Firefoxa.
+Ne najdem mape vtiènikov Apple Safari. Jo želite vnesti roèno?
+Ne najdem mape vtiènikov Google Chroma. Jo želite vnesti roèno?
+Spremljanja Apple Safari ni možno namestiti
+Spremljanja Apple Safari ni možno odstraniti
+Spremljanja Google Chrome ni možno namestiti
+Spremljanja Google Chrome ni možno odstraniti
+Èasovna omejitev
+;hours, for shprt
+ur
+Omeji èas, ko lahko FDM zaène prenose
+Omogoèi prièenjanje samo od
+Normalna prednost
+Visoka prednost
+Osnovno
+Brez èasovne omejitve za balone o dokonèanih prenosih
+Preveri, ali je nov prenos zrcalo že obstojeèega
+Prikaži majhna okenca z obvestilom ob dokonèanju prenosa
+Samodejno skrij po
+Vam je FDM všeè? Preizkusite Personal Informer!
+Najnovejša razlièica FDM vsebuje brezplaèen bonus: Personal Informer.
+Nastavi hitre povezave do vseh vaših
+priljubljenih strani
+; next line means --- after you start _browser_. "_browser_" will be Internet Explorer or Firefox
+na vaši domaèi stran, kjer lahko dostopate do njih takoj po zagonu brskalnika
+; \n means next line. don't change this.
+Analizirali bomo vašo zgodovino brskanja in prikazali seznam\nobiskanih spletnih strani, za katere menimo, da bi jih radi\nimeli na vaši domaèi strani. Seznam bo nato\nmogoèe prilagoditi.
+Ste preprièani? Celoten postopek bo trajal manj kot eno minuto in vam bo ustvaril zares zmogljivo domaèo stran.
+Še vedno preklièi
+Nadaljuj
+Želite, da vas ponovno spomnimo v nekaj dneh?
+Naslov
+Spremljaj prenose videoposnetkov flash v brskalnikih
+Uporaba te funkcije lahko povzroèi spore z drugimi programi, namešèenimi na vašem raèunalniku. Èe se pojavljajo težave, boste morali onemogoèiti to funkcijo v FDM ali poskusiti razrešiti spore z odstranitvijo nasprotujoèe programske opreme ali onemogoèitvijo nekaterih njegovih funkcij.
+Spletna stran
+Na strani smo našli flashvidee
+Za to morate omogoèiti spremljanje prenosov flashvideov. Oglejte si Nastavitve | Prenosi | Flashvidei.
+Vnesite URL spletne strani, s katere želite prenesti flashvidee. Pomnite, da mora biti stran že naložena v brskalniku in videi se morajo predvajati.
+Iskanje flashvideov ...
+Na strani nisem našel nobenih flashvideov. Preprièajte se, da se videi na strani predvajajo ali jo poskusite ponovno naložiti (osvežite stran ali poèistite predpomnilnik brskalnika).
+; keep "0x%x" as is
+Med pridobivanjem prenosov je prišlo do napake.\nNapaka: 0x%x.
+Napaka
+Prikaži gumb "Prenesi"
+(samo Internet Explorer)
+Iskanje informacij o spletni strani je spodletelo. Prosimo, prisilite vaš brskalnik, da jo ponovno naloži.
+Flashvidei
+Omeji najveèje število povezav
+To bo onemogoèilo namige FDM. Ste preprièani?\nNamige lahko ponovno omogoèite v Nastavitve | Obvestila.
+Prikaži namige
+Napaka! Posodobitvene datoteke ni podpisal FreeDownloadManager.ORG.
+;
+; Also, please download and translate this file:
+;  http://freedownloadmanager.org/tips-eng.txt
+; Note, that it's UTF-8 encoded file (use Notepad.exe to edit).
+;  and do not change text in tags (between "<>", e.g. "<a href...>")
+; Send translated file to support@freedownloadmanager.org.
+;
+;
+(samo Internet Explorer in Firefox)
+Prikaži gumb "Prenesi"
+Modul spremljanja flashvideov ni naložen. Preprièajte se, da je FDM zagnan in da ste v FDM omogoèili to možnost (oglejte si Možnosti | Prenosi | Flashvidei).
+; do not change "0x%x"
+Med poskusom prenašanja prenosov v FDM je prišlo do napake.\nNapake: 0x%x.
+Prenesi
+Prikaži ta gumb
+Ni prenosov za izvoziti.
+Nièesar ni za izvoziti.
+po "tihem" ustvarjanju
+Za omogoèitev/onemogoèitev spremljanja boste morali imeti administratorsko dovoljenje.
+Med poskusov omogoèitve/onemogoèitve integracije je prišlo do napake.
+Ni zadostnih pravic
+Za izvoz/uvoz nastavitve boste morali imeti administratorsko dovoljenje.
+Prenesi s FDM
+; please keep %d, %s and %% as is
+; %d - percents
+%d% % preneseno skupaj
+; left to download at... some speed
+preostalo je %s za prenos pri
+Pot do mape uporabnikovega profila.
+Uvozi prenose mTorrent
+Shranjevalne mape mTorrent nisem našel!
+FDM lahko uvozi vse vaše obstojeèe prenose mTorrent. Želite izvesti uvoz?\nLahko ga izvedete kadar koli pozneje z uporabo menija Datoteka | Uvoz | Prenosi mTorrent.
+FDM lahko uvozi vse vaše obstojeèe prenose mTorrent.\nUvoz lahko izvedete kadar koli pozneje z uporabo menija Datoteka | Uvoz | Uvozi prenose iz drugih upravljavcev.
+Uvozi prenose iz drugih upravljavcev
+Orbit Downloader
+LeechGet
+Ne morem najti poti do podatkov programa Orbit Downloader.
+Ne morem zaznati poti do podatkov programa Orbit Downloader.
+Napaka: %d (%02X)
+Diagnostika sistema: %s
+Ne morem najti datoteke storitve Orbit Downloader, ki vsebuje seznam prenosov.
+Ne morem brati seznama seznama prenosov Orbit Downloader.
+Ne morem razèleniti seznama prenosov Orbit Downloader. Seznam prenosov ima neprièakovano obliko.
+Ustvarjanje in konfiguriranje %d prenosov po poti, datoteki in URL, uvoženih iz Orbit Downloaderja, je spodletelo.
+Ne morem uvoziti prenosov.
+Na seznamu prenosov Orbit Downloader ni podatkov!
+Orbit Downloader ni namešèen na tej napravi!
+Uvoz prenosov iz %s je ustvarila naslednja napaka.
+Želite nadaljevati uvoz iz drugih upravljavcev?
+Obdelano:
+Uspešno:
+Spodletelo:
+Neobdelano:
+Skupno:
+mTorrent
+neopredeljeno
+%d od %d
+Izberite upravljavce, iz katerih želite uvoziti prenose:
+FDM lahko uvozi prenose iz drugih upravljavcev. Želite izvesti uvoz?\nUvoz lahko izvedete kadar koli pozneje z uporabo menija Datoteka | Uvoz | Uvozi prenos iz drugih upravljavcev.
+Podrobnosti: %s
+Ne morem obdelati zahteve omrežnega vrstnika.
+Med nalaganjem seznama prenosov je prišlo do usodne napake.\nKliknite V REDU za nadaljevanje (nekateri ali vsi prenosi bodo izgubljeni) ali PREKLIÈI za izhod.\nTežavo je morda povzroèila nepravilna namestitev FDM ali poškodovana podatkovna datoteka.
+Neveljavna namestitev: namešèenega modula BitTorrent ni mogoèe uporabljati s to razlièico FDM.\nProsimo, namestite ga ponovno.\nKliknite OK za izhod.
+; %d - je število
+prejetih %d omrežnih vrstnikov
+Takšen prenos BitTorrent že obstaja
+Za uveljavitev nastavitev morate imeti administratorske pravice.
+Doloèi samodejno
+Izberi ...
+Hitrost povezave
+Nastavitve za naèine izrabe prometa
+% hitrosti povezave
+Upravljaj samodejno
+; set some setting (maximum number of connections, for example) to some number
+Nastavi na
+Trenutno hitrost povezave FDM izmeri samodejno, ko se odloèi, da to mora storiti. Èe vidite nekatere napaène vrednosti, pustite FDM delovati še naprej in morali bi videti boljše rezultate. Pomnite, da FDM izmeri hitrost samo med prenašanjem/nalaganjem. Veèje število prenosov/nalaganj pomaga boljše doloèiti hitrost.
+Hitrost prenosa
+Izmeri ponovno
+Doloèite vrednost
+Vrednost mora biti število veèje ali enako niè.
+Doloèite v biti namesto v bajtih
+Ustvari prenos RTSP ali MMS
+Pretakanje v živo
+Poskusi ponovno
+Prekini vse
+Poskusil sem premakniti datoteko:\n %s\n\n v ciljno mapo pod imenom:\n %s\n\n%s: %s\n\nProsimo, zaprite vse programe, ki morda uporabljajo datoteko.

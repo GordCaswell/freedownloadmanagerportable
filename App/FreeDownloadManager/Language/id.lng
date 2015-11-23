@@ -1,0 +1,1696 @@
+; This is a language file
+; You can translate it into your native language
+; To do this, follow instructions:
+; - PLEASE make sure FDM hasn't already been translated into your language
+;   You should go to FDM web site (http://freedownloadmanager.org) and
+;   check the list of available languages
+;   or e-mail to support@freedownloadmanager.org
+; - copy this language file to xxx.lng, where xxx is the reduced name
+;   of your language. For English it is eng
+; - translate all strings of xxx.lng into your language
+; - send the translated file to support@freedownloadmanager.org
+;
+;
+;
+; Translator - FreeDownloadManager.ORG, 2004
+;
+
+; Your language name. Please keep it in English
+;
+Indonesian
+;
+;
+; Below are the strings to translate:
+;
+Simpan semua
+Potong
+Salin
+Tempel
+Modus Ringan
+Modus Sedang
+Modus Berat
+Pilihan unduhan
+Panggil koneksi
+Tentang FDM
+Keluar
+Berkas
+Sunting
+Tampilan
+Pilihan
+Alat
+Bantuan
+Bilah Alat
+Bilah Status
+Master optimisasi
+Pengaturan unduhan standar
+Pengaturan Umum
+Panggil koneksi
+Tutup ketika selesai
+Matikan komputer ketika selesai
+Buka Jendela Referensi Bantuan
+Halaman muka FDM
+Beritahu teman
+Kirim e-mail ke grup pendukung
+Periksa pembaharuan secara otomatis
+Periksa pembaharuan sekarang
+-
+-
+Pindah ke
+Modus pemakaian jalur
+Pendaftaran
+Unduhan
+Penjadwal
+Peramban Situs
+Peramban HTTP//FTP
+Pengelola Situs
+Tambah unduhan
+Mulai unduhan
+Hentikan unduhan
+Jadwalkan unduhan
+Tambah tugas
+Properti tugas
+Unduh berkas terpilih
+Hentikan
+Segarkan
+Tambah situs
+Properti situs
+Grup unduhan
+Info unduhan
+Catatan penjadwal
+Catatan Peramban Situs
+Papan samping
+Buat unduhan baru
+Hapus unduhan
+Buka berkas
+Buka map
+Mulai unduhan secara otomatis
+Properti unduhan
+Aktifkan tugas
+Non-aktifkan tugas
+Hapus tugas
+Buka map induk
+Putuskan koneksi
+Unduh
+Pengaturan Peramban Situs
+Hapus situs
+Masukan sementara
+Situs
+Tampilkan jendela induk
+Pemantauan peramban
+Pemantauan clipboard
+Mulai semua unduhan
+Hentikan semua unduhan
+-
+Lanjutkan
+-
+-
+-
+-
+-
+Batal
+-
+-
+-
+Semua grup
+Penyaring
+Selesai
+Sedang berlangsung
+Terjadwal
+Terhenti
+Lain
+Buat grup baru
+Hapus grup
+Hapus semua unduhan
+Hapus semua unduhan selesai
+Buka map grup
+Properti grup
+Nama Grup:
+Map standar:
+Ekstensi berkas (dipisahkan koma):
+Prioritas unduhan standar
+Sangat rendah
+Rendah
+Sedang
+Tinggi
+Sangat tinggi
+Masukkan nama grup
+Kesalahan masukan
+Grup yang sama telah ada. Masukkan nama lain
+Masukkan nama map
+Pilih map grup standar
+Masukkan nama grup di sini
+Map standar untuk menyimpan unduhan dari grup ini
+Jelajah
+Ekstensi berkas grup ini. Digunakan untuk mendeteksi grup unduhan secara otomatis
+Prioritas unduhan standar untuk grup ini
+Batalkan perubahan dan tutup dialog ini
+Terapkan perubahan dan tutup dialog ini
+Kesalahan dalam grup unduhan
+Harap instal ulang Free Download Manager
+Kesalahan
+Tidak dapat memuat daftar unduhan. Mungkin rusak atau sedang digunakan aplikasi lain
+Gagal mengawali penggabungan dengan Internet Explorer
+Anda yakin?
+Ini akan menghapus semua grup unduhan
+Konfirmasi
+Nama berkas
+Ukuran
+Terunduh
+Waktu tersisa
+Pecahan
+Kecepatan
+Komentar
+Pencatat
+Laju
+Jam
+Tanggal
+Informasi
+Bersihkan
+Gulung otomatis
+Kesalahan jaringan tak dikenal
+Akses ditolak. Nama user atau sandi salah
+Akses ditolak. Sandi salah
+Berhasil
+Tidak dapat terhubung ke server
+Berkas tidak ditemukan di server
+Koneksi dengan server putus
+Server tidak menanggapi
+Tidak dapat memecahkan nama server
+Server tidak mendukung pelanjutan unduhan. Jangan hentikan unduhan ini; jika tidak Anda harus memulainya dari awal
+Dibutuhkan nama dan sandi proksi
+Kesalahan lanjutan
+Permintaan keliru. Mungkin ini URL yang keliru
+Kesalahan server tak dikenal
+Koneksi dibatalkan
+URL keliru
+Tidak ada koneksi internet
+Versi HTTP yang dipilih tidak didukung server ini
+Kesalahan tak dikenal
+Tidak dapat menghapus berkas dari diska
+Batas koneksi ke server ini terlampaui
+Batas koneksi terlampaui
+Jeda %d detik.
+Pecahan
+Dimulai
+Selesai
+Unduhan selesai
+Menghubung...
+Koneksi berhasil
+Mengalihkan...
+Pengalihan berhasil. Membuka URL baru
+Memulai unduhan...
+Terhenti
+Membuat pecahan baru...
+Dibatalkan
+Memulai-ulang unduhan...
+Membuka berkas di diska...
+Nama berkas terlalu panjang
+Nama berkas telah ada. Mengganti nama ke
+Mengganti nama ke
+Berkas keluaran telah dihapus. Tidak mungkin melanjutkan
+Berkas telah ada. Tulis ulang
+Berkas telah ada. Melanjutkan unduhan
+Berkas telah ada
+Gagal membuka berkas di diska
+Ukuran berkas di server berubah!
+Menyesuaikan ke ukuran baru...
+Tidak dapat menindas berkas
+Berkas akan diubah namanya
+Tidak dapat mengganti nama berkas kembali ke nama aslinya
+Tidak dapat menyimpan grup
+Tidak dapat menyimpan unduhan
+Koneksi panggilan
+Sambung ke:
+Panggil secara otomatis
+Sambung
+Pilih panggilan di sini
+Centang kotak ini jika Anda ingin panggilan dimulai secara otomatis lain kali
+Panggil sekarang
+Jangan panggil dan tutup dialog ini
+Tidak ada masukan panggilan ditemukan di komputer ini
+Jalur sibuk
+Kesalahan perangkat keras
+Tidak ada nada panggil
+Memanggil
+Percobaan
+Membuka portal...
+Menghubung ke penyedia layanan...
+Terhubung ke komputer seberang
+Memeriksa nama pengguna dan sandi...
+Kecepatan sambungan adalah %d BPS
+Putus
+Pengulangan
+Diperlukan nama pengguna dan sandi
+Pengguna:
+Sandi:
+Grup:
+Simpan ke map:
+Simpan sebagai:
+Mulai
+Secara otomatis
+Secara manual
+Jadwalkan
+Prioritas unduhan
+Tingkat lanjut
+Alamat berkas yang ingin Anda unduh
+Masukkan nama pengguna di sini
+Masukkan sandi di sini
+Centang kotak ini jika server meminta otorisasi
+Nama grup untuk penempatan unduhan. Grup membantu Anda mengelola unduhan Anda
+Map untuk menyimpan unduhan
+Nama baru untuk berkas yang diunduh. Kosongkan isian jika Anda ingin menyimpan dengan nama aslinya
+Keterangan singkat tentang unduhan
+Unduhan ini akan dimulai secara otomatis sesegera mungkin
+FDM tidak akan mencoba unduhan ini secara otomatis
+Jadwalkan unduhan ini
+Atur jadwal unduhan
+Prioritas unduhan. Unduhan dengan prioritas lebih tinggi akan dimulai lebih dahulu. Unduhan dengan prioritas lebih rendah akan dibelakangkan
+Tampilkan pengaturan tingkat lanjut untuk unduhan ini
+URL yang dimasukkan tidak benar. Harap diperiksa
+Masukkan nama pengguna
+Pilih map tujuan
+Umum
+Informasi umum
+Unduhan sedang disimpan ke berkas:
+Nama berkas terunduh
+URL unduhan ini tidak dapat diubah
+Unduhan ini sedang berlangsung. Tidak dapat mengganti nama berkas
+Tidak dapat mengganti nama berkas
+Berkas tidak ditemukan
+Path tidak ditemukan
+Format .exe salah
+Berkas sedang digunakan aplikasi lain
+Akses ditolak
+Perangkat tidak siap
+Diska penuh
+Nama berkas salah
+Login diperlukan
+Sambungan
+Jaringan
+Kesalahan
+Jeda antar percobaan sambungan (dalam detik):
+Jumlah maksimum percobaan
+Tenggat waktu (dalam detik):
+Ukuran minimal:
+Jumlah maksimum:
+Penolakan lalu lintas untuk unduhan ini
+Pembatasan lalu lintas
+Abaikan semua penolakan
+B
+KB
+MB
+; second. mis. KB/s
+d
+Masukkan nilai lebih besar dari %d
+Pilih dimensi
+Waktu tunggu untuk sambung ulang server saat terjadi kesalahan
+Centang kotak ini jika Anda ingin membatasi jumlah maksimal percobaan unduhan tak berhasil
+Waktu tunggu untuk tanggapan server
+Ukuran minimal pecahan. Unduhan tidak akan dibagi ke beberapa pecahan yang lebih kecil
+Jumlah maksimum pecahan. Unduhan akan dipecah ke jumlah pecahan yang lebih besar
+Tentukan berapa jumlah jalur (maksimal) yang akan dipakai FDM untuk unduhan
+Abaikan pembatasan jalur pada jumlah sambungan maksimal untuk unduhan ini
+Anda dapat menentukan nilai dalam byte (B), kilobyte (KB) atau megabyte (MB) dalam isian ini
+Protokol
+Kenalkan pada server sebagai:
+Rujukan:
+Pakai HTTP 1.1
+Pakai cookies
+Pakai model pasif
+Model transfer
+Biner
+ASCII untuk berkas dengan ekstensi:
+Tentukan bagaimana FDM dikenali oleh server HTTP
+String ini akan dikirimkan sebagai kolom rujukan ke server HTTP. Menurut aturan, ini tidak diperlukan
+Centang kotak ini jika Anda ingin FDM menggunakan HTTP versi 1.1
+Centang kotak ini jika Anda ingin FDM menggunakan cookies
+Centang kotak ini jika Anda ingin FDM menggunakan model pasif untuk server FTP. Kadang-kadang ini diperlukan ketika bekerja dengan firewall
+Pakai model biner untuk transfer FTP. Pasang model ini jika berkas yang Anda unduh bukan bentuk teks
+Pakai model ASCII untuk transfer FTP. Pasang model ini jika berkas yang Anda unduh adalah bentuk teks
+FDM akan menggunakan model ASCII untuk berkas dengan ekstensi yang ditentukan. Untuk berkas lain, FDM akan menggunakan model biner
+Proksi
+Ambil pengaturan proksi
+Dari Microsoft Internet Explorer
+Tentukan secara manual
+Jangan menggunakan proksi
+Pengaturan
+Alamat:
+Portal:
+Masukkan alamat proksi
+Masukkan portal proksi
+FDM akan mengambil pengaturan proksi dari Internet Explorer
+Anda menentukan pengaturan proksi sendiri
+FDM tidak akan menggunakan proksi
+Pilih jenis server di mana Anda ingin menentukan proksi
+Masukkan alamat proksi yang ingin Anda gunakan
+masukkan portal proksi di sini. Biasanya, 3128, 1080 atau 8080
+Centang kotak ini jika server proksi meminta otorisasi
+Rupa-rupa
+Berkas lokal
+Jika berkas telah ada:
+Sisakan ruang diska untuk mengunduh berkas
+Ekstensi berkas tambahan untuk diunduh:
+Server internet
+Jangan memulai-ulang jika pelanjutan tidak didukung oleh server
+Jika ukuran berkas di server berubah:
+Hentikan saat salah
+Tanyakan
+Tulis ulang
+Ganti nama
+Lanjutkan
+Mulai-ulang
+Sesuaikan
+Tentukan ekstensi berkas
+Di sini Anda bisa menentukan apa yang harus dilakukan FDM jika berkas telah ada di diska
+Centang kotak ini jika Anda ingin ruang diska disisakan untuk unduhan ketika unduhan dimulai
+Jika dicentang FDM akan menambahkan ekstensi tertentu ke nama berkas selama pengunduhan. Ketika unduhan selesai, FDM mengganti nama berkas ke nama aslinya
+FDM tidak akan memulai-ulang unduhan jika server seberang tidak mendukung pelanjutan
+Anda dapat menentukan di sini apa yang harus dilakukan FDM jika berkas di server berubah ukuran
+Centang kotak ini untuk menghentikan unduhan ketika berkas tidak ditemukan di server
+Centang kotak ini untuk menghentikan unduhan ketika nama pengguna atau sandi salah
+Model pemakaian jalur
+Pilih model untuk diatur
+Jumlah maksimum koneksi:
+Jumlah maksimum koneksi per satu server:
+Pembatasan jalur:
+tak terbatas
+Pilih model pemakaian jalur yang ingin Anda atur di sini
+Centang kotak ini untuk limit the maximum number of connections
+Centang kotak ini untuk limit the maximum number of connections per one server
+Tentukan di sini jalur (maksimum) FDM untuk mengunduh berkas
+Semua unduhan
+Daftar unduhan
+Simpan otomatis setiap
+mnt.
+Ketika menghapus unduhan yang belum selesai
+Secara otomatis hapus unduhan selesai dari daftar
+Jangan hapus berkas
+Hapus berkas
+FDM menyimpan daftar unduhan secara otomatis pada kisaran waktu tertentu. Ini melindungi daftar dari kemungkinan kemacetan komputer atau kegagalan daya
+Tentukan di sini apa yang harus dilakukan FDM pada berkas ketika menghapus unduhan yang belum terselesaikan
+Centang kotak ini jika Anda ingin menghapus unduhan secara otomatis dari daftar ketika telah selesai
+Pemantauan
+Pemantau
+Clipboard
+Pantau berkas dengan ekstensi
+Abaikan berkas dengan ekstensi
+ALT tidak harus ditekan
+ALT harus ditekan
+Tentukan ekstensi
+Centang kotak ini jika Anda ingin FDM menangkap klik dalam Internet Explorer
+Centang kotak ini jika Anda ingin FDM memantau clipboard Anda
+Pantau berkas dengan ekstensi tertentu saja
+Jangan pantau berkas dengan ekstensi tertentu
+Pantau hanya jika ALT tidak ditekan
+Pantau hanya jika ALT ditekan
+Pembukaan
+Buka saat pembukaan Windows
+Mulai terminimalkan
+Sistem
+Minimalkan ke baki
+Tombol tutup meminimalkan jendela
+FDM akan dibuka secara otomatis saat Windows dibuka
+FDM akan diminimalkan setelah dimulai
+Ketika Anda meng-klik tombol Minimize FDM akan diminimalkan ke baki sistem
+Jika dicentang, klik pada tombol Close akan sama dengan klik pada tombol Minimize
+Pembaharuan
+Alamat server pembaharuan
+FDM akan memeriksa versi baru secara otomatis
+Master optimisasi pemakaian jaringan
+Selamat datang di master optimisasi pemakaian jaringan!
+Master ini akan membantu Anda menentukan pengaturan optimal untuk jenis sambungan Anda. Ini akan mengatur properti Pengunduh dan properti standar untuk unduhan.
+Pilih jenis sambungan
+Selesai
+Tentukan jenis sambungan Internet Anda di sini
+Mengelola FDM untuk kerja optimal pada sambungan Anda
+Tugas
+Waktu mulai
+Waktu mulai berikutnya
+Waktu mulai terakhir
+Tidak dapat memuat daftar jadwal. Mungkin rusak atau sedang dipakai aplikasi lain
+Tidak dapat memuat pencatat Jadwal
+Tidak dapat menyimpan daftar jadwal
+Tugas "%s" telah dijadwalkan. Dimulai?
+Mengubah penggunaan model jalur ke "%s"
+Tutup panggilan
+Semua koneksi
+Ubah penggunaan jalur ke
+Matikan
+Mulai-ulang
+Log keluar
+Sekali
+Min
+Sen
+Sel
+Rab
+Kam
+Jum
+Sab
+Pada hari:
+Setiap
+hari
+jam
+Saat FDM dibuka
+Ketika panggilan berhasil
+Ketika panggilan gagal
+Ketika tidak ada unduhan aktif
+Ketika kecepatan kurang dari atau sama dengan %d BPS selama %d
+Ketika semua unduhan dalam keadaan salah selama
+Tidak pernah
+Tak diketahui
+Berhasil terhubung ke "%s"
+Gagal terhubung ke "%s"
+Peluncuran berhasil
+Memori habis
+Tidak dapat meluncurkan
+Pelaksanaan jadwal akan menyebabkan keluarnya program saat pembukaan. Jadwal akan diabaikan
+Percobaan panggilan maksimum
+Jeda antara percobaan
+Tutup jika kecepatan koneksi kurang dari:
+Coba lagi
+Tidak lebih dari
+Gunakan koneksi
+Jika berhasil
+kali
+Tutup semua koneksi aktif
+Koneksi untuk ditutup
+Nama program:
+Argumen:
+Jenis shutdown:
+Paksa aplikasi-aplikasi untuk keluar
+Luncurkan program
+Lakukan panggilan koneksi
+Tutup koneksi
+Ubah model penggunaan jalur
+Keluar FDM
+Matikan komputer
+Unduhan untuk dimulai
+Unduhan untuk dihentikan
+Aplikasi
+Semua berkas
+Maaf, fitur ini hanya tersedia pada Windows 2000, XP dan di atasnya
+Masukkan nama program
+Pilih unduhan
+Pilih model pemakaian jalur yang Anda inginkan saat tugas dimulai
+Centang kotak ini jika Anda ingin membatasi jumlah percobaan panggilan gagal
+Waktu antar panggilan gagal
+Centang kotak ini untuk menyelenggarakan sambungan dengan kecepatan tidak kurang dari yang Anda tentukan
+Tentukan nilai kecepatan sambungan minimal yang diminta di sini
+FDM akan mencoba lagi untuk menyelenggarakan sambungan jika kotak ini Anda centang
+Centang kotak ini untuk membatasi jumlah percobaan gagal untuk penyelenggaraan sambungan
+Tentukan unduhan yang diinginkan di sini
+Daftar semua unduhan yang tersedia
+Tambahkan unduhan yang disorot ke daftar tugas unduhan
+Hapus unduhan tersorot dari daftar tugas unduhan
+Tentukan program yang ingin Anda luncurkan di sini
+Temukan program di komputer
+Tentukan argumen di sini
+Tentukan jenis penghentian sesi di sini
+Centang kotak ini untuk memaksa penghentian sesi. Ini bermanfaat jika aplikasi macet dalam sistem. Tapi dalam hal ini, semua data yang belum tersimpan akan hilang
+Tentukan tindakan terjadwal di sini
+Centang kotak ini jika Anda ingin FDM menutup semua sambungan aktif
+Tentukan sambungan yang ingin ditutup di sini
+Pada hari tertentu
+Minggu
+Senin
+Selasa
+Rabu
+Kamis
+Jumat
+Sabtu
+Pada peristiwa
+Selama
+Kecepatan rendah:
+mnt.
+Menit
+Jam
+Hari
+Ketika kecepatan unduhan terlalu lambat
+Ketika semua unduhan dalam keadaan gagal
+Tentukan hari
+Mulai tugas pada waktu yang ditentukan
+Tentukan waktu mulai tugas di sini
+Mulai tugas pada tanggal yang ditentukan
+Tentukan hari untuk memulai tugas
+Mulai tugas on certain days of week
+Mulai tugas setiap Minggu
+Mulai tugas setiap Senin
+Mulai tugas setiap Selasa
+Mulai tugas setiap Rabu
+Mulai tugas setiap Kamis
+Mulai tugas setiap Jumat
+Mulai tugas setiap Sabtu
+Mulai tugas berkala
+Isian ini memungkinkan Anda menentukan jarak waktu dalam menit, jam atau hari
+Mulai tugas ketika suatu peristiwa terjadi
+Tentukan peristiwa di sini
+Masukkan jarak waktu di sini
+Masukkan kecepatan minimal yang diinginkan di sini
+Konfirmasi diperlukan untuk melaksanakan tugas
+Tunggu konfirmasi selama
+dtk.
+Jika dicentang, FDM akan meminta konfirmasi untuk melaksanakan tugas ini
+Jika dicentang, FDM akan menunggu konfirmasi selama kurun waktu yang ditentukan. Jika Anda tidak menanggapi selama kurun waktu tersebut, tugas akan dimulai
+Alamat:
+Menyusun daftar berkas untuk diunduh
+Menghubung ke server
+Mencoba menggunakan nama pengguna dan sandi yang tersimpan dalam Pengelola Situs
+Mengambil daftar berkas dari server
+Sambungan dengan server hilang. Mencoba mengembalikan
+Menyusun daftar
+Mengambil ukuran dan tanggal rubahan terakhir berkas
+Penggunaan parameter ini bisa menurunkan kecepatan secara dramatis
+Centang kotak ini jika Anda ingin FDM menanyakan ukuran dan tanggal berkas ke server HTTP
+Nama situs
+Koneksi
+Log masuk
+Grup
+Tidak dapat memuat daftar situs. Kemungkinan rusak atau sedang dipakai aplikasi lain
+Tidak dapat menyimpan daftar situs
+Jumlah maksimum koneksi berjajar:
+Grup standar untuk unduhan baru untuk situs ini
+Gunakan model pasif FTP
+Masukkan nama situs
+Situs dengan nama yang sama telah ada. Masukkan nama lain
+Jumlah maksimum koneksi harus lebih besar dari 0
+Pilih grup
+Tentukan nama situs di sini
+Centang kotak ini untuk membatasi jumlah sambungan berjajar untuk server ini
+Centang kotak ini untuk menambahkan unduhan dari server ini ke grup yang dipilih secara otomatis
+Tanyakan pengguna
+Jangan tanyakan lagi
+Penulisan diska gagal
+Berkas "%s" telah ada di diska. Apa yang harus dilakukan?
+Jangan tanyakan ini lagi. Pilihan Anda akan diterima sebagai standar
+Timpa berkas yang sudah ada
+Ganti nama berkas ini
+Lanjutkan pengunduhan. (Pengunduhan akan dimulai dari posisi ukuran yang sama dengan yang telah ada)
+Hentikan unduhan ini
+Ya
+Tidak
+Unduh
+telah dihapus. Hapus berkas di diska juga?
+Masukkan nama pengguna dan sandi
+Login ke "%s"
+Kirimkan nama pengguna dan sandi yang Anda tentukan ke server yang ditentukan
+Jangan sambung ke server ini
+Ukuran "%s" telah berubah di server. Apa yang harus dilakukan?
+Mulai ulang unduhan dari awal
+Sesuaikan unduhan untuk ukuran berkas baru. (Tidak disarankan)
+Harap tunggu
+Perbarui
+Keterangan
+Perbarui menggunakan:
+Memeriksa pembaharuan
+Anda telah menggunakan versi terbaru
+Mengunduh
+Versi %s susunan %s tersedia
+Distributif versi %s (%s)
+Pembaharuan ke versi %s
+Pembaharuan ke versi %s (%s)
+Free Download Manager harus dibuka-ulang. Buka ulang sekarang?
+Pembaharuan selesai
+Tidak dapat menemukan pembaharu
+Tentukan jenis pembaharuan di sini
+Perbarui FDM menggunakan distributif penuh
+Perbarui FDM menggunakan distributif pembaharuan
+Lihat informasi lebih lanjut tentang proses pembaharuan
+Apa yang baru dalam versi ini?
+Mulai pembaharuan FDM sekarang
+Batalkan pembaharuan dan tutup dialog ini
+Buat unduhan
+Pilih isi
+Tak-pilih isi
+Daftar unduhan untuk ditambahkan
+Periksa item map terpilih untuk menambahkannya ke daftar unduhan
+Tak-periksa item map terpilih untuk tidak menambahkannya ke daftar unduhan
+Tentang FDM
+Hak cipta (c)
+Hak cipta dilindungi
+Terdaftar kepada:
+Telah diperbarui. Diperlukan mulai-ulang
+Nama pengguna atau sandi salah
+Tidak dapat memuat berkas riwayat
+Tidak dapat menyimpan berkas riwayat
+Pengaturan standar Laba-laba HTML
+Laba-laba HTML
+Pencabangan halaman web
+Unduh situs web
+Pengaturan unduhan halaman web
+Mulai unduhan
+Hentikan unduhan
+Jadwalkan unduhan
+Hapus
+Bukan halaman di peramban
+Mulai unduhan secara otomatis
+URL situs web (halaman)
+Berkas
+Hapus unduhan juga?
+Tidak dapat memuat daftar halaman web
+Tidak dapat menyimpan daftar halaman web
+URL asal halaman web atau server HTTP yang ingin Anda unduh
+URL halaman web atau server HTTP dari mana unduhan dimulai
+Nama map untuk menyimpan unduhan
+Map keluaran:
+halaman web
+Halaman
+Ekstensi berkas halaman web dengan kode HTML:
+Unduh berkas CSS
+Unduh halaman web dari situs lain
+Gambar
+Unduh gambar
+Unduh gambar yang merujuk situs lain
+Kedalaman unduhan:
+Ekstensi halaman web dengan kode HTML. Halaman web akan dipindai untuk berkas halaman web dengan kode HTML. Halaman-halaman web akan dipindai untuk tautan gambar dan halaman lain untuk diunduh
+Jika dicentang, berkas CSS juga akan diunduh. (Disarankan)
+Jika tidak dicentang, halaman web dari situs lain tidak akan diunduh. Misalnya, jika kotak ini tak-dicentang dan Anda ingin mengawali unduhan dari http://contoh.com/, kemudian http://situslain.com/sesuatu.html tidak akan diunduh, tetapi http://contoh.com/sesuatu.html akan diunduh
+Jika dicentang, gambar pada halaman web akan diunduh juga
+Jika tak-dicentang, gambar dari halaman web yang menaut ke situs lain tidak akan diunduh
+Kedalaman unduhan. Misalnya, Anda mengawali unduhan dari http://mis.com/index.html. Ada tautan ke http://mis.com/sesuatu.html dari http://mis.com/index.html. Kemudian kedalaman http://mis.com/sesuatu.html akan jadi 1. Mengubah kedalaman ke 0 akan menyebabkan pengunduhan halaman muka saja.
+Unduh berkas dari halaman web
+Unduh berkas dari situs lain
+Kecualikan berkas berdasarkan ekstensi
+Hidupkan
+Unduh
+Jangan unduh
+berkas dengan ekstensi:
+Centang kotak ini untuk Mengunduh berkas dari halaman web
+Centang kotak ini untuk Mengunduh berkas dari situs lain
+Centang kotak ini untuk mengabaikan berkas dengan ekstensi tertentu
+Berkas dengan ekstensi yang ditentukan di bawah ini akan diunduh jika dicentang
+Berkas dengan ekstensi yang ditentukan di bawah ini tidak akan diunduh jika dicentang
+Ekspor pengaturan
+Impor pengaturan
+Gagal meluncurkan Regedit.exe
+Kesalahan terjadi ketika mencoba mengekspor pengaturan
+Kesalahan terjadi ketika mencoba mengimpor pengaturan
+Berkas registry FDM
+Pengecualian gambar berdasarkan ekstensi
+gambar dengan ekstensi:
+Centang kotak ini untuk mengabaikan gambar dengan ekstensi yang ditentukan
+Gambar dengan ekstensi yang ditentukan di bawah ini akan diunduh jika dicentang
+Gambar dengan ekstensi yang ditentukan di bawah ini TIDAK akan diunduh jika dicentang
+Jangan unduh ini dan hapus
+Server tidak mendukung pelanjutan unduhan. Memulai lagi dari awal
+Gagal membuka URL
+Maaf, kesalahan yang tak dikehendaki terjadi ketika mencoba menulis ke registry
+Terima kasih untuk pendaftarannya! Harap mulai-ulang FDM
+Unduh dengan Free Download Manager
+Unduh situs web dengan Free Download Manager
+Tambahkan FDM ke menu konteks peramban
+Centang kotak ini untuk menambahkan item "Unduh dengan Free Download Manager" dan "Unduh situs web dengan Free Download Manager" ke menu konteks peramban (menu tampil ketika Anda klik kanan)
+Turunkan pemakaian jalur saat aktifitas peramban
+Turunkan satu tingkat
+Pasang Modus Ringan
+Centang kotak ini untuk menurunkan pemakaian jalur secara otomatis ketika meramban Internet. Ini memungkinkan Anda meramban lebih cepat ketika FDM mengunduh sesuatu
+Pemakaian jalur akan diturunkan satu tingkat. Berat->Sedang, Sedang->Ringan
+Pemakaian jalur akan diubah ke Ringan
+Berlaku untuk
+Berlaku untuk sub domain
+Centang kotak ini untuk menggunakan rekaman ini untuk mengunduh lewat HTTP
+Centang kotak ini untuk menggunakan rekaman ini untuk mengunduh lewat HTTPS
+Centang kotak ini untuk menggunakan rekaman ini untuk mengunduh lewat FTP
+Centang kotak ini untuk menggunakan rekaman ini untuk unduhan dari server-server sub domain. Misalnya, untuk situs http://situs.com ini menjadi http://sesuatu.situs.com
+Pilih setidaknya satu protokol
+Jumlah maksimum unduhan berjalan
+Centang kotak ini jika Anda ingin membatasi jumlah unduhan maksimum yang berjalan pada waktu yang sama
+Mulai-ulang unduhan
+Buat satu pecahan lagi
+Hentikan satu pecahan
+; context: [section x] - Stopped
+Terhenti
+; tray menu
+Kotak muat
+;
+Tidak dapat menemukan map plugin Opera. Anda ingin menentukannya secara manual?
+Tidak dapat menemukan map plugin Netscape. Anda ingin menentukannya secara manual?
+Tidak dapat memasang pemantauan Opera
+Tidak dapat mencopot pemantauan Opera
+Tidak dapat memasang pemantauan Netscape
+Tidak dapat mencopot pemantauan Netscape
+Centang kotak ini jika Anda ingin FDM menangkap klik di Opera
+Centang kotak ini jika Anda ingin FDM menangkap klik di Netscape
+; create download dlg
+Tanyakan ukuran
+; request the size of a download
+Meminta...
+Tanyakan ukuran suatu unduhan dari server
+Ya utk semua
+Tidak utk semua
+Catatan rinci
+Jika dicentang, FDM akan menampilkan tanggapan dari server
+Perubahan akan berpengaruh setelah Anda memulai-ulang peramban.
+Daftar tugas
+Daftar berkas
+Daftar situs
+Daftar halaman
+Menghapus unduhan
+Menyusun daftar unduhan
+Buat tumpukan unduhan
+Dari:
+Ke:
+Kelipatan:
+Jumlah angka:
+Hasil
+Contoh:
+Nomor awal urutan
+Nomor akhir urutan
+Kelipatan urutan. Misalnya, jika kelipatan 10, urutannya menjadi 0, 10, 20, ...
+Jumlah cacah angka. Misalnya, jika nilainya 1, urutannya menjadi 1, 2, 3. jika 2, urutannya menjadi 01, 02, 03.
+Klik di sini untuk melihat urutan yang dihasilkan
+Ijinkan peramban untuk mengunduh ketika Anda menekan Batal
+Centang kotak ini jika Anda ingin peramban Anda mengunduh berkas jika Anda menekan Batal di dialog "Buat unduhan"
+Nomor urut akhir harus lebih besar dari nomor awal
+Gunakan (*) dalam URL untuk menentukan lakaran untuk URL
+Buat ekstensi jika berkas tidak memilikinya
+Centang kotak ini untuk membuat ekstensi tententu untuk berkas yang tidak memilikinya. Misalnya, jika nama berkas adalah "berkas" dan Anda menentukan "txt", hasilnya menjadi "file.txt"
+Tampilkan ukuran hanya dalam byte
+Centang kotak ini untuk menunjukkan semua ukuran dalam byte, bukan kilobyte atau megabyte
+Lakukan pemeriksaan virus
+Argumen:
+Ekstensi:
+Centang kotak ini untuk memeriksa berkas terunduh dengan antivirus secara otomatis
+Tentukan nama program antivirus di sini
+Tentukan argumen untuk antivirus di sini
+Tentukan ekstensi berkas unduhan yang ingin diperiksa di sini
+Masukkan nama antivirus
+Nama tidak cocok. Harap diperiksa
+Meluncurkan antivirus
+Non-aktifkan tugas setelah dilaksanakan
+Hapus tugas setelah dilaksanakan
+Centang kotak ini untuk menon-aktifkan tugas setelah eksekusi di sini
+Centang kotak ini untuk menghapus tugas setelah eksekusi di sini
+Laksanakan
+Kembali
+Buatkan nama berkas otomatis
+Centang kotak ini untuk membuatkan nama berkas unduhan secara otomatis
+Simpan dengan ekstensi "htm"
+Centang kotak ini untuk menyimpan semua halaman web dengan ekstensi "htm"
+Klik tombol ini untuk menghitung jumlah total dari semua unduhan
+Simpan struktur map server
+Centang kotak ini untuk memelihara struktur map server. Jika tidak, semua berkas di server akan disimpan dalam satu map
+Anda telah memilih map lain. Pasang map ini sebagai map standar untuk grup ini? Anda juga dapat mengganti map standar dalam properti grup.
+; === ADDED LINES ===
+Unduhan dengan URL ini telah ada. Apa yang harus dilakukan?
+Luncurkan
+Luncurkan berkas terunduh
+Versi
+Klik di sini untuk menghubungi kami
+Klik di sini untuk mengunduh versi terbaru
+Peringatan:  program komputer ini dilindungi oleh undang-undang hak cipta dan pakta internasional. Tidak diperkenankan memperbanyak atau menyebarluaskan program ini, atau bagian manapun, dapat dihukum pidana dan perdata,  dan akan dituntut seberat mungkin menurut undang-undang.
+; === new version ===
+Unduh semua dengan Free Download Manager
+Tambahkan daftar unduhan
+Hapus yang terpilih
+Ini adalah daftar URL untuk ditambahkan
+Klik tombol ini untuk menghapus semua URL terpilih dari daftar
+Tidak dapat menemukan map Plugin Firefox. Anda ingin menentukannya secara manual?
+Tidak dapat memasang pemantauan Firefox
+Tidak dapat mencopot pemantauan Firefox
+Centang kotak ini jika Anda ingin FDM menangkap klik di peramban Mozilla Firefox
+Unduh yang tersorot dengan Free Download Manager
+Memulai
+Situs web
+Unduhan aktif
+Sedang tidak ada unduhan aktif
+Pemberitahuan
+Gunakan "balon" baki sistem
+Tenggat waktu
+Centang kotak ini untuk mengaktifkan pemberitahuan "balon" baki sistem ketika unduhan terhenti atau selesai. Catatan: fitur ini hanya bekerja pada Windows 2000/XP dan di atasnya
+"Balon" akan tertutup otomatis setelah waktu habis ini
+Cerminan
+Secara otomatis cari URL cerminan
+Jumlah maksimum cerminan
+Hitung kecepatan cerminan
+Hitung ulang kecepatan setiap
+Centang kotak ini untuk membuat FDM mencari URL cerminan untuk tiap unduhan secara otomatis
+Batasi jumlah URL cerminan per unduhan. Ini memungkinkan Anda mengurangi penghitungan waktu cerminan
+Centang kotak ini untuk membuat FDM menghitung kecepatan tiap server cerminan
+Kecepatan cerminan akan dihitung ulang pada kurun waktu yang ditentukan
+Jangan mencari jika ukuran lebih kecil dari
+FDM tidak akan mencari cerminan jika ukuran berkas lebih kecil dari ukuran yang ditentukan
+Jangan mencari jika ukuran berkas tidak diketahui (Recommended)
+Tambah cerminan
+Cari cerminan
+Tambahkan URL cerminan untuk unduhan ini secara manual
+Cari URL cerminan untuk unduhan ini dengan FileSearching.COM
+Daftar URL cerminan
+Kecepatan server
+Sedang digunakan
+Ukur kecepatan cerminan
+Ukur kecepatan server cerminan
+Info Unduhan
+Menunggu...
+URL cerminan untuk unduhan
+Ukuran berkas melebihi 2GB. Sebagian unduhan hanya didukung lewat FTP
+;
+;
+; #NEW LINES (BUILDS NEWER THAN 195)#
+;
+;
+; BEGIN: Unduhan Baru page
+Unduhan Baru
+Tentukan grup unduhan secara otomatis
+Grup:
+Simpan unduhan ke map grup yang bersangkutan
+Centang kotak ini jika Anda ingin grup unduhan ditentukan berdasarkan ekstensi berkas atau pengaturan Pengelola Situs
+Atur grup standar secara manual
+Centang kotak ini jika Anda ingin unduhan disimpan ke map standar grupnya (lihat properti Grup)
+Atur map keluaran standar secara manual
+; END
+; BEGIN: Monitoring page
+Pemantauan diam-diam
+Jika dicentang, dialog "Buat unduhan" tidak akan ditampilkan ketika menambahkan unduhan dari peramban
+Ubah-ubah
+Pilih item menu untuk ditampilkan dalam menu konteks peramban
+; END
+Pilih item menu untuk ditampilkan
+Setidaknya satu item harus dipilih
+Gunakan suara
+Centang kotak ini jika Anda ingin FDM memainkan suara pada suatu peristiwa (mis. ketika unduhan selesai)
+Pilih suara untuk tiap peristiwa
+; BEGIN : Ubah-ubah suara dialog
+Ubah-ubah suara
+Atur suara
+Hapus
+Coba
+Daftar peristiwa FDM dan suara yang sesuai. Di sini Anda dapat mengatur FDM untuk memainkan suatu suara ketika suatu peristiwa terjadi
+Unduhan ditambahkan - mainkan suara ketika satu unduhan atau lebih telah ditambahkan ke daftar unduhan
+Unduhan selesai - mainkan suara ketika unduhan telah selesai.
+Unduhan gagal - mainkan suara ketika suatu kesalahan terjadi ketika mencoba mengunduh suatu berkas.
+Panggilan berhasil - mainkan suara ketika tugas Penjadwal "Lakukan sambungan panggilan" berhasil dilaksanakan.
+Panggilan gagal - mainkan suara ketika tugas Penjadwal "Lakukan sambungan panggilan" gagal karena suatu alasan.
+Atur suara untuk peristiwa yang dipilih
+Jangan mainkan suara ketika peristiwa yang dipilih terjadi
+Coba suara yang dipilih
+Peristiwa
+Berkas suara
+Tidak ada suara
+Unduhan ditambahkan
+Unduhan selesai
+Unduhan gagal
+Panggilan berhasil
+Panggilan gagal
+Berkas suara
+; END
+Mencari cerminan...
+Mengukur kecepatan cerminan...
+Pencarian cerminan telah dikerjakan
+Menghubungi server pencari...
+Mengambil hasil...
+Ada %d cerminan ditemukan
+Pencarian cerminan selesai
+Mencoba cerminan lain...
+Tidak ada cerminan ditemukan
+Gagal
+Kecepatan cerminan telah diukur
+; BEGIN: History page
+Riwayat
+Simpan riwayat tautan dan map
+Simpan riwayat map saja
+Simpan rekaman selama
+Jumlah maksimum rekaman
+Bersihkan riwayat
+FDM akan menyimpan riwayat tautan dan nama map yang telah diketikkan
+FDM akan menyimpan riwayat map saja
+FDM akan menghapus rekaman yang telah ada di riwayat lebih dari kisaran waktu yang ditetapkan
+Jumlah maksimum rekaman dalam riwayat. Ketika jumlah rekaman mencapai nilai ini, FDM akan menghapus rekaman paling lama
+Hapus semua rekaman dari riwayat
+; END
+Impor
+Ekspor
+Impor daftar unduhan
+Ekspor daftar unduhan
+Berkas teks
+Tidak dapat membuka suatu berkas
+Ekspor semua unduhan
+Ekspor semua unduhan pada daftar
+Ekspor unduhan yang dipilih
+Jangan ekspor unduhan selesai
+Tambahi jika berkas telah ada
+Nama grup salah. Jangan menggunakan simbol / atau \.
+Keluar ketika selesai
+; BEGIN : Riwayat Unduhan window
+Ditambahkan
+Tersimpan ke
+; END
+Tempat Sampah
+; BEGIN: Recycle Bin
+Properti
+Bersihkan Tempat Sampah
+;END
+;BEGIN: Recycle Bin properties
+Jangan tempatkan unduhan terhapus ke sini
+Simpan maksimal
+unduhan
+Jangan simpan unduhan selesai
+Minta konfirmasi ketika menghapus unduhan
+Properti Tempat Sampah
+Centang kotak ini jika Anda tidak ingin menyimpan unduhan yang dihapus ke Tempat Sampah
+Centang kotak ini jika Anda ingin membatasi jumlah unduhan yang tersimpan dalam Tempat Sampah
+Jumlah maksimum unduhan untuk disimpan di Tempat Sampah
+Centang kotak ini jika Anda tidak ingin unduhan selesai disimpan ke Tempat Sampah setelah penghapusan
+Centang kotak ini jika Anda ingin FDM meminta konfirmasi Anda ketika Anda mencoba menghapus suatu unduhan
+;END
+Kembalikan
+Kembalikan unduhan-unduhan...
+; History subitems
+Hari ini
+Kemarin
+Satu pekan
+Satu bulan
+Tententu...
+; end
+Bersihkan Riwayat
+Simpan riwayat unduhan
+Simpan riwayat unduhan selesai saja
+Centang kotak ini jika Anda ingin menyimpan riwayat unduhan Anda
+Centang kotak ini jika Anda ingin menyimpan riwayat unduhan selesai saja
+Pengaturan Riwayat Unduhan
+Menyusun daftar rekaman Riwayat...
+; Download telah dihapus
+telah dihapus
+Pilih kisaran waktu
+Cari
+Cari berikutnya
+Cari apa
+; BEGIN : Find dialog
+Cari di
+Nama berkas lokal
+Tentukan apa yang Anda cari di sini
+Cari di bagian berkas URL
+Cari di keseluruhan URL
+Cari di komentar unduhan
+Cari di nama dan path berkas unduhan di diska lokal
+Atur pengaturan pencarian tingkat lanjut
+; ADVANCED settings
+Cari di mana
+Cari di Daftar Unduhan
+Cari di Riwayat Unduhan
+Cari dengan waktu tententu
+Atur
+Cari di Tempat Sampah
+Cari dengan ukuran berkas tertentu
+Minimal
+Maksimal
+Cari di Daftar Unduhan
+Cari di Riwayat Unduhan
+Cari hanya downloads yang sesuai dengan kisaran waktu yang ditentukan
+Set the time range
+Cari di Tempat Sampah
+Cari hanya berkas yang sesuai dengan kisaran ukuran berkas
+Ukuran minimal diperlukan
+Ukuran maksimal diperlukan
+Cari di grup
+Pilih grup di mana pencarian dilakukan
+; END
+Mencari unduhan...
+Tidak ada item ditemukan
+Tidak ada item lagi ditemukan
+Pencarian selesai
+URL ke clipboard
+Penampil ZIP
+Sekurangnya satu berkas harus disorot.
+Mungkin berkas yang Anda unduh adalah arsip ZIP. Apakah Anda ingin melihatnya?
+Penampil Audio/Video
+Gagal membuka berkas.
+Jenis media tak diketahui.
+Harap instal DirectX 8.0 atau lebih tinggi untuk menggunakan fitur ini. Anda dapat mengunduh DirectX terbaru dari microsoft.com.
+Info Media
+Ukuran:
+Tersedia:
+Durasi:
+Bisu
+Mainkan
+Jeda
+Penyaring
+Ekstensi (dipisahkan dengan spasi, mis. zip rar arj):
+Hapus berkas dengan ekstensi tertentu
+Biarkan berkas dengan ekstensi tertentu saja
+String argument tidak berisi makro %file%. makro ini diperlukan untuk memberi tanda berkas mana yang akan diperiksa ke program antivirus Anda.
+Lanjutkan saja?
+Peringatan
+Pakai atribut 'hidden' untuk unduhan belum selesai
+Bubuhkan komentar ke nama berkas ketika selesai
+Jangan simpan halaman server
+Centang kotak ini jika Anda tidak ingin menyimpan halaman server ke komputer Anda, tapi hanya simpan berkas dan gambar
+Gunakan pemirsa ZIP
+Centang kotak ini jika Anda ingin melihat isi arsip ZIP di awal unduhan untuk mengunduh beberapa bagian arsip saja.
+Volume:
+Mulai unduhan secara otomatis
+Centang kotak ini jika Anda ingin FDM memulai unduhan baru secara otomatis
+Periksa berkas untuk diunduh
+Atur lokasi (URL) alternatif untuk unduhan ini
+Jangan pirsa lagi
+Anda telah menon-aktifkan pemirsa ZIP. Jika Anda ingin mengaktifkannya, pergi ke Pilihan -> Pilihan unduhan (Ctrl+O) -> halaman Unduhan Baru, dan centang kotak "Gunakan Pemirsa ZIP".
+Daftar pengabaian
+Daftar halaman web yang harus diabaikan ketika mengunduh situs.
+Sub-map
+Tambah
+Abaikan juga sub-map
+; Proxy tab new settings
+Gunakan gulung-balik pada sambungan rusak
+Ukuran gulung-balik
+byte
+Centang pilihan ini jika Anda ingin mengaktifkan fitur gulung-balik. Pilihan ini membantu Anda melindungi unduhan Anda dari kerusakan.
+Ukuran gulung-balik. Ukuran lebih besar akan memungkinkan gulung-balik bekerja lebih aman. Size of rollback. Ukuran yang disarankan adalah 3000 byte. Anda dapat menaikkan nilai ini jika unduhan Anda masih menyisakan kerusakan.
+; downloader options -> monitor tab
+Jangan pantau berkas yang lebih kecil dari
+Gunakan pilihan ini jika Anda ingin FDM melewatkan berkas yang lebih kecil dari ukuran yang ditentukan
+KByte
+Peringatan! Tempat Sampah terlalu besar. Ini dapat memperlambat performa secara dramatis. Disarankan untuk membersihkan Tempat Sampah. Anda ingin melakukan ini?
+Jangan periksa ini lagi
+Peringatan! Riwayat Unduhan terlalu besar. Ini bisa memperlambat performa secara dramatis. Disarankan untuk membersihkan Riwayat. Anda ingin melakukannya?
+Server tidak dapat menjamin kemampuan pelanjutannya. Tanggapan salah.
+Salin ke clipboard
+; general settings | skins page
+Muka
+Muka
+Ijinkan muka untuk menggunakan ikonnya sendiri
+Ijinkan muka untuk menggunakan bitmapnya sendiri
+; default skin
+<default>
+CATATAN: Semua perubahan hanya akan berpengaruh setelah Anda membuka ulang Free Download Manager.
+Tampilkan jendela info ketika berjalan
+Lewatkan berkas dengan ekstensi:
+Daftar ekstensi berkas untuk dilewatkan
+Tidak ada unduhan aktif
+Mainkan berkas suara ketika semua unduhan are selesai
+Impor daftar URLs dari clipboard
+Sandi
+Pilihan Pengelola Situs
+; Save password dialog
+Simpan sandi?
+Free Download Manager dapat menyimpan sandi untuk server ini untuk menghindari perlunya memasukkannya tiap kali Anda mengunduh sari server ini.
+Simpan sandi ini?
+Jangan sarankan semua penyimpanan sandi
+; Pengelola Situs options | Passwords tab
+Gunakan Pengelola Situs untuk menyimpan sandi
+Tanyakan untuk menyimpan sandi atau tidak
+Jangan sarankan penyimpanan sandi
+Hapus semua sandi saat keluar
+Hapus semua sandi
+; create new HTML Spider task
+Hapus unduhan selesai dari daftar (disarankan)
+Centang kotak ini jika Anda ingin unduhan Laba-laba HTML dihapus secara otomatis. Ini mempercepat pengunduhan situs besar.
+Perubahan akan berpengaruh setelah Anda memulai-ulang Free Download Manager
+Gaya Baru
+Gaya lama
+Nama direktori salah
+Sembunyikan jendela mengambang dalam model layar penuh
+Centang kotak ini jika Anda ingin jendela mengambang disembunyikan secara otomatis pada model layar penuh.
+telah dijadwalkan untuk diluncurkan.
+Anda ingin meluncurkannya?
+Luncurkan unduhan ketika selesai
+Gunakan (*), (*A) atau (*a) dalam URL untuk menentukan lakaran URL
+Server pencari cerminan:
+Hibernasi
+Standby
+Ingat pilihan saya
+Sarankan perubahan map standar grup
+Simpan berkas
+Buka berkas
+Simpan berkas dan buka
+Jenis unduhan:
+Tautan ke FDM
+Tautan ke Free Download Manager
+Para pengguna!
+Free Download Manager adalah program yang tersedia gratis. Anda dapat menggunakannya selama Anda suka.
+Namun, jika Anda menganggap Free Download Manager bermanfaat, kami minta Anda membantu kami menyebarkannya dengan menempatkan tautan kepadanya di situs web Anda. Ini akan membuat lebih banyak orang tahu tentang Free Download Manager.
+Terima kasih atas bantuan Anda di kemudian hari,\nTim pembuat Free Download Manager.
+Ingatkan saya dalam 3 hari
+Ingatkan saya saat berikutnya saya membuka Free Download Manager
+Jangan tampilkan jendela ini lagi
+Lihat kode tautan HTML
+Kode tautan HTML
+Contoh lagi
+Salin ke clipboard
+Sembunyikan
+; "Traffic usage mode has been changed" window
+Modus pemakaian jalur telah berubah
+Anda telah merubah model penggunaan jalur.\nFree Download Manager memiliki tiga model:
+Dalam model ini Free Download Manager akan mengunduh pada kecepatan maksimal yang mungkin. Ini merupakan model paling agresif.
+Dalam model ini Free Download Manager akan mengunduh pada kecepatan sedang. Model ini memungkinkan Anda meramban internet sekaligus menjaga kecepatan tinggi dari unduhan.
+Dalam model ini Free Download Manager akan mengunduh pada kecepatan rendah. Model ini memungkinkan Anda mengunduh tanpa pelambatan jaringan secara dramatis.
+;
+Ganti nama saat Mulai-ulang
+Masukkan nilai lebih rendah dari %d
+; export/import downloads
+Berkas Daftar URL
+Berkas informasi Unduhan
+;
+Pilihan ekspor
+;
+Atur tanggal berkas sama dengan tanggal yang ditentukan oleh server
+Atur tanggal yang sama dari sebuah berkas seperti yang ada pada server
+Buat berkas keterangan
+Buat berkas dengan nama "*.dsc.txt" (* - nama berkas yang diunduh) yang akan berisi keterangan singkat tentang suatu berkas yang diunduh (komentar + url + tanggal). Berkas ini hanya dibuat untuk berkas yang memiliki komentar.
+Berkas ini diunduh dari
+Jangan mengambil tanggal berkas dari server
+Opsi ini memungkinkan Anda meningkatkan kecepatan pemulaian unduhan FTP. Free Download Manager akan memilih perintah SIZE daripada perintah LIST.
+Jangan simpan catatan unduhan
+Mengaktifkan pilihan ini akan membuat Free Download Manager dibuka dan dimatikan lebih cepat dan mengurangi penggunaan memori.
+;
+Ekspor riwayat unduhan
+Ekspor semua masukan
+Ekspor semua masukan pada daftar ini
+Ekspor masukan tersorot
+Ekspor masukan tentang unduhan selesai saja
+;
+Berkas HTML
+;
+Riwayat Unduhan Free Download Manager
+URL unduhan
+Diunduh ke berkas
+Ukuran berkas
+Unduhan telah selesai
+Unduhan telah dihapus
+;
+Disimpan di
+Ukuran berkas
+Dukungan pelanjutan
+Tutup dialog ini ketika unduhan selesai atau terhenti
+Buka
+Apakah Anda ingin melihat jendela ini lagi?
+Ya, tapi sementara sembunyikan jendela untuk unduhan ini
+Tidak, jangan menampilkan jendela laju untuk semua unduhan
+Ya, tapi jangan tampilkan jendela laju untuk unduhan ini
+Menggunakan kunci SHIFT berarti unduhan ini akan dihapus dari diska dan Anda tidak dapat mengembalikannya.\nAnda yakin?
+Pilih grup
+Tetapkan map induk grup
+Pilih map induk grup.\nPerubahan akan diterapkan pada unduhan baru saja.
+Unduhan terbaru
+(kosong)
+Jeda semua unduhan
+Tampilkan jendela laju unduhan
+Jika dicentang, FDM akan membuat jendela khusus dengan informasi tentang unduhan untuk tiap unduhan yang sedang berjalan
+; general settings | misc page
+Tenggat waktu konfirmasi
+Luncurkan unduhan
+Tanyakan jenis shutdown
+Konfirmasi waktu tenggat untuk perintah "Alat | Tutup ketika selesai".
+Konfirmasi waktu tenggat untuk perintah "Alat | Keluar ketika selesai".
+Konfirmasi waktu tenggat untuk perintah "Alat | Matikan komputer ketika selesai".
+Konfirmasi waktu tenggat untuk buka berkas terunduh ketika unduhan selesai.
+Jika dicentang, FDM akan menanyakan jenis shutdown untuk perintah "Alat | Matikan komputer ketika selesai".
+Jangan meminta konfirmasi
+; 5 seconds, 10 seconds, ...
+%d detik
+Tunggu konfirmasi saya
+Abaikan halaman dari map ini
+Unduh halaman dari map ini saja
+Termasuk sub-map
+Abaikan semua halaman web yang terletak dalam map ini.
+Unduh halaman yang terletak dalam map ini saja dan abaikan halaman web lain.
+Centang pilihan ini jika Anda menginginkan Laba-laba HTML mengabaikan (atau hanya mengunduh) halaman yang terletak dalam semua sub-map dari map yang ditentukan.
+Di sini Anda harus menentukan map URL.\nMisal: "http://situs.com/docs/".
+Jenis
+Abaikan
+Hanya
+Lakaran angka
+Terapkan
+Di sini Anda harus menentukan kumpulan angka dalam daftar lakaran.\nMis. 1-100, atau 1-100s2w3.
+Klik tombol ini untuk menerapkan kumpulan angka dengan jendela dialog.
+Angka tunggal
+Angka
+Terapkan kumpulan angka
+Sintaks salah
+Uraikan arsip
+Uraikan
+Penguraian
+Map tujuan
+Gagal menguraikan. Format berkas tak diketahui.
+Lalu lintas yang terunduh bulan ini\n(%s telah diunduh dalam bulan lalu)
+Total kecepatan unduhan
+Non-aktifkan tugas Alat | "ketika selesai" setelah eksekusi
+Ketika diaktifkan, semua tugas Alat | "ketika selesai" akan secara otomatis dinon-aktifkan setelah eksekusi. Oleh karena itu, ini hanya dijalankan sekali.
+; %s
+; 1st - file name
+; 2nd, 3rd - file info (size + date).
+Berkas "%s" telah ada.\n\nApakah Anda ingin menggantikan\n(%s)\n\ndengan yang baru:\n(%s)?
+Ya untuk semua
+Lewatkan
+Lewatkan semua
+Format arsip tak diketahui
+Kunjungi situs web
+Pasang paket
+Secara baku, FDM hanya mendukung arsip ZIP, RAR dan ARJ saja.\nAnda dapat menambahkan daftar arsip yang didukung dengan memasang paket dukungan arsip tambahan untuk Free Download Manager (Diperlukan sambungan internet).
+Paket dukungan arsip FDM
+Naikkan
+Turunkan
+Naikkan yang tersorot satu baris
+Turunkan yang tersorot satu baris
+Periksa integritas berkas
+Sebagian situs web menyediakan checksum khusus untuk berkas yang tersedia untuk diunduh untuk memungkinkan pemakai memastikan bahwa berkas yang diunduh tidak rusak. Anda dapat memasukkan checksum di sini dan FDM akan memeriksa integritas berkas tersebut.
+Algoritma
+Checksum
+Tempel dari clipboard
+Periksa
+Memperhitungkan checksum berkas terunduh...
+Pemeriksaan integritas berkas berhasil
+Pemeriksaan integritas berkas gagal
+Pemeriksaan integritas berkas telah selesai dengan sukses.\nTidak ada kesalahan ditemukan dalam berkas terunduh.
+Pemeriksaan integritas berkas telah selesai.\nAda kesalahan ditemukan: berkas telah rusak selama proses pengunduhan. Diperlukan mengulang unduhan dari awal.
+Jangan tampilkan jendela ini lagi jika pemeriksaan berhasil
+Tidak dapat menemukan berkas yang dapat dieksekusi dari program antivirus yang Anda pilih.\nHarap menentukan sendiri.
+Ukuran berkas tidak sama
+Simpan sebagai:\n(Contoh: berkas(*)(*A)(*a).txt)
+Lakaran 'simpan sebagai' yang ditentukan salah.\nPastikan itu berhubungan dengan lakaran URL.
+Ketika selesai
+Ketika selesai (semua selesai atau dalam kesalahan)
+Aplikasi
+Apa ini?
+Pendapat
+;
+Yang terhormat semuanya!
+Free Download Manager (FDM) adalah salah satu aplikasi unduhan paling populer di dunia, memiliki jutaan pengguna aktif di dunia, tetapi sekarang, ketika menjadi umum, kami ingin lebih!
+Jika Anda menganggap ini bermanfaat dan harus dimiliki, kami dengan tulus ingin meminta Anda membantu kami menyebar-luaskan dengan mem-posting suatu tautan dalam blog, situs web atau tempat pribadi Anda, seperti Myspace/MSN.
+; %s will be replaced with "FDM buzz"
+%s resmi telah dibuka pada 16 Agustus 2006. Cita-cita kami adalah membuat FDM menjadi perangkat Internet dengan perkembangan tercepat setelah FireFox!
+FDM buzz
+; %s will be replaced with "blog"
+Anda dapat melacak laju FDM dalam %s Anda.
+blog
+Terima kasih telah membantu di kemudian hari,\ntim penyusun Free Download Manager
+Jangan tampilkan jendela ini lagi, Saya memiliki ingatan yang bagus.
+Gabung dengan buzz
+Tidak, terima kasih
+Komunitas FDM
+Berpindah ke "Pendapat" setelah unduhan
+Jika diaktifkan, tab "Pendapat" akan secara otomatis diaktifkan ketika selesai.
+Ubah pengenalan jaringan Internet Explorer
+Jika diaktifkan, ini akan menginstruksikan halaman web yang Anda ramban bahwa Free Download Manager telah dipasang pada program Anda. Namun, menggunakan opsi ini dapat menyebabkan pemblokiran pada beberapa situs.
+Mencurigakan?
+Periksa jika salah satu pengguna Free Download Manager melaporkan unduhan ini berisi virus/adware/spyware/dsb.
+OK, tidak ada pengguna Free Download Manager yang melaporkan unduhan ini mencurigakan.\n\nNamun, ini tidak menjamin bahwa unduhan ini tidak mencurigakan dan disarankan untuk memeriksanya dengan suatu program antivirus.
+; keep all %xxx, \n as is.
+Ada %d dari %d pengguna Free Download Manager melaporkan unduhan ini mencurigakan.\nRata-rata nilai unduhan ini adalah %.*g.\n\nTampilkan pendapat tentang unduhan ini?
+Periksa tiap unduhan baru sebelum mengunduh, kalau-kalau unduhan mencurigakan
+Gunakan opsi ini untuk membuat FDM memeriksa secara otomatis, sebelum mengunduh, jika sebagian pengguna melaporkan unduhan ini mencurigakan.
+Tampilkan pendapat ketika mengunduh
+Jika diaktifkan, FDM akan mengaktifkan tab "Pendapat" secara otomatis dan menampikan pendapat tentang unduhan ketika sedang mengunduh.
+Memeriksa kalau-kalau unduhan ini mencurigakan (lihat opsi untuk menon-aktifkannya)
+OK, tidak ada yang melaporkan bahwa ini mencurigakan
+Peringatan! Seseorang melaporkan unduhan ini mencurigakan
+Tutup
+Memuat
+Jangan unduh ini
+Tembolokkan operasi penulisan saat terunduh ke diska
+Jika diaktifkan, FDM akan menggunakan buffer tembolok internal dengan ukuran yang Anda tentukan untuk kegiatan penulisan data terunduh. Ini akan jumlah kali HDD Anda digunakan. Ini dapat meningkatkan kecepatan unduhan untuk sambungan kecepatan tinggi.\nNamun, karena dat yang terunduh tidak ditulis ke HDD secepatnya, perlu mengunduh data ini lagi jika terjadi suatu kesalahan pada komputer (yang terburuk, Anda perlu mengunduh ulang sebanyak data yang Anda tentukan untuk ukuran tembolok).\nDisarankan untuk sambungan kecepatan tinggi.
+Tidak dapat memasang pemantauan SeaMonkey (Mozilla Suite)
+Tidak dapat mencopot pemantauan SeaMonkey (Mozilla Suite)
+Centang kotak ini jika Anda ingin FDM menangkap klik di peramban Mozilla Firefox
+Centang kotak ini jika Anda ingin FDM menangkap klik di peramban SeaMonkey (Mozilla Suite)
+Ijinkan peramban untuk mengunduh jika Anda menekan Batal
+Centang kotak ini jika Anda ingin peramban Anda mengunduh berkas ketika Anda menekan Batal dalam dialog "Buat unduhan"
+Tambahkan FDM ke menu konteks peramban
+Centang kotak ini untuk menambahkan item "Unduh dengan Free Download Manager" dan "Unduh situs web dengan Free Download Manager" ke menu konteks peramban (menu tampil ketika menekan klik kanan)
+Pilih menu yang tampil dalam menu konteks peramban
+Tidak dapat memasang pemantauan Firefox
+Pindahkan berkas ke map
+Kecepatan terlalu lamban. Memulai-ulang pecahan...
+Mulai-ulang jk kecepatan terlalu lambat selama (dlm mnt):
+Mulai ulang pecahan jika kecepatan unduhan berkurang secara dramatis.
+Apakah Anda ingin melihat jendela laju seperti ini lagi?
+Maaf, layanan ini sedang tidak tersedia. Harap coba lagi nanti.
+Geser teratas
+Geser terbawah
+Tempatkan unduhan teratas daftar
+Centang pilihan ini jika Anda ingin unduhan ditempatkan di bagian teratas daftar unduhan.
+Pemantauan dalam peramban Firefox tidak dapat diaktifkan karena ekstensi FlashGot telah terpasang.\nAnda harus mencopot FlashGot terlebih dahulu.
+Aktifkan
+Non-aktifkan
+Pindahkan
+Jika Jeda semua unduhan diaktifkan, ia akan dinon-aktifkan, jika tidak, ia akan diaktifkan.
+%s resmi akan dimulai pada 16 Agustus 2006. Tujuan kami adalah membuat FDM menjadi Perangkat Internet dengan perkembangan tercepat setelah FireFox!
+Secara otomatis unduh dan pasang pembaharuan
+Beritahu hanya ketika pembaharuan tersedia
+Matikan pembaharuan otomatis
+Sekarang pemantauan diaktifkan dalam %s.
+Hapus rekaman
+Setuju untuk menghapus?
+Tidak ada akses penulisan ke map Free Download Manager.\nAnda harus memberikan ijin untuk memperbolehkan Free Download Manager menyimpan berkas datanya, jika tidak, semua data akan hilang setelah pembukaan ulang Free Download Manager.
+Kotak kecil ini memungkinkan Anda menyeret&jatuhkan tautan dari peramban Anda ke dalam Free Download Manager.\nIni memungkinkan untuk dengan cepat menampilkan dan menyembunyikan jendela Free Download Manager dengan dobel klik tombol mouse kiri.\n\nUntuk menyembunyikannya, klik kanan padanya dan hilangkan centang item menu "Kotak muat".
+Kotak muat Free Download Manager
+Non-aktifkan semua pemberitahuan untuk lakaran unduhan
+Centang pilihan ini untuk menon-aktifkan semua pemberitahuan (balon, suara) untuk unduhan yang dibuat oleh perintah "%s".
+Daftar pelewatan
+Tentukan daftar ekstensi berkas dan daftar situs yang harus dipantau.
+Jangan tangkap unduhan dari situs-situs berikut (dipisahkan spasi):
+Free Download Manager tidak akan memantau unduhan dari situs-situs yang ditentukan dalam daftar ini. Specify domain names here (mis. "situs.com"). Anda bisa munggunakan simbol '*'.
+Peringatan!\nKesalahan terjadi ketika mencoba melakukan pemeriksaan virus.\nApakah Anda tetap ingin meluncurkan berkas terunduh?
+Integritas
+Lakukan pemeriksaan integritas ketika berkas telah terunduh
+Untuk melakukan pemeriksaan integritas Free Download Manager harus mengetahui checksum yang benar dari berkas ini. Dalam kebanyakan kasus Anda harus menyediakannya untuk tiap unduhan.
+Jika pemeriksaan salah
+Checksum yang benar untuk unduhan ini
+Jangan lakukan apapun
+Tentukan apa yang harus dilakukan FDM ketika pemeriksaan integritas gagal.\nTanyakan - FDM akan menanyakan apa yang harus Anda lakukan.\nMulai-ulang - FDM akan memulai ulang unduhan ini dari awal.\nJangan lakukan apapun - FDM akan menambahkan rekaman tentang kegagalan pemeriksaan ke pencatat unduhan berkas dan tidak akan melakukan apapun lagi.
+Melakukan pemeriksaan integritas...
+Pemeriksaan integritas berhasil.
+Pemeriksaan integritas gagal!
+Tentukan algoritma pemeriksaan integritas.
+Checksum yang benar
+Checksum hasil
+; zip preview window
+Centang/tak centang semua
+; grup's properties dialog
+Makro
+nama server (mis. "freedownloadmanager.org")
+path berkas unduhan pada server
+tahun sekarang
+bulan sekarang (angka dari 1 s/d 12)
+tanggal sekarang
+; don't translate "%year%-%month%-%day%" here
+sama dengan "%year%-%month%-%day%"
+;
+Dari Mozilla Firefox
+FDM akan mengambil pengaturan proksi dari Firefox
+; new download settings
+pakai grup ini
+; Downloads -> Schedule ->
+Mulai
+Hentikan
+Jadwalkan dimulainya unduhan
+Jadwalkan dihentikannya unduhan
+;
+; downloads that are not completed or have been completed recently
+Belum selesai+Terbaru
+Grup induk
+;
+; create new download dialog -> set output folder as default dialog
+Tetapkan sebagai standar untuk semua grup unduhan
+; %s - place of name of the grup. don't change this
+Setuju menetapkan map ini sebagai map keluaran standar untuk grup "%s"?
+;
+;
+Bersihkan daftar unduhan
+Unggahan
+Unggah berkas
+Mulai unggahan
+Hentikan unggahan
+Jadwalkan unggahan
+Geser unggahan tersorot naik
+Geser unggahan tersorot turun
+Terunggah
+Daftar Unggahan
+Mengambil URL unggahan tujuan dari server pokok...
+Batalkan
+; outlook express: view | insert file | ...
+Sebagai lampiran
+Sebagai tautan (unggah)
+Map
+;
+Tambah berkas
+Tambah map
+BitTorrent
+Aktifkan dukungan protokol BitTorrent
+Batasi lalu-lintas unggahan
+Batasi jumlah sambungan unggahan
+Pakai kisaran portal dari
+s/d
+Aktifkan DHT
+Aktifkan/non-aktifkan dukungan protokol BitTorrent. Namun, jika ada unduhan BitTorrent dalam daftar atau dalam Tempat Sampah FDM, protokol BitTorrent tidak akan sepenuhnya dinon-aktifkan.
+Batasi kecepatan keseluruhan sambungan unggahan. Ini tidak disarankan untuk protokol BitTorrent dan dapat menurunkan kecepatan unduhan Anda.
+Batasi jumlah keseluruhan sambungan unggahan. Memasang angka terlalu rendah dapat mengakibatkan penurunan kecepatan unduhan Anda.
+Tentukan kisaran portal yang akan dipakai oleh FDM untuk sambungan unggahan.
+Aktifkan ekstensi DHT (unduhan tanpa menggunakan pelacak). Pengaktifkan opsi ini akan mengakibatkan peningkatan pemakaian jalur jaringan.
+Nama
+Login diperlukan untuk pelacak ini
+Tambah unduhan BitTorrent
+Kesalahan terjadi ketika mencoba memproses berkas torrent ini.
+Berkas Torrent
+Kelihatannya Anda ingin mengunduh berkas .torrent. Perlu mengaktifkan dukungan BitTorrent di Free Download Manager untuk melakukan ini.\n\nApakah Anda ingin mengaktifkan BitTorrent?
+Ketik ulang sandi: sandi yang Anda masukkan tidak sama.
+Tentukan berkas yang ingin Anda unggah.
+Properti unggahan
+Berkas info Metalink terdeteksi. Melanjutkan unduhan.
+Berkas info BitTorrent terdeteksi. Melanjutkan unduhan.
+Gagal mengakses berkas di diska.
+Menghubungi pelacak...
+Gagal menerima tanggapan yang sesuai dari pelacak.
+Tanggapan telah berhasil diterima dari pelacak.
+Pemeriksaan Hash untuk pecahan unduhan gagal. Mengunduh-ulang...
+Perbolehkan semua bandwidth untuk unduhan ini
+Non-aktifkan pemuatan otomatis Free Download Manager saat pembukaan Windows?
+Maaf, Layanan FDM Community sedang tidak tersedia. Harap coba lagi nanti.
+Nama berkas tidak boleh mengandung salah satu simbol \ / : * ? " < > |. Masukkan nama lain.
+Nama map tidak boleh mengandung salah satu simbol : * ? " < > |. Masukkan nama lain.
+Mengubah-ubah jendela mengambang...
+Transparansi
+Data
+Simpan semua berkas data dalam map pengguna sekarang
+Simpan semua berkas dalam map ini
+Perubahan akan diterapkan setelah buka-ulang Free Download Manager.
+Tampilkan jendela laju unduhan
+Buat versi portabel
+Versi portabel Free Download Manager dapat digunakan pada komputer lain tanpa perlu menginstal dan mengkonfigurasikannya di tiap komputer.\n\nIni dapat dengan mudah ditempatkan pada sebuah flashdisk, misalnya.\n\nSekali dibuka, ia akan meregistrasikan dirinya ke dalam sistem komputer dan terintegrasi ke peramban-peramban. Saat keluar, ia akan menghapus registernya secara otomatis.\n\nTentukan di sini path di mana Anda ingin membuat versi ini. Ini harus berupa sebuah folder pada drive portabel.\n\nMis. "I:\Program portabelku\".
+Integrasi
+Asosiasikan Free Download Manager dengan berkas .torrent
+Selalu pakai grup ini untuk unduhan baru
+Selalu pakai grup ini dan ingat map keluaran terakhir tiap kali
+Unduhan video flash
+Unduh video dengan Free Download Manager
+Situs ini tidak didukung. Lihat daftar situs yang tidak didukung.
+Lihat di jendela Unduhan
+Ini adalah halaman dengan video flash. Mengunduh video flash...
+Mengkonversikan...
+Konversikan
+Pilihan konversi
+Format berkas
+Ukuran video
+; video quality
+Kualitas
+Sangat rendah
+Rendah
+Normal
+Sedang
+Tinggi
+Sangat tinggi
+;
+AVI menggunakan MPEG-4 (*.avi)
+AVI menggunakan XVID (*.avi)
+Jangan rubah
+Kecepatan bit gambar
+Kecepatan bit suara
+Ingat pengaturan sebagai standar
+;
+Buat unduhan video flash
+Secara otomatis konversikan video terunduh ke format tertentu
+Atur pilihan tingkat lanjut
+Lihat daftar situs yang didukung
+; used in "create video flash download" window
+mis.
+Percobaan berikutnya untuk terhubung ke pelacak dalam %d detik
+Menyiapkan berkas di diska... Ini mungkin membutuhkan beberapa menit
+Keadaan
+Menyiapkan berkas di diska...
+MP4 untuk iPod/PSP (MPEG4 + AAC, *.mp4)
+Penampil/konversi Media
+Konversikan berkas media
+Pindahkan ke tab ini secara otomatis
+;keep "\n\n%s\n" as is
+Berkas media telah berhasil dikonversikan dan disimpan dalam\n\n%s\n.
+Gagal mengkonversi berkas media\n\n%s.
+Grup untuk unduhan baru
+Info hash
+Peer
+Klien
+Pecahan
+Pelacak
+Status pelacak
+kecepatan unggah
+Byte terunggah
+Rasio pembagian
+Jumlah byte terbuang
+URL berkas Torrent
+Anda yakin?\nIni akan mengulang unduhan dari awal.
+Jalur terpakai ("terunduh"; "terunggah") bulan ini\n(%s digunakan dalam bulan lalu)
+Kecepatan keseluruhan ("unduh"; "unggah")
+Berkas untuk diunggah
+Nama kemasan
+Mampatkan
+Pasang sandi untuk unduhan ini
+Ketik ulang
+Simpan berkas ini
+Perkiraan jumlah unduhan
+Tambahkan tautan ke berkas ini ke katalog kami
+Sertakan informasi lanjutan (semua kolom opsional)
+Penjelasan
+Label
+Nama Anda
+Email Anda
+Email penerima
+Kurang dari 10
+Dari 10 s/d 100
+Lebih dari 100
+2 hari
+7 hari
+1 bulan
+;compression methods
+Tak ada
+Cepat
+Sedang
+Terbaik
+Pengaturan pengunggah
+Integrasikan pengunggah ke
+Menu konteks Explorer
+Menu "Send To..." Explorer
+Gunakan menu unggahan sederhana
+Ukuran berkas minimal untuk diunggah
+Pengaturan proksi HTTP
+Aktivasi unggahan
+Unggahan memerlukan aktivasi. Ini diperlukan untuk melindungi server kami dari pengunggahan otomatis. Masukkan kode aktivasi.
+Menyambung ke server unggahan
+Berhasil tersambung ke server unggahan
+Berkas telah berhasil diunggah ke server
+Unggahan berkas terhenti
+Membuat arsip zip untuk berkas unggahan...
+Gagal membuat arsip zip
+Arsip zip telah berhasil dibuat
+Mengirimkan permintaan ke server
+Mengirimkan informasi tentang unggahan ini ke server
+Informasi telah dikirimkan
+Gagal mengirimkan informasi tentang unggahan ini ke server
+Mengaktifkan unggahan...
+Unggahan telah berhasil diaktifkan
+Gagal mengaktifkan unggahan
+Berkas unggahan telah berubah di diska
+Kesalahan tak terduga
+Memperhitungkan checksum...
+; "I agree to terms" string in two lines
+Saya setuju untuk
+persyaratan
+Anda harus menyetujui persyaratannya.
+Gagal memeriksa pembaharuan
+Versi baru tersedia. Perlu membaharui versi Anda.\nApakah Anda ingin membaharui sekarang?
+Pembaharuan Free Download Manager diperlukan
+Mulai-ulang Free Download Manager diperlukan
+Tanyakan pada saya untuk mengunggah lampiran
+Lampirkan ke surat (lambat)...
+Unggah dan sisipkan tautan (secepat kilat)...
+Kesalahan terjadi ketika mencoba memulai pengunggahan. Periksa sambungan Anda atau coba lagi nanti.
+Anda telah melampirkan berkas besar.\nKarena berbagai alasan disarankan untuk tidak mengirimkan berkas besar sebagai lampiran, tetapi unggah berkas dan kirimkan tautan kepadanya.\n\nApakah Anda ingin mengunggah?
+Unggahan disarankan
+Pengaturan integrasi
+Unggahan %s telah selesai.\nAnda harus menggunakan URL berikut sebagai tautan unduhan:
+Ukuran total
+Buka di peramban
+Versi sekarang dari Free Download Manager tidak lagi dapat dipakai untuk mengunggah berkas. Diperlukan untuk membaharuinya.
+Versi sekarang dari Free Upload Manager tidak lagi dapat dipakai. Diperlukan untuk membaharuinya. Harap kunjungi situs freedownloadmanager.org.
+Masukan terlalu panjang.
+Pengaturan integrasi pengelola unggahan
+Pengaturan integrasi Free Upload Manager
+Unggah
+Mengunduh pembaharuan...
+Aktifkan penaburan
+Non-aktifkan penaburan sebagai standar
+Putuskan unduhan mencurigakan jika minimal
+% pengguna anggap mencurigakan
+OK, pengguna Free Download Manager tidak melaporkan unduhan ini sebagai mencurigakan.\n\nNamun, ini tidak menjamin bahwa unduhan ini tidak Mencurigakan dan disarankan untuk memeriksanya menggunakan suatu program antivirus.
+OK, pengguna FDM tidak melaporkan bahwa unduhan ini Mencurigakan
+huruf drive di mana FDM dibuka. Mis. "C:". Bermanfaat untuk versi portabel.
+Anda harus memasang pengaya Video Conversion untuk menggunakan fitur ini.
+Anda harus memasang pengaya BitTorrent untuk mengunduh lewat protokol BitTorrent.
+Catatan: berkas-berkas ini (*.sav) merupakan berkas layanan Free Download Manager(bukan berkas yang Anda unduh).
+Apakah Anda ingin menyalin berkas data sekarang ke map baru (berkas yang telah ada akan ditimpa)?
+Map unduhan standar untuk semua grup akan dipasang ke map ini.\nOK untuk dilanjutkan?
+Tetapkan map unduhan standar
+Cegah komputer dari 'stand by' selama pengunduhan
+Jumlah maksimum koneksi setengah terbuka
+Torrent
+Gagal mengakses berkas di diska. Periksa apakah diska penuh atau dikunci-tulis.
+Rasio
+Daftar torrent
+Tambah unduhan torrent dari web
+Tambah unduhan torrent dari berkas
+Buat torrent baru
+(otomatis)
+Asal
+Ukuran pecahan
+Pelacak²
+Tambahkan pelacak
+Hapus pelacak
+Mulai penaburan torrent ini
+Simpan
+Buat torrent baru
+Berkas torrent
+Prioritas
+;normal/high priority
+lewat
+normal
+tinggi
+Jendela mengambang
+Berkas layanan (daftar unduhan, riwayat, dsb.)
+Pengaturan standar untuk unduhan situs
+Anda telah menjeda semua unduhan. Ini artinya semua unduhan akan diunduh pada kecepatan sangat rendah (biasanya 1B/s).\nIni memungkinkan untuk "jeda" walaupun tanpa dukungan pelanjutan.\n\nAnda harus memanggil perintah ini lagi atau memulai-ulang FDM untuk kembali ke keadaan normal.
+Penaburan
+Aktifkan penaburan (sangat disarankan)
+Penaburan tak terhingga
+Batasi dengan rasio
+Taburkan sampai rasio menjadi
+Batasi dengan waktu
+Taburkan selama
+Periksa jika unduhan dengan URL yang sama telah ada
+Simpan riwayat unduhan
+Catat berkas saya yang baru diunduh
+Pengaturan standar unduhan BitTorrent
+Mulai-ulang unduhan selesai
+Tentukan map versi portabel Firefox.
+Tidak dapat menemukan direktori Plugin Apple Safari. Anda ingin menentukannya secara manual?
+Tidak dapat menemukan direktori Plugin Google Chrome. Anda ingin menentukannya secara manual?
+Tidak dapat memasang pemantauan Apple Safari
+Tidak dapat mencopot pemantauan Apple Safari
+Tidak dapat memasang pemantauan Google Chrome
+Tidak dapat mencopot pemantauan Google Chrome
+Batas Waktu
+;hours, for shprt
+jam.
+Batasi waktu kapan FDM bisa menjalankan unduhan
+Ijinkan untuk memmulai hanya dari
+Prioritas normal
+Prioritas tinggi
+Dasar
+Tidak ada batas waktu untuk balon unduhan selesai
+Periksa apakah unduhan baru adalah cerminan dari yang telah ada
+Tampilkan jendela pemberitahuan kecil saat unduhan selesai
+Secara otomatis sembunyikan setelah
+Suka FDM? Coba Personal Informer!
+Versi terbaru FDM hadir dengan bonus gratis: Personal Informer.
+Ini menempatkan tautan cepat ke semua milik Anda
+situs-situs favorit
+; next line means --- after you start _browser_. "_browser_" will be Internet Explorer or Firefox
+di halaman muka Anda, sehingga Anda dapat mengaksesnya segera setelah Anda membuka
+; \n means next line. don't change this.
+Kami akan menganalisa riwayat peramban Anda dan menampilkan daftar\nsitus web yang telah Anda kunjungi yang kami anggap mungkin Anda sukai\nuntuk berada di halaman web Anda. Anda akan dapat mengubah\ndaftarnya kemudian.
+Anda yakin? Keseluruhan proses membutuhkan kurang dari 1 menit dan memberi Anda suatu halaman muka yang hebat.
+Tetap Batalkan
+Lanjutkan
+Apakah Anda ingin diingatkan dalam beberapa hari ke depan?
+Judul
+Pantau unduhan video flash dalam peramban
+Pemakaian fitur ini dapat menyebabkan konflik dengan perangkat lunak lain yang terpasang pada PC. Jika Anda mengalami masalah Anda harus menon-aktifkan fitur dalam FDM atau coba atasi masalah dengan menghapus perangkat lunak yang berkonflik atau menon-aktifkan beberapa fiturnya.
+Halaman web
+Video flash ditemukan di halaman ini
+Anda harus mengaktifkan pemantauan unduhan video flash downloads untuk ini. Lihat Pilihan | Unduhan | Video Flash.
+Masukkan URL halaman web di mana Anda ingin mengunduh video flash. Ingat bahwa halaman ini harus telah dimuat di peramban Anda dan video harus dimainkan.
+Mencari video flash...
+Tidak ada video flash ditemukan di halaman ini. Pastikan video di halaman ini dimainkan atau coba muat ulang (segarkan halaman atau bersihkan tembolok peramban).
+; keep "0x%x" as is
+Kesalahan terjadi ketika mencoba mendapatkan unduhan.\nKesalahan: 0x%x.
+Kesalahan
+Tampilkan tombol "Dapatkan Ini"
+(Internet Explorer saja)
+Gagal menemukan informasi tentang halaman web ini. Harap paksa peramban Anda untuk memuat ulang ini.
+Video Flash
+Batasi jumlah sambungan maksimum
+Ini akan menon-aktifkan tips FDM. Anda yakin?\nAnda dapat mengaktifkannya lagi dalam Pilihan | Pengaturan pemberitahuan.
+Tampilkan Tips
+Kesalahan! Berkas pembaharuan tidak ditanda-tangani oleh FreeDownloadManager.ORG.
+;
+; Also, please download and translate this file:
+;  http://freedownloadmanager.org/tips-eng.txt
+; Note, that it's UTF-8 encoded file (use Notepad.exe to edit).
+;  and do not change text in tags (between "<>", e.g. "<a href...>")
+; Send translated file to support@freedownloadmanager.org.
+;

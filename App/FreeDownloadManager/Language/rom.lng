@@ -1,0 +1,1779 @@
+; This is a language file
+; You can translate it into your native language
+; To do this, follow instructions:
+; - PLEASE make sure FDM hasn't already been translated into your language 
+;   You should go to FDM web site (http://freedownloadmanager.org) and 
+;   check the list of available languages
+;   or e-mail to support@freedownloadmanager.org
+; - copy this language file to xxx.lng, where xxx is the reduced name 
+;   of your language. For English it is eng
+; - translate all strings of xxx.lng into your language
+; - send the translated file to support@freedownloadmanager.org 
+;
+;
+;
+; Translator - Alexandru Bogdan Munteanu [MunteAlb] (muntealb@gmail.com) http://muntealb.orgfree.com/
+;
+
+; Your language name. Please keep it în English
+;
+Romanian
+;
+;
+; Below are the strings to translate:
+;
+Salveazã Tot
+Decupeazã
+Copiazã
+Lipeºte
+Mod Uºor
+Mod Mediu
+Mod Greu
+Opþiuni de Descãrcare
+Conexiune Dial-up
+Despre FDM
+Ieºi
+Filã
+Editeazã
+Vezi
+Opþiuni
+Unelte
+Ajutor
+Bara de Unelte
+Bara de Stare
+Optimizator de Conexiune
+Setãri Implicite de Descãrcare
+Setãri Generale
+Conexiune Dial-up
+Închide Conexiunea la Terminare
+Închide Calculatorul la Terminare
+Cuprins
+Situl FDM
+Recomandã unui Prieten
+Raporteazã un Bug
+Cautã automat dacã sînt actualizãri
+Cautã Actualizãri
+-
+-
+Comutã la
+Mod de Utilizare a Traficului
+Înregistrare
+Descãrcãtor
+Planificator
+Explorator de Situri
+Explorator HTTP//FTP
+Manager de Situri
+Adaugã Descãrcare
+Porneºte Descãrcarea
+Opreºte Descãrcarea
+Planificã Descãrcarea
+Adaugã Sarcinã
+Proprietãþile Sarcinii
+Descarcã Filele Selectate
+Opreºte
+Împrospãteazã
+Adaugã Sit Nou
+Proprietãþile Sitului
+Grupuri de Descãrcãri
+Informaþii despre Descãrcare
+Jurnalul Planificatorului
+Jurnalul Exploratorului de Situri
+Panoul Lateral
+Creeazã Descãrcare Nouã
+ªterge Descãrcarea
+Lanseazã Fila
+Exploreazã
+Porneºte Automat Descãrcarea
+Proprietãþile Descãrcãrii
+Activeazã Sarcina
+Dezactiveazã Sarcina
+ªterge Sarcina
+Deschide Dosarul-Pãrinte
+Deconecteazã
+Descarcã
+Setãrile Exploratorului de Situri
+ªterge Situl
+Intrare Temporarã
+Situri
+Aratã Fereastra Principalã
+Monitorizeazã Exploratorul 
+Monitorizeazã Cliplanºeta 
+Porneºte Toate Descãrcãrile 
+Opreºte Toate Descãrcãrile 
+-
+Continuã
+-
+-
+-
+-
+-
+Anuleazã
+-
+-
+-
+Toate Grupurile
+Filtrate
+Terminate
+Active
+Planificate
+Oprite
+Diverse
+Creeazã Grup Nou
+ªterge Grupul
+ªterge Toate Descãrcãrile
+ªterge Toate Descãrcãrile Terminate
+Deschide Dosarul Grupului
+Proprietãþile Grupului
+Numele Grupului:
+Dosarul Implicit:
+Extensii de File (separate prin spaþii):
+Prioritatea Implicitã de Descãrcare
+Foarte Scazutã
+Scazutã
+Medie
+Înaltã
+Foarte Înaltã
+Scrie Numele Grupului
+Eroare de Intrare
+Un grup cu nume identic existã deja. Scrie alt nume
+Scrie Numele Dosarului
+Alege dosarul implicit al grupului
+Scrie aici numele grupului
+Dosarul implicit de salvare a descãrcãrilor din acest grup
+Exploreazã
+Extensia de filã pentru acest grup. E folositã pentru a detecta automat grupul de descãrcãri
+Prioritatea de descãrcare implicitã pentru acest grup
+Anuleazã modificãrile ºi închide dialogul
+Aplicã modificãrile ºi închide dialogul
+Eroare în grupurile de descãrcare
+Reinstaleazã Free Download Manager
+Eroare
+Nu pot prelua lista de descãrcãri. Probabil cã este stricatã sau e folositã de alt program
+Iniþializarea integrãrii cu Internet Explorer a eºuat
+Eºti sigur?
+Aceasta va ºterge toate descãrcãrile din grup
+Confirmare
+Numele Filei
+Mãrime
+Progres
+Timp Rãmas
+Secþiuni
+Vitezã
+Comentariu
+Jurnal
+Progres
+Orã
+Datã
+Informaþii
+Curãþã
+Deruleazã automat
+Eroare necunoscutã de reþea
+Accesul interzis. Nume de utilizator sau parolã incorecte
+Accesul interzis. Parolã incorectã
+Gata
+Nu mã pot conecta la server
+Fila nu a fost gãsitã pe server
+Conexiunea cu serverul a fost întreruptã
+Serverul nu rãspunde
+Nu pot gãsi numele serverului
+Serverul nu suportã reluarea descãrcãrii. Nu opri aceastã descãrcare, altfel va trebui reluatã de la început
+Sînt necesare nume de utilizator ºi parolã pentru proxy
+Eroare extinsã
+Solicitare greºitã. Probabil adresa URL e greºitã
+Eroare de server necunoscutã
+Conexiune întreruptã
+Adresã URL greºitã
+Nu existã conexiune la internet
+Versiunea HTTP selectatã nu e suportatã de acest server
+Eroare necunoscutã
+Nu pot ºterge fila de pe hardisc
+A fost atinsã limita de conexiuni la acest server
+A fost atinsã limita de conexiuni
+Pauzã %d sec.
+Secþiunea
+Începutã
+Realizatã
+Descãrcare Terminatã
+Conectare...
+Conexiune realizatã cu succes
+Redirecþionare...
+Redirecþionarea a avut succes. Deschid noua adresã (URL)
+Încep descãrcarea...
+Opritã
+Pornesc o secþiune nouã...
+Anulatã
+Repornesc descãrcarea...
+Creez fila pe hardisc...
+Numele filei e prea lung
+Fila existã deja. Renumesc ca
+Renumesc ca
+Fila de destinaþie a fost ºtearsã. Continuarea e imposibilã
+Fila existã deja. O suprascriu
+Fila existã deja. Reiau descãrcarea
+Fila existã deja
+Eºuare a deschiderii filei de pe hardisc
+Mãrimea filei a fost modificatã pe server!
+Ajustare pentru noua mãrime...
+Nu pot suprascrie fila
+Fila va fi renumitã
+Nu pot renumi fila cu vechiul sãu nume
+Nu pot salva grupurile
+Nu pot salva descãrcãrile
+Conexiune Dial-up
+Conectare la:
+Formeazã automat numãrul de telefon
+Conectare
+Alege aici conexiunea dial-up
+Bifeazã aceastã cãsuþã dacã vrei ca data viitoare conexiunea dial-up sã porneascã automat
+Conectare prin dial-up acum 
+Nu te conecta prin dial-up ºi închide acest dialog
+Nu au fost gãsite conexiuni dial-up pe acest calculator
+Linia telefonicã e ocupatã
+Eroare cauzatã de hardware
+Nu existã ton
+Formez numãrul 
+Încercare
+Deschid portul...
+Apelez la furnizorul de internet...
+Conectat la computerul depãrtat
+Se verificã numele de utilizator ºi parola...
+Viteza conexiunii este %d Bps
+Deconectare
+Repetare
+Sînt necesare numele de utilizator ºi parola
+Utilizator:
+Parolã:
+Grupul:
+Salveazã în dosarul:
+Salveazã ca:
+Pornire
+Automatã
+Manualã
+Planificatã
+Prioritatea Descãrcãrii
+Opþiuni Avansate
+Adresa filei pe care vrei s-o descarci
+Scrie aici numele de utilizator
+Scrie aici parola
+Bifeazã aceastã cãsuþã dacã serverul solicitã autorizare 
+Numele grupului unde sã fie depusã descãrcarea. Grupurile te ajutã sã administrezi descãrcãrile
+Dosarul unde sã fie salvate descãrcãrile
+Nume nou pentru fila descãrcatã. Lasã gol acest cîmp dacã vrei sã salvezi fila cu numele original
+Descriere scurtã a descãrcãrii
+Aceastã descãrcare va porni automat imediat ce va fi posibil
+FDM nu va încerca sã porneascã aceastã descãrcare în mod automat 
+Planificã aceastã descãrcare
+Configureazã planul descãrcãrii
+Prioritatea descãrcãrilor. Descãrcãrile cu prioritate mai înaltã vor fi pornite primele. Descãrcãrile cu prioritate mai joasã vor fi amînate
+Vezi setãrile avansate pentru aceastã descãrcare
+Adresa de internet introdusã e incorectã. Verificã-i validitatea
+Scrie numele de utilizator
+Alege dosarul de descãrcare
+Generale
+Informaþii generale
+Descãrcare salvatã actualmente în dosarul:
+Numele filei descãrcate
+Adresa acestei descãrcãri nu poate fi schimbatã 
+Descãrcarea este în curs. Nu pot schimba acum numele filei
+Nu pot renumi fila
+Filã negãsitã
+Cale negãsitã
+Format .exe incorect
+Fila e utilizatã de alt program
+Accesul interzis
+Dispozitivul nu e pregãtit
+Hardiscul e plin
+Numele filei nu e valid
+Autentificarea este obligatorie
+Conexiune
+Reþea
+Erori
+Pauzã între încercãrile de conectare (în sec):
+Numãrul maxim de încercãri
+Timpul de aºteptare (în sec):
+Mãrimea minimã:
+Numãrul maxim:
+Restricþie de trafic pentru aceastã descãrcare
+Limiteazã traficul
+Ignorã toate restricþiile
+B
+KB
+MB
+; second. e.g. KB/s
+s
+Scrie o valoare mai mare decît %d
+Selecteazã mãrimea
+Timpul de aºteptare pentru reconectarea la server în caz de eroare
+Bifeazã aceastã cãsuþã dacã vrei sã limitezi numãrul de încercãri nereuºite de descãrcare
+Timpul de aºteptare pentru rãspunsul serverului
+Mãrimea minimã a bucãþilor. Descãrcarea nu va fi divizatã în bucãþi de dimensiuni mai mici
+Numãrul maxim de bucãþi. Descãrcarea nu va fi divizatã într-un numãr mai mare de bucãþi
+Precizeazã cît de mult va lua FDM din traficul maxim pentru descãrcare 
+Ignorã pentru aceastã descãrcare restricþiile legate de trafic ºi de numãrul maxim de conexiuni 
+Poþi specifica în acest cîmp valoarea în baiþi [bytes - B], kilobaiþi (KB) sau megabaiþi (MB)
+Protocol
+Identificare la server ca:
+Referent:
+Foloseºte HTTP 1.1
+Foloseºte rãvaºe [cookies]
+Foloseºte modul pasiv
+Modul de Transfer
+Binar
+ASCII pentru filele cu extensiile:
+Specificã modul în care FDM se va identifica faþã de serverul HTTP
+Acest ºir va fi trimis drept cîmp al referentului cãtre serverul HTTP. De obicei nu este necesar
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã foloseascã HTTP versiunea 1.1
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã foloseascã rãvaºe [cookies]
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã foloseascã modul pasiv pentru serverele FTP. Cîteodatã acest lucru e necesar cînd se lucreaza cu paravane
+Foloseºte modul binar pentru transferurile FTP. Seteazã acest mod dacã nu descarci o filã text
+Foloseºte modul ASCII pentru transferurile FTP. Seteazã acest mod dacã descarci o filã text
+FDM va folosi modul ASCII pentru filele cu extensiile specificate. Pentru alte file FDM va folosi modul binar
+Proxy
+Obþine setãrile serverului proxy (intermediar)
+Din Internet Explorer
+Specificã-le manual
+Nu folosi server proxy
+Setãri
+Adresã:
+Port:
+Introdu adresa serverului proxy
+Introdu portul serverului proxy
+FDM va lua setãrile serverului proxy din Internet Explorer
+Specificã setãrile serverului proxy
+FDM nu va utiliza server proxy
+Alege tipul de servere pentru care vrei sã specifici un server proxy
+Introdu adresa serverului proxy pe care vrei sã-l foloseºti
+Introdu aici portul serverului proxy. De obicei este 3128, 1080 sau 8080
+Bifeazã aceastã cãsuþã dacã serverul proxy necesitã autentificare
+Diverse
+Filã localã
+Dacã fila existã deja:
+Rezervã spaþiu pe hardisc pentru fila care se descarcã
+Extensie adiþionalã la fila unei descãrcãri neterminate:
+Serverul de pe internet 
+Nu reporni descãrcarea dacã serverul nu suportã reluarea descãrcãrilor
+Dacã mãrimea filei s-a schimbat pe server:
+Opreºte-te la erorile urmãtoare
+Întreabã
+Rescrie
+Renumeºte
+Reia
+Reporneºte
+Ajusteazã
+Specificã extensia filei
+Aici poþi specifica ce sã facã FDM dacã fila existã deja pe hardisc
+Bifeazã aceastã cãsuþã dacã vrei sã fie rezervat spaþiu pe hardisc imediat ce o descãrcare a fost începutã
+Dacã aceastã cãsuþã este bifatã FDM va ataºa extensia specificatã la un nume de filã în timp ce acesta se descarcã. Dupã ce descãrcarea s-a terminat FDM va renumi fila cu numele original
+FDM nu va reporni descãrcarea dacã serverul depãrtat nu suportã reluarea descãrcãrilor
+Poþi specifica aici ce sã facã FDM dacã mãrimea filei s-a schimbat pe server
+Bifeazã aceastã cãsuþã pentru a opri descãrcarea dacã fila nu a fost gãsitã pe server
+Bifeazã aceastã cãsuþã pentru a opri descãrcarea dacã numele de utilizator sau parola nu sînt valide
+Moduri de Utilizare a Traficului
+Selecteazã modul pentru a-l configura:
+Numãrul maxim de conexiuni:
+Numãrul maxim de conexiuni la un singur server:
+Restricþionare de trafic:
+nelimitatã
+Selecteazã modul de utilizare a traficului pe care vrei sã-l configurezi aici 
+Bifeazã aceastã cãsuþã pentru a limita numãrul maxim de conexiuni
+Bifeazã aceastã cãsuþã pentru a limita numãrul maxim de conexiuni la un singur server
+Specificã aici traficul (maxim) pe care îl foloseste FDM pentru descãrcare
+Toate Descãrcãrile
+Lista de Descãrcãri
+Salveazã automat la fiecare
+min.
+Cînd este ºtearsã o descãrcare neterminatã
+ªterge automat din listã descãrcãrile terminate
+Nu ºterge fila
+ªterge fila
+FDM salveazã automat lista de descãrcãri la intervalul de timp specificat. Acest lucru protejeazã lista în caz de blocare a calculatorului sau de apariþie a unei pene de curent
+Specificã aici ce ar trebui sã facã FDM cu fila de pe hardisc atunci cînd ºtergi din listã o descãrcare neterminatã
+Bifeazã aceastã cãsuþã dacã vrei sã ºtergi automat din listã descãrcarea atunci cînd s-a terminat
+Monitorizare
+Monitorizeazã
+Cliplanºeta [clipboard]
+Monitorizeazã filele cu extensiile
+Ignorã filele cu extensiile
+Tasta Alt nu trebuie sã fie apãsatã
+Doar dacã tasta Alt e apãsatã
+Specificã extensiile
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã intercepteze clicurile din Internet Explorer
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã monitorizeze cliplanºeta
+Monitorizeazã doar filele cu extensiile specificate
+Nu monitoriza filele cu extensiile specificate 
+Monitorizeazã doar dacã tasta ALT nu e apãsatã
+Monitorizeazã doar dacã tasta ALT e apãsatã
+Pornire
+Lanseazã FDM odatã cu Windows
+Porneºte minimizat
+Sistem
+Minimizeazã în sertar [system tray]
+Butonul de închidere minimizeazã fereastra FDM, nu închide softul
+FDM va fi pornit automat cînd porneºte Windows 
+FDM va fi minimizat dupã pornire
+Cînd se clicheazã pe butonul de minimizare, FDM va fi minimizat în sertar
+Dacã e bifatã, clicarea pe butonul de închidere va fi similarã cu cea pe butonul de minimizare
+Actualizare
+Adresa serverului de actualizare
+FDM va verifica automat existenþa unei versiuni noi
+Optimizator al utilizãrii reþelei
+Bine ai venit la optimizatorul utilizãrii reþelei!
+Acest optimizator te va ajuta sã alegi setãrile optime pentru tipul tãu de conexiune. El va seta proprietãþile descãrcãtorului ºi proprietãþile implicite pentru descãrcãri.
+Selecteazã tipul de conexiune
+Executã
+Specificã aici tipul de conexiune la internet
+Configureazã FDM pentru a lucra în mod optim cu conexiunea ta
+Sarcinã
+Timp de Pornire
+Urmãtorul Timp de Pornire
+Ultimul Timp de Pornire
+Nu pot deschide lista de planificãri. E posibil sã fie stricatã sau sã fie folositã de altã aplicaþie
+Nu pot deschide jurnalul Planificatorului
+Nu pot salva lista de planificãri
+Sarcina "%s" a fost planificatã. O pornesc?
+Schimb modul de folosire a traficului la "%s"
+Închiderea Conexiunii
+Toate Conexiunile
+Schimb modul de folosire a traficului la
+Închiderea PC-ului
+Repornire
+Dezautentificare
+O singurã datã
+Dum
+Lun
+Mar
+Mie
+Joi
+Vin
+Sîm
+În zilele:
+La fiecare
+zile
+ore
+Pornirea FDM
+Cînd stabilirea conexiunii a reuºit
+Cînd stabilirea conexiunii a eºuat
+Cînd nu existã descãrcãri active
+Cînd viteza e mai micã sau egalã ca %d Bps timp de %d
+Cînd toate descãrcãrile sînt în stare de eroare timp de
+Niciodatã
+Necunoscutã
+Conectat cu succes la "%s"
+Conectare eºuatã la "%s"
+Lansare reuºitã
+Memorie RAM epuizatã
+Nu pot lansa
+Executarea planificãrii va produce ieºirea din FDM la pornire. Programarea va fi ignoratã
+Numãrul maxim de încercãri de conectare
+Pauzã între încercãri
+Închide conexiunea dacã viteza e mai micã de:
+Încearcã din nou
+Nu mai mult de
+Foloseºte conexiunea
+Dacã a reuºit
+ori
+Închide toate conexiunile active
+Conexiune de închis
+Numele softului:
+Argumente:
+Tip de închidere PC:
+Forþeazã închiderea aplicaþiilor
+Lanseazã un program
+Stabileºte o conexiune dial-up
+Închide o conexiune
+Schimbã modul de utilizare a traficului
+Închide programul FDM (Ieºire)
+Închide calculatorul
+Descãrcãri de Pornit
+Descãrcãri de Oprit
+Aplicaþii
+Toate filele
+Aceastã facilitate e disponibilã doar în Windows 2000, XP ºi urmãtoarele
+Scrie numele programului
+Selecteazã descãrcãrile
+Selecteazã modul de utilizare a traficului care sã fie setat la pornirea sarcinii
+Bifeazã aceastã cãsuþã dacã vrei sã limitezi numãrul maxim de încercãri de conectare nereuºite
+Interval de timp între încercãrile nereuºite
+Bifeazã aceastã cãsuþã pentru realizarea unei conexiuni la o vitezã superioarã valorii specificate
+Specificã aici valoarea minimã doritã a vitezei conexiunii
+FDM va încerca sã stabileascã din nou conexiunea doritã dacã bifezi aceastã cãsuþã
+Bifeazã aceastã cãsuþã pentru a limita numãrul maxim de încercãri nereuºite de stabilire a conexiunii
+Specificã aici descãrcãrile dorite
+Lista tuturor descãrcãrilor disponibile
+Adaugã descãrcarea selectatã la lista de sarcini de descãrcare
+Înlaturã descãrcarea selectatã din lista de sarcini de descãrcare
+Specificã aici programul pe care vrei sã-l lansezi
+Cautã programul pe calculatorul tãu
+Specificã aici argumentele programului
+Specificã aici tipul de terminare a sesiunii
+Bifeazã aceastã cãsuþã pentru a forþa terminarea sesiunii. Acest lucru e util dacã existã aplicaþii care au blocat sistemul. Dar în acest caz toate datele nesalvate vor fi pierdute
+Specificã aici acþiunea planificatã
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã închidã toate conexiunile active
+Specificã aici conexiunea ce trebuie închisã
+În anumite zile
+Duminicã
+Luni
+Marþi
+Miercuri
+Joi
+Vineri
+Sîmbãtã
+La evenimentul
+Pe durata a
+Viteza sub:
+min.
+Minute
+Ore
+Zile
+Cînd viteza de descãrcare este prea micã
+Cînd toate conexiunile sînt în stare de eroare
+Specificã zilele
+Porneºte sarcina la ora specificatã
+Seteazã aici timpul de pornire a sarcinii
+Porneºte sarcina la data specificatã
+Seteazã aici data de pornire a sarcinii
+Porneºte sarcina în anumite zile ale sãptãmînii
+Porneºte sarcina în fiecare Duminicã
+Porneºte sarcina în fiecare Luni
+Porneºte sarcina în fiecare Marþi
+Porneºte sarcina în fiecare Miercuri
+Porneºte sarcina în fiecare Joi
+Porneºte sarcina în fiecare Vineri
+Porneºte sarcina în fiecare Sîmbãtã
+Porneºte sarcina în mod periodic
+Acest cîmp îþi permite sã specifici intervalul de timp în minute, ore sau zile
+Porneºte sarcina cînd se întimplã un anumit eveniment
+Specificã aici tipul de eveniment
+Scrie aici intervalul de timp
+Scrie aici viteza minimã doritã
+Este necesarã o confirmare pentru executarea sarcinii
+Aºteaptã confirmarea pe durata a
+sec.
+Dacã e bifatã, FDM va cere confirmare pentru executarea acestei sarcini
+Dacã e bifatã, FDM va aºtepta confirmarea în intervalul de timp specificat. Dacã nu vei reacþiona în acest interval sarcina va fi pornitã
+Adresã:
+Alcãtuiesc lista de file de descãrcat
+Mã conectez la server
+Folosesc utilizatorul ºi parola stocate în Managerul de Situri
+Obþin lista de file de la server
+Conexiunea cu serverul a fost pierdutã. Încerc refacerea ei.
+Alcãtuiesc lista
+Extrage din file mãrimea ºi data ultimei modificãri
+Folosirea acestui parametru ar putea sã scadã viteza în mod dramatic
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã afle mãrimea ºi data filelor de pe serverele HTTP
+Numele Sitului
+Conexiuni
+Autentificare
+Grup
+Nu pot deschide lista de situri. E posibil sã fie stricatã sau sã fie utilizatã de altã aplicaþie
+Nu pot salva lista de situri
+Numãrul maxim de conexiuni simultane:
+Grupul implicit pentru o descãrcare nouã de pe acest sit
+Foloseºte modul FTP pasiv
+Scrie numele sitului
+Un sit cu acelaºi nume existã deja. Foloseºte un alt nume
+Numãrul maxim de conexiuni trebuie sã fie mai mare de 0
+Selecteazã grupul
+Specificã aici numele sitului
+Bifeazã aceastã cãsuþã pentru a limita numãrul maxim de conexiuni simultane la acest server
+Bifeazã aceastã cãsuþã pentru a adãuga automat descãrcãrile de pe acest server la grupul selectat
+Întreabã utilizatorul
+Nu mã întreba din nou
+Eroare de scriere pe hardisc
+Fila "%s" existã deja pe hardisc. Ce trebuie sã fac?
+Nu vei mai fi intrebat despre asta din nou. Alegerea actualã va deveni implicitã
+Suprascrie fila existentã
+Renumeºte aceastã filã
+Reia descãrcarea. (Descãrcarea va fi pornitã de la o poziþie egalã cu mãrimea filei existente)
+Opreºte aceastã descãrcare
+Da
+Nu
+Descãrcarea
+a fost ºtearsã. ªterg ºi fila de pe hardisc?
+Scrie numele de utilizator ºi parola
+Autentificare la "%s"
+Trimite la server utilizatorul ºi parola specificate
+Nu te conecta la acest server
+Mãrimea lui "%s" s-a schimbat pe server. Ce trebuie fãcut?
+Reporneºte descãrcarea de la început
+Ajusteazã descãrcarea la noua mãrime a filei. Nu e recomandat
+Aºteaptã
+Actualizeazã
+Descriere
+Actualizeazã folosind:
+Cãutare actualizãri
+Foloseºti deja cea mai nouã versiune
+Descarc
+Versiunea %s varianta %s e disponibilã
+Distribuþia completã a versiunii %s (%s)
+Actualizeazã la versiunea %s
+Actualizeazã la versiunea %s (%s)
+FDM trebuie repornit. Repornesc acum?
+Actualizare efectuatã
+Nu gãsesc Actualizatorul
+Specificã aici tipul actualizãrii
+Actualizeazã FDM folosind distribuþia completã
+Actualizeazã FDM folosind distribuþia de actualizare
+Cautã mai multe informaþii despre procesul de actualizare
+Ce e nou în aceastã versiune?
+Porneºte acum actualizarea FDM
+Anuleazã actualizarea ºi închide acest dialog
+Creeazã descãrcãri
+Selecteazã conþinutul
+Deselecteazã conþinutul
+Lista descãrcãrilor de adãugat
+Bifeazã itemurile selectate din dosar pentru a le adãuga la lista de descãrcare
+Debifeazã itemurile selectate din dosar pentru a le scoate din lista de descãrcare
+Despre FDM
+Copyright (c)
+Toate drepturile rezervate
+Înregistrat de:
+Deja actualizat. E necesarã repornirea
+Nume de utilizator sau parolã nevalide
+Nu pot deschide fila cu istoria descãrcãrilor
+Nu pot salva fila cu istoria descãrcãrilor
+Setãri Implicite ale Descãrcãtorului de Situri
+Descãrcãtor de Situri
+Arborele de pagini web
+Descarcã Situl
+Setãrile Descãrcãtorului de Situri
+Porneºte Descãrcarea
+Opreºte Descãrcarea
+Planificã Descãrcarea
+ªterge
+Deschide Pagina în Explorator
+Porneºte Automat Descãrcarea
+Adresa Sitului sau a Paginii Web
+File
+ªterg ºi descãrcãrile?
+Nu pot deschide lista paginilor web
+Nu pot salva lista paginilor web
+Adresa paginii web sau a serverului HTTP de unde vrei sã descarci
+Adresa paginii web sau a serverului HTTP de unde a început descãrcarea
+Numele dosarului unde se salveazã descãrcãrile
+Dosarul de Descãrcare:
+Pagini Web
+Pagini
+Extensii ale filelor (pagini web) ce conþin cod Html:
+Descarcã filele CSS
+Descarcã ºi paginile web externe cãtre care existã legãturi
+Imagini
+Descarcã imaginile din paginile sitului
+Descarcã ºi imaginile stocate pe alte situri
+Profunzime (nivel legãturi desc.):
+Extensii ale filelor (pagini web) ce conþin cod Html. Paginile web vor fi scanate pentru legãturi cãtre imagini ºi alte pagini de descãrcat
+Dacã e bifatã, filele CSS vor fi ºi ele descãrcate. Recomandat
+Dacã e nebifatã, paginile web ale altor situri nu vor fi descãrcate. De exemplu dacã aceastã cãsuþã este nebifatã ºi se începe descãrcarea de pe http://example.com/, atunci http://othersite.com/some.html nu va fi descãrcatã, dar http://example.com/some.html va fi descãrcatã
+Dacã e bifatã, imaginile din paginile web vor fi ºi ele descãrcate
+Dacã e nebifatã, imaginile din paginile web care au legãturi cãtre alte situri nu vor fi descãrcate
+Profunzimea descãrcãrii. De exemplu, s-a început descãrcarea de la http://ex.com/index.html. Existã o legatura cãtre http://ex.com/some.html de la http://ex.com/index.html. Profunzimea paginii http://ex.com/some.html va fi 1. Setarea profunzimii la 0 va duce la descãrcarea conþinutului doar din pagina de start.
+Descarcã filele locale din siturile web
+Descarcã filele externe cãtre care existã legãturi
+Filtrarea filelor pe baza extensiei lor
+Activeazã filtrarea
+Descarcã
+Nu descãrca
+Filele cu extensiile:
+Bifeazã aceastã cãsuþã pentru a descãrca file din paginile web
+Bifeazã aceastã cãsuþã pentru a descãrca file de pe alte situri
+Bifeazã aceastã cãsuþã pentru a ignora filele cu extensiile specificate
+Filele cu extensiile specificate mai jos vor fi descãrcate, în caz de bifare
+Filele cu extensiile specificate mai jos NU vor fi descãrcate, în caz de bifare
+Exportã Setãrile Softului
+Importã Setãrile Softului
+Lansare eºuata a Regedit.exe
+A apãrut o eroare în timpul încercãrii de exportare a setãrilor
+A apãrut o eroare în timpul încercãrii de importare a setãrilor
+Filele din registru ale FDM
+Filtrarea imaginilor pe bazã de extensie
+imaginile cu extensiile:
+Bifeazã aceastã cãsuþã pentru a ignora imaginile cu extensiile specificate
+Imaginile cu extensiile specificate mai jos vor fi descãrcate, în caz de bifare
+Imaginile cu extensiile specificate mai jos NU vor fi descãrcate, în caz de bifare
+Nu descãrca asta ºi ºterge
+Serverul nu suportã reluarea descãrcãrii. Reporneºte de la început
+Eºec la deschiderea adresei (URL)
+Scuze, o eroare neaºteptatã s-a produs în timp ce încercam scrierea în registru
+Mulþumim pentru înregistrare! Te rugãm sã reporneºti FDM
+Descarcã cu FDM
+Descarcã Situl cu FDM
+Adaugã comenzi FDM în meniul contextual al exploratorului
+Bifeazã aceastã cãsuþã pentru a adãuga opþiunile "Descarcã cu FDM" ºi "Descarcã Situl cu FDM" la meniul contextual al exploratorului (meniul apare la efectuarea clic-dreapta)
+Diminueazã utilizarea traficului în caz de activitate a exploratorului [browser]
+Scade cu un nivel
+Seteazã la modul Uºor
+Bifeazã aceastã cãsuþã pentru a scãdea automat utilizarea traficului atunci cînd explorezi internetul. Acest lucru îþi permite sã explorezi mai rapid atunci cînd FDM descarcã ceva
+Modul de utilizare a traficului va fi scazut cu un nivel. Greu->Mediu, Mediu->Uºor
+Modul de utilizare a traficului va fi schimbat la cel Uºor.
+Valabil pentru
+Subdomenii
+Bifeazã cãsuþa pentru a utiliza aceastã setare la descãrcarea via HTTP
+Bifeazã cãsuþa pentru a utiliza aceastã setare la descãrcarea via HTTPS
+Bifeazã cãsuþa pentru a utiliza aceastã setare la descãrcarea via FTP
+Bifeazã cãsuþa pentru a utiliza aceastã setare la descãrcarea de la serverele de pe subdomenii. De exemplu pentru situl http://site.com un subdomeniu este http://some.site.com
+Selecteazã cel puþin un protocol
+Numãrul maxim de descãrcãri ce ruleazã simultan :
+Bifeazã aceastã cãsuþã dacã vrei sã limitezi numãrul maxim de descãrcãri ce ruleazã în acelaºi timp
+Reporneºte Descãrcarea
+Porneºte o Secþiune Nouã
+Opreºte o Secþiune Existentã
+; context: [section x] - Stopped
+Opritã
+; tray menu
+Colector
+;
+Nu gãsesc dosarul cu implanturi [plugins] pentru Opera. Vrei sã-l specifici manual?
+Nu gãsesc dosarul cu implanturi [plugins] pentru Netscape. Vrei sã-l specifici manual?
+Nu pot instala monitorizarea pentru Opera
+Nu pot dezinstala monitorizarea pentru Opera
+Nu pot instala monitorizarea pentru Netscape
+Nu pot dezinstala monitorizarea pentru Netscape
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã intercepteze clicurile din Opera
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã intercepteze clicurile din Netscape
+; create download dlg
+Aflã Mãrimea
+; request the size of a download
+Cercetez...
+Aflã mãrimea unei descãrcãri de pe server
+Da pentru toate
+Nu pentru toate
+Înregistreazã un jurnal de activitate detaliat [log]
+În caz de bifare, FDM va arãta rãspunsurile de la server
+Schimbãrile vor avea loc dupã ce reporneºti exploratorul
+Lista de sarcini
+Lista de File
+Lista de Situri
+Lista de Pagini
+ªterg descãrcãrile
+Alcãtuiesc lista de descãrcãri
+Creeazã Descãrcare Grupatã
+De la:
+la:
+Pas:
+Contor metacaractere:
+Rezultate
+Exemplu:
+Numãrul de pornire a seriei
+Numãrul de terminare a seriei
+Pasul seriei. De exemplu dacã e 10, atunci seria va fi 0, 10, 20, ...
+Contorul de metacaractere. De exemplu dacã e 1, atunci seria va fi 1, 2, 3. Dacã e 2, atunci seria va fi 01, 02, 03.
+Clicheazã aici pentru a vedea seria generatã.
+Exploratorul de internet va descãrca el fila dacã se apãsã în FDM pe Anuleazã
+Bifeazã aceastã cãsuþã dacã vrei ca exploratorul sã descarce fila cînd apeºi Anuleazã în dialogul "Creeazã Descãrcare"
+Numãrul de la sfîrºitul seriei trebuie sã fie mai mare decît cel de la începutul ei
+Foloseºte asterisc (*) în adresã pentru a-i specifica ºablonul
+Creeazã o extensie dacã fila nu are una
+Bifeazã aceastã cãsuþã ca sã adaugi extensia specificatã la o filã care nu are una. De exemplu dacã numele filei este "file" ºi extensia specificatã e "txt", rezultatul va fi "file.txt"
+Afiºeazã dimensiunile doar în baiþi [bytes]
+Bifeazã aceastã cãsuþã pentru a afiºa toate dimensiunile în baiþi [bytes] în loc de kilobaiþi sau megabaiþi
+Scaneazã cu Antivirusul
+Argumente:
+Extensii:
+Bifeazã aceastã cãsuþã pentru a scana automat cu antivirusul filele descãrcate 
+Specificã aici numele programului antivirus
+Specificã aici argumentele pentru antivirus
+Specificã aici extensiile filelor descãrcate care vor fi scanate
+Scrie numele antivirusului
+Numele nu e valid. Verificã-l din nou
+Lansez antivirusul
+Dezactiveazã sarcina dupã executare
+ªterge sarcina dupã executare
+Bifeazã aceastã cãsuþã pentru a dezactiva automat sarcina dupã executare
+Bifeazã aceastã cãsuþã pentru a ºterge automat sarcina dupã executare
+Du-te
+Înapoi
+Genereazã automat un nume de filã
+Bifeazã aceastã cãsuþã pentru a genera automat un nume de filã pentru descãrcare
+Salveazã cu extensia "htm"
+Bifeazã aceastã cãsuþã pentru a salva cu extensia "htm" toate paginile web
+Clicheazã pe acest buton pentru a calcula mãrimea însumatã a tuturor descãrcãrilor
+Pãstreazã structura aranjãrii dosarelor existentã pe server
+Clicheazã pe acest buton pentru a pãstra structura originalã a aranjãrii dosarelor de pe server. În caz contrar toate filele de pe server vor fi salvate într-un singur dosar
+Ai selectat un alt dosar. Setez acest dosar ca implicit pentru acest grup? Poþi de asemenea schimba dosarul implicit în secþiunea de proprietãþi a grupului.
+; === ADDED LINES ===
+Descãrcarea cu aceastã adresã existã deja. Ce trebuie sã fac?
+Lanseazã
+Lanseazã fila descãrcatã
+Versiunea
+Clicheazã aici pentru a ne contacta
+Clicheazã aici pentru a descãrca ultima versiune
+Avertisment:  Acest program de calculator este protejat de Legea Drepturilor de Autor ºi de tratatele internaþionale în domeniu. Reproducerea ori distribuirea neconformã cu licenþa de folosire a acestui program sau a oricãrei pãrþi din el poate duce la sancþiuni severe de ordin civil sau penal ºi va fi urmãritã în justiþie în limitele maxime permise de lege.
+; === new version ===
+Descarcã Tot cu FDM
+Adãugã Listã de Descãrcãri
+Înlãturã Selecþia
+Aceasta e lista de adrese ce trebuie adãugate
+Clicheazã pe acest buton pentru a înlãtura toate adresele selectate din listã
+Nu gãsesc dosarul cu implanturi [plugins] pentru Firefox. Vrei sã-l specifici manual?
+Nu pot instala monitorizarea pentru Firefox
+Nu pot dezinstala monitorizarea pentru Firefox
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã intercepteze clicurile din Firefox
+Descarcã Selecþia cu FDM
+Porneºte
+Situri Web
+Descãrcãri Active
+Nu existã pe moment descãrcãri active
+Notificãri
+Afiºeazã infobule (baloane informative) în sertar [system tray]
+Timp de aºteptare
+Bifeazã aceastã cãsuþã pentru a activa notificãrile prin infobule în sertar atunci cînd o descãrcare s-a oprit sau terminat. Notã: aceastã facilitate funcþioneazã doar în Windows 2000/XP ºi urmãtoarele
+O infobulã va fi închisã automat dupã trecerea acestui interval de timp
+Clone
+Cautã automat adrese ale clonelor descãrcãrii (clonã = filã identicã cu cea doritã)
+Numãrul maxim de clone [mirrors]
+Calculeazã viteza clonelor
+Recalculezã viteza la fiecare
+Bifeazã aceastã cãsuþã pentru ca FDM sã caute automat adrese ale clonelor pentru fiecare descãrcare
+Limiteazã numãrul de adrese ale clonelor pentru fiecare descãrcare. Aceasta permite sã fie redus timpul de calculare a vitezei clonelor
+Bifeazã aceastã cãsuþã pentru ca FDM sã calculeze viteza fiecãrui server-clona
+Viteza clonelor va fi recalculatã automat la intervalul de timp specificat
+Nu cãuta dacã mãrimea filei e mai micã de
+FDM nu va cãuta clone dacã mãrimea filei este mai micã decît cea specificatã
+Nu cãuta dacã mãrimea filei e necunoscutã (recomandat)
+Adaugã clonã
+Cautã clone
+Adaugã manual adresa clonei pentru aceastã descãrcare 
+Cautã adrese ale clonelor pentru aceastã descãrcare folosind serviciul FileSearching.com
+Lista de adrese ale clonelor
+Viteza serverului
+În uz
+Mãsoarã viteza clonelor
+Mãsoarã viteza serverelor cu clone
+Informaþii despre Descãrcãri
+În aºteptare...
+Adresa clonei pentru descãrcare
+Mãrimea filei depãºeºte 2GB. Astfel de descãrcãri sînt suportate doar via FTP 
+;
+;
+; #NEW LINES (BUILDS NEWER THAN 195)#
+;
+;
+; BEGIN: New Download page
+Descãrcare Nouã
+Determinã automat grupul pentru fiecare descãrcare
+Grupul:
+Salveazã descãrcarea în dosarul grupului potrivit
+Bifeazã aceastã cãsuþã dacã vrei ca grupul descãrcãrii sã fie determinat pe baza extensiei filei sau a setãrilor din Managerul de Situri
+Seteazã manual grupul implicit
+Bifeazã aceastã cãsuþã dacã vrei ca descãrcarea sã fie salvatã în dosarul implicit al grupului sãu (vezi Proprietãþile Grupului)
+Seteazã manual dosarul implicit de descãrcare
+; END
+; BEGIN: Monitoring page
+Monitorizare silenþioasã
+În caz de bifare dialogul "Creeazã descãrcare" nu va fi afiºat cînd se adaugã o descãrcare din explorator
+Alege
+Selecteazã itemurile legate de FDM ce vor fi prezente în meniul contextual al exploratorului
+; END
+Comenzi afiºate în meniul exploratorului [browser]
+Trebuie ales cel puþin un item
+Scoate sunete la unele activitãþi
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã emitã sunete la anumite evenimente (de ex. cînd descãrcarea e terminatã)
+Alege cîte un sunet pentru fiecare eveniment
+; BEGIN : Customize sounds dialog
+Alegerea sunetelor de notificare
+Alege Sunetul
+Înlãturã
+Testeazã
+Lista evenimentelor FDM ºi a sunetelor corespunzãtoare. Aici poþi seta ca FDM sã emita un sunet cînd s-a întîmplat un anumit eveniment
+Descãrcare adãugatã - scoate un sunet cînd una sau mai multe descãrcãri au fost adãugate la lista de descãrcare
+Descãrcare terminatã - scoate un sunet cînd descãrcarea a fost terminatã cu succes.
+Descãrcare eºuatã - scoate un sunet cînd s-a produs o eroare în timpul descãrcãrii unei file.
+Conexiune dial-up reuºitã - scoate un sunet cînd sarcina Planificatorului "Stabileºte conexiune dial-up" a fost executatã cu succes.
+Conexiune dial-up eºuatã - scoate un sunet cînd sarcina Planificatorului "Stabileºte conexiune dial-up" a eºuat dintr-un anumit motiv.
+Seteazã sunetul pentru evenimentul selectat
+FDM nu scoate un sunet cînd evenimentul selectat s-a produs
+Testeazã sunetul selectat
+Eveniment
+File de sunet
+Fãrã sunet
+Descãrcare adãugatã
+Descãrcare terminatã
+Descãrcare eºuatã
+Conexiune dial-up reuºitã
+Conexiune dial-up eºuatã
+File de sunet
+; END
+Caut clone...
+Mãsor viteza clonelor...
+Cãutarea clonelor a fost deja efectuatã
+Conectare la serverul de cãutare...
+Obþin rezultatele...
+Existã %d clone gãsite
+Cãutarea de clone e gata
+Încerc o alta clonã...
+Nu au fost gãsite clone
+Eºuare
+Viteza clonelor a fost mãsuratã
+; BEGIN: History page
+Istorie
+Salveazã istoria legãturilor ºi a dosarelor folosite
+Salveazã doar istoria dosarelor
+Pãstreazã intrãrile din ultimele
+Numãrul maxim de intrãri
+ªterge Istoria
+FDM va salva istoria legãturilor ºi a numelor de dosare tastate 
+FDM va salva doar istoria dosarelor
+FDM va ºterge intrãrile care au stat în istorie mai mult decît perioada specificatã de timp
+Numãrul maxim de intrãri în istoria descãrcãrilor. Cînd numãrul de intrãri depãºeºte aceastã valoare, FDM va ºterge intrãrile cele mai vechi
+ªterge toate intrãrile din istorie
+; END
+Importã
+Exportã
+Importã Lista de Descãrcãri dintr-o Filã
+Exportã Lista de Descãrcãri într-o Filã
+File text
+Nu pot deschide fila
+Exportã toate descãrcãrile
+Exportã toate descãrcãrile din listã
+Exportã descãrcãrile selectate
+Nu exporta descãrcãrile terminate
+Ataºeazã dacã fila existã deja
+Numele grupului nu e valid. Nu utiliza simbolurile / sau \ 
+Închide FDM la Terminare
+; BEGIN : Downloads History window
+Adãugare
+Salvatã în
+; END
+Reciclator
+; BEGIN: Recycle Bin
+Proprietãþi
+Goleºte Reciclatorul
+;END
+;BEGIN: Recycle Bin properties
+Nu pune descãrcãrile ºterse în Reciclator
+Pãstreazã maximum
+descãrcãri
+Nu pãstra descãrcãrile terminate
+Cere confirmare la ºtergerea descãrcãrilor
+Proprietãþile Reciclatorului
+Bifeazã aceastã cãsuþã dacã nu vrei sã stochezi descãrcãrile ºterse în Reciclator
+Bifeazã aceastã cãsuþã dacã vrei sã limitezi numãrul de descãrcãri ºterse ce sînt stocate în Reciclator
+Numãrul maxim de descãrcãri ce pot fi stocate în Reciclator
+Bifeazã aceastã cãsuþã dacã nu vrei ca descãrcãrile terminate sã fie stocate în Reciclator dupã ºtergere
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã cearã o confirmare cînd încerci sã ºtergi o descãrcare
+;END
+Restaureazã
+Restaurez descãrcãrile...
+; History subitems
+Azi
+Ieri
+Sãptãmîna Trecutã
+Luna Trecutã
+Intervalul
+; end
+ªterge Istoria
+ªterge istoria descãrcãrilor
+Salveazã doar istoria descãrcãrilor terminate
+Bifeazã aceastã cãsuþã dacã vrei sã salvezi istoria descãrcãrilor tale
+Bifeazã aceastã cãsuþã dacã vrei sã stochezi doar istoria descãrcãrilor terminate
+Setãrile Istoriei Descãrcãrilor
+Alcãtuiesc lista de intrãri în istorie...
+; Download was deleted
+A fost ºtearsã
+Alege intervalul de timp dorit
+Gãseºte
+Gãseºte Urmãtorul
+Gãseºte asta
+; BEGIN : Find dialog
+Cautã în
+Numele filei locale
+Specificã aici ce vrei sã gãseºti
+Cautã în partea de filã a adresei
+Cautã în întreaga adresã
+Cautã în comentariul descãrcãrii
+Cautã în numele ºi calea filei descãrcate pe hardiscul local
+Seteazã opþiunile de cãutare avansate 
+; ADVANCED settings
+Cautã unde
+Cautã în Lista de Descãrcãri
+Cautã în Istoria Descãrcãrilor
+Cautã în intervalul de timp specificat
+Seteazã
+Cautã în Reciclator
+Cautã mãrimea specificatã a filei
+Minim
+Maxim
+Cautã în Lista de Descãrcãri
+Cautã în Istoria Descãrcãrilor
+Cautã doar descãrcãri care se încadreazã în intervalul de timp specificat
+Seteazã intervalul de timp
+Cautã în Reciclator
+Cautã doar descãrcãri care se încadreazã în domeniul de dimensiuni specificat
+Mãrimea minimã doritã
+Mãrimea maximã doritã
+Cautã în grup
+Alege grupul unde va fi efectuatã cãutarea
+; END
+Caut descãrcarea...
+Nu am gãsit itemuri 
+Nu mai pot fi gãsite ºi alte itemuri
+Cãutare efectuatã
+Pune Adresa în Cliplanºetã
+Previzionarea Arhivei ZIP 
+Trebuie selectatã cel puþin o filã.
+E posibil ca fila pe care-o descarci sã fie o arhiva ZIP. Vrei s-o previzionezi?
+Previzionare Audio/Video
+Deschiderea filei a eºuat.
+Tip necunoscut de filã media.
+Instaleazã DirectX 8.0 sau peste pentru a utiliza aceastã facilitate. Poþi descãrca ultimul DirectX de la microsoft.com.
+Informaþii despre fila media
+Mãrime:
+Disponibil:
+Duratã:
+Mut
+Redã
+Pauzã
+Filtreazã
+Extensii (despãrþite prin spaþii, de ex. zip rar arj):
+Înlãturã filele cu aceste extensii
+Pãstreazã doar filele cu aceste extensii
+ªirul de argumente nu conþine macrocomanda (macroul) %file% . Aceastã macrocomandã e necesarã pentru a oferi o indicaþie despre ce filã sã fie verificat cu programul antivirus.
+Continui oricum?
+Atenþie
+Foloseºte un atribut ascuns pentru descãrcãrile neterminate
+Ataºeazã un comentariu la numele filei dupã terminare
+Nu stoca paginile serverului
+Bifeazã aceastã cãsuþã dacã nu vrei sã stochezi paginile serverului pe calculatorul tãu, ci doar file ºi imagini
+Foloseºte previzionarea arhivelor ZIP (afiºarea conþinutului lor înaintea descãrcãrii)
+Bifeazã aceastã cãsuþã dacã vrei sã previzionezi conþinutul arhivei ZIP la începutul descãrcãrii, pentru a descãrca doar o parte din ea.
+Volum:
+Porneºte automat descãrcarea
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã porneascã automat fiecare descãrcare nouã 
+Bifeazã filele de descãrcat
+Seteazã locaþiile alternative (adrese) pentru aceastã descãrcare
+Nu mai previziona în viitor
+Ai dezactivat previzionarea ZIP. Dacã vrei sã o activezi, mergi la Opþiuni -> Opþiuni de Descãrcare (Ctrl+O) -> tabul Descãrcare Nouã ºi bifezi cãsuþa "Foloseºte Previzionarea Arhivelor ZIP". 
+Lista de Ignorãri
+Lista paginilor web care trebuie ignorate la descãrcarea unui sit.
+Subdosare
+Adaugã
+Ignorã de asemenea toate subdosarele
+; Proxy tab new settings
+Foloseºte restaurarea în cazul conexiunilor întrerupte
+Mãrimea restaurãrii
+baiþi [bytes]
+Bifeazã aceastã opþiune dacã vrei sã activezi facilitatea de restaurare. Aceastã opþiune te ajutã sã protejezi descãrcãrile de stricarea lor.
+Mãrimea restaurãrii. O dimensiune mai mare va permite ca restaurarea sã funcþioneze mai în siguranþã. Mãrimea recomandatã este de 3000 de baiþi [bytes]. Poþi creºte aceastã valoare dacã descãrcarea este în continuare stricatã.
+; downloader options -> monitor tab
+Nu monitoriza filele mai mici de
+Foloseºte aceastã opþiune dacã vrei ca FDM sã ignore filele cu dimensiune mai micã decît cea specificatã
+KBaiþi (KB)
+Atenþie! Reciclatorul e prea mare. Aceasta poate încetini în mod dramatic performanþa. Este recomandat sã goleºti reciclatorul. Vrei sã faci asta?
+Nu mai verifica din nou
+Atenþie! Istoria e prea mare. Aceasta poate încetini în mod dramatic performanþa. Este recomandat sã ºtergi istoria. Vrei sã faci asta acum?
+Serverul nu poate garanta capacitatea sa de a relua descãrcãrile. Raspunsul nu e valid.
+Copiazã în Cliplanºetã
+; general settings | skins page
+Costume
+Costum
+Permite costumului [skin] sã utilizeze propriile sale icoane
+Permite costumului sã utilizeze propriile sale bitmapuri
+; default skin
+<implicit>
+Notã: Orice schimbãri vor avea efect doar dupã repornirea FDM.
+Informaþii despre Descãrcãrile Active
+Ignorã filele cu extensiile:
+Lista cu extensiile filelor de ignorat
+Nu existã descãrcãri active
+FDM scoate un un sunet cînd toate descãrcãrile sînt terminate
+Importã Listã de Adrese din Cliplanºetã
+Parole
+Opþiuni ale Managerului de Situri
+; Save password dialog
+Salvez parola?
+Free Download Manager poate salva parola pentru acest server în aºa fel încît sã nu mai fie nevoie de a fi introdusã la fiecare descãrcare de pe acest server.
+Salvez parola?
+Nu mai sugera salvarea ºi a altor parole
+; Site Manager options | Passwords tab
+Foloseºte Managerul de Situri pentru a stoca parolele
+Întreaba-mã dacã sã salvez parola sau nu
+Nu sugera salvarea parolelor
+ªterge toate parolele la ieºire
+ªterge Toate Parolele
+; create new HTML Spider task
+Înlãturã din listã descãrcãrile terminate (recomandat)
+Bifeazã aceastã cãsuþã dacã vrei ca descãrcãrile Descãrcãtorului de Situri sã fie ºterse automat. Aceasta accelereazã descãrcarea siturilor mari.
+Schimbãrile vor avea efect dupã repornirea Free Download Manager
+Stil Nou
+Stil Vechi
+Numele dosarului nu e valid
+Ascunde fereastrele flotante în modul ecran plin [full screen]
+Bifeazã aceastã cãsuþã dacã vrei ca ferestrele flotante sã fie ascunse automat în modul ecran plin.
+a fost planificat pentru a fi lansat.
+Vrei sã-l lansezi?
+Lanseazã descãrcarea cînd este terminatã
+Foloseºte semnele (*), (*A) sau (*a) în adresã pentru a-i specifica ºablonul
+Serverul de cãutare a clonelor:
+Hibernare
+Stare de Veghe
+Memoreazã alegerea mea
+Sugereazã schimbarea dosarului implicit al grupului
+Salveazã Fila
+Deschide Fila
+Salveazã fila ºi deschide-o
+Tip de Descãrcare:
+Pune Legãturã cãtre FDM
+Legãturã cãtre Free Download Manager
+Dragã utilizatorule!
+Free Download Manager e un program oferit gratuit. Poþi sã-l utilizezi pe timp nelimitat fãrã a da nici un ban.
+Totuºi, dacã socoteºti cã Free Download Manager este util, îþi cerem sã ne ajuþi sã-l promovãm punînd o legãturã cãtre el pe situl tãu. Aceasta va face ca mai multã lume sã afle de Free Download Manager.
+Îþi mulþumim anticipat pentru ajutorul tãu,\nEchipa de programatori a softului Free Download Manager.
+Reaminteºte-mi peste 3 zile
+Reaminteºte-mi data viitoare cînd lansez Free Download Manager
+Nu-mi mai arãta din nou aceastã fereastrã
+Vizualizeazã codul Html al legãturii
+Codul Html al legãturii
+Mai mult exemple
+Copiazã în Cliplanºetã
+Ascunde
+; "Traffic usage mode has been changed" window
+Modul de utilizare a traficului a fost schimbat
+Ati comutat modul de utilizare a traficului reþelei.\nFree Download Manager are trei moduri:
+În acest mod Free Download Manager va descãrca cu viteza maxima posibilã. Acesta e modul cel mai agresiv.
+În acest mod Free Download Manager va descãrca cu o vitezã medie. Acest mod îþi permite sã explorezi internetul ºi în acelaºi timp sã pastrezi o vitezã crescutã de descãrcare.
+În acest mod Free Download Manager va descãrca cu o vitezã scazutã. Acest mod îþi permite sã descarci fãrã a reduce în mod dramatic viteza din reþea.
+;
+Renumeºte la repornire
+Introdu o valoare mai micã de %d
+; export/import downloads
+File cu Liste de Adrese
+File cu Liste de Informaþii despre Descãrcãri
+;
+Opþiuni de Exportare
+;
+Seteazã data unei file în format identic cu data specificatã de server
+Seteazã data filei descãrcate identic cu cea a filei de pe server
+Genereazã o filã de descriere
+Genereazã o filã cu numele "*.dsc.txt" (* - numele filei descãrcate) care va conþine o micã descriere a unei file descãrcate (comentarii + adresã + datã). Aceastã filã va fi generatã doar pentru o descãrcare ce are comentarii.
+Aceastã filã a fost descãrcatã de la
+Nu extrage data filelor de pe server
+Aceastã opþiune îþi permite sã creºti viteza de pornire a unei descãrcãri prin FTP. Free Download Manager va utiliza comanda SIZE în loc de LIST.
+Nu salva jurnale ale descãrcãrilor
+Activarea acestei opþiuni va face ca Free Download Manager sã aibã pornirea ºi închiderea mai rapide ºi în acelaºi timp va scade utilizarea memoriei. 
+;
+Exportã Istoria Descãrcãrilor
+Exportã toate intrãrile
+Exportã toate intrãrile de pe listã
+Exportã intrãrile selectate
+Exportã doar intrãrile despre descãrcãrile terminate
+;
+File Html
+;
+Istoria Descãrcãrilor cu Free Download Manager 
+Adresa descãrcãrii
+Descãrcat în fila
+Mãrimea filei
+Descãrcarea a fost terminatã
+Descãrcarea a fost ºtearsã
+;
+Salvatã în
+Mãrimea filei
+Suportã reluarea descãrcãrilor întrerupte
+Închide acest dialog cînd descãrcarea e terminatã sau opritã
+Deschide
+Vrei sã vezi din nou ferestra de progres?
+Da, dar ascunde-o temporar pentru aceastã descãrcare
+Nu, nu arãta fereastra de progres pentru descãrcãri
+Da, dar nu arãta fereastra pentru aceastã descãrcare
+Utilizarea tastei Shift înseamnã cã descãrcarea va fi ºtearsã ºi nu vei putea s-o restaurezi.\nEºti sigur?
+Alege grupul
+Selecteazã dosarul implicit al grupurilor
+Selecteazã dosarul implicit al grupurilor.\nSchimbãrile vor fi aplicate doar noilor descãrcãri.
+Descãrcãri Recente
+(gol)
+Pauzeazã Toate Descãrcãrile
+Aratã fereastra cu progresul descãrcãrii
+În caz de bifare, FDM va crea o fereastrã specialã cu informaþii pentru fiecare descãrcare aflatã în curs
+; general settings | misc page
+Timpi de Aºteptare pentru Confirmãri
+Pornirea Descãrcãrii
+Întreabã-mã despre tipul de închidere a calculatorului
+Timpul de aºteptare pentru confirmarea comenzii "Unelte > Închide Conexiunea la Terminare".
+Timpul de aºteptare pentru confirmarea comenzii "Unelte > Închide FDM la Terminare". 
+Timpul de aºteptare pentru confirmarea comenzii "Unelte > Închide Calculatorul la Terminare".
+Timpul de aºteptare pentru lansarea filei descãrcate cînd descãrcarea e terminatã.
+În caz de bifare, FDM va întreba despre tipul de închidere din comanda "Unelte > Închide calculatorul la terminare".
+Nu cere confirmare
+; 5 secunde, 10 secunde, ...
+%d secunde
+Aºteaptã confirmarea mea
+Ignorã paginile din acest dosar
+Descarcã doar paginile din acest dosar
+Inclusiv subdosarele
+Ignorã toate paginile web situate în acest dosar.
+Descarcã doar paginile situate în acest dosar ºi ignorã alte pagini web.
+Bifeazã aceastã opþiune dacã vrei ca Descãrcãtorul de Situri sã ignore (sau sã descarce) paginile situate în toate subdosarele din dosarul specificat.
+Aici trebuie sã specifici adresa dosarului.\nExemplu: "http://site.com/docs/".
+Tip
+Ignorã
+Doar
+Set de numere
+Alocã
+Aici trebuie sã specifici setul de numere pentru lista grupatã.\nEx. 1-100, sau 1-100s2w3.
+Clicheazã pe acest buton pentru a aloca setul de numere folosind fereastra de dialog.
+Numãr unic
+Numãr
+Alocã set de numere
+Eroare de sintaxã
+Dezarhiveazã
+Extrage
+Extrage
+Exploreazã
+Extragerea a eºuat. Formatul de filã e necunoscut.
+Trafic descãrcat în aceastã lunã\n(%s a fost descãrcat în luna precedentã)
+Viteza totalã de descãrcare
+Dezactiveazã sarcina "Unelte > Închide calculatorul la terminare" dupã execuþia ei
+Cînd e activatã, orice sarcinã "Unelte > Ieºire la terminare" va fi dezactivatã automat dupã executare. Deci va fi lansatã doar o datã.
+; %s
+;1-ul %s - numele filei
+;2-lea, 3-lea %s - informaþiile filei (mãrime + datã).
+Fila "%s" existã deja.\n\nVrei s-o înlocuieºti\n(%s)\n\ncu cea nouã\n(%s)?
+Da pentru toate
+Ignorã
+Ignorã-le pe Toate
+Formatul arhivei este necunoscut
+Viziteazã Situl
+Instaleazã Pachetul
+În mod implicit FDM suportã doar arhive ZIP, RAR ºi ARJ.\nPoþi extinde lista de arhive suportate prin instalarea unui pachet adiþional pentru prelucrarea arhivelor în Free Download Manager (este necesarã o conexiune la internet).
+Pachet de suport pentru prelucrarea arhivelor în FDM
+Mutã în Sus
+Mutã în Jos
+Mutã în Sus 
+Mutã în Jos 
+Verificã Integritatea Filei
+Anumite situri web furnizeazã sume de control speciale pentru filele disponibile la descãrcare cu scopul de a permite utilizatorilor sã fie siguri cã fila ce va fi descãrcatã nu este stricatã. Poþi introduce aceastã sumã de control aici ºi FDM va verifica integritatea filei.
+Algoritm
+Sumã de Control
+Lipeºte din Cliplanºetã
+Verificã
+Calculez suma de control a filei descãrcate...
+Verificarea integritãþii filei a reusit
+Verificarea integritãþii filei a eºuat
+Verificarea integritãþii filei a fost realizatã cu succes.\nNu au fost gãsite erori în fila descãrcatã.
+Verificarea integritãþii filei a fost realizatã.\nAu fost gãsite erori: fila a fost stricatã în timpul descãrcãrii. Este necesarã repornirea descãrcãrii de la început.
+Nu mai arãta aceastã fereastrã dacã verificarea a reuºit
+Nu pot gãsi fila executabilã a programului antivirus pe care l-ai ales.\nGãseºte-o manual.
+Dimensiunile filelor nu sînt identice
+Salveazã ca:\n(Exemplu: filã(*)(*A)(*a).txt)
+ªablonul specificat pentru salvare nu e valid.\nAsigurã-te cã el corespunde cu ºablonul adresei (URL).
+La terminare
+La terminare (toate cele terminate sau cu erori)
+Aplicaþii
+Ce-i asta?
+Opinii
+;
+Dragi prieteni!
+Free Download Manager (FDM) e una din cele mai populare aplicatii de descarcare din lume avind milioane de utilizatori activi, dar acum ca a devenit sociala vrem si mai multi!
+Daca socotesti programul la fel de util si de indispensabil ca si noi, te rugam prieteneste sa ne ajuti sa-l facem cunoscut punind o legatura catre el pe blogul, situl sau spatiul tau personal (de ex. My Space / MSN).
+; %s will be replaced with "FDM buzz" 
+In mod oficial %s a inceput pe data de 16 August 2006. Scopul nostru este sa facem din FDM cea mai rapid raspindita aplicatie de internet dupa Firefox!
+vîlva FDM
+; %s will be replaced with "blog" 
+Puteti urmari progresul FDM pe %sul nostru.
+blog
+Iti multumim in avans pentru ajutorul tau,\nEchipa de dezvoltatori ai softului Free Download Manager
+Nu-mi arãta aceastã fereastrã din nou, am o memorie bunã.
+Alãturã-te vîlvei
+Nu, mulþumesc
+Comunitatea FDM
+Comutã la "Opinii" dupã descãrcare
+În caz de bifare, tabul "Opinii" va fi activat automat la terminarea descãrcãrii.
+Include referire la FDM în identificatorul programului Internet Explorer
+În caz de bifare, siturile pe care le explorezi vor fi informate cã Free Download Manager este instalat pe calculatorul tãu. Utilizarea acestei opþiuni poate duce totuºi la blocarea exploratorului de cãtre unele situri.
+E maliþioasã ?
+Verificã dacã vreunul din utilizatorii Free Download Manager a raportat despre aceastã descãrcare cã ar conþine viruºi/publisofturi/spisofturi/etc.
+E bine, nici unul din utilizatorii Free Download Manager nu a raportat cã aceastã descãrcare ar fi maliþioasã.\n\nTotuºi aceasta nu garanteazã cã descãrcarea nu e maliþioasã ºi e recomandat sã o verifici cu un soft antivirus.
+; keep all %xxx, \n as is.
+Existã %d din %d utilizatori ai Free Download Manager care au raportat cã aceastã descãrcare este maliþioasã.\nAprecierea medie pentru aceastã descãrcare este %.*g.\n\nArãt opiniile despre aceastã descãrcare?
+La fiecare descãrcare, verificã înainte de pornire dacã este maliþioasã [malicious]
+Foloseºte aceastã opþiune pentru a face ca FDM sã verifice automat înainte de descãrcare dacã vreunul dintre utilizatori a raportat despre ea cã ar fi maliþioasã.
+Afiºeazã opiniile utilizatorilor în timpul descãrcãrii
+În caz de bifare FDM va activa automat tabul "Opinii" ºi va afiºa opiniile despre descãrcare în cursul ei.
+Verific dacã descãrcarea e maliþioasã (vezi opþiuni pentru a dezactiva acest lucru)
+OK, nimeni nu a raportat cã ar fi maliþioasã
+Atenþie! Cineva a raportat cã aceastã descãrcare ar fi maliþioasã
+Închide
+Deschid
+Nu descãrca asta
+Operaþiile de scriere a datelor descãrcate sînt stocate într-un caº [cache] de
+În caz de bifare, FDM va folosi tamponul caº intern cu mãrimea pe care ai specificat-o pentru operaþiile de scriere a datelor descãrcate. Aceasta va reduce numãrul de accesãri ale hardiscului (HDD) ºi va creºte viteza de descãrcare pentru conexiunile în bandã largã.\nTotuºi din cauzã cã datele descãrcate nu sînt scrise imediat pe hardisc ele vor trebui redescãrcate în cazul anumitor pene ale calculatorului (cel mult mãrimea specificatã pentru tamponul intern).\nRecomandat pentru conexiunile de mare vitezã.
+Nu pot instala monitorizarea pentru SeaMonkey (Suita Mozilla)
+Nu pot dezinstala monitorizarea pentru SeaMonkey (Suita Mozilla)
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã intercepteze clicurile din Firefox
+Bifeazã aceastã cãsuþã dacã vrei ca FDM sã intercepteze clicurile din SeaMonkey (Suita Mozilla)
+Exploratorul de internet va descãrca el fila dacã se apãsã în FDM pe Anuleazã
+Bifeazã aceastã cãsuþã dacã vrei ca exploratorul sã descarce fila cînd apeºi Anuleazã în dialogul "Creeazã Descãrcare"
+Adaugã comenzi FDM în meniul contextual al exploratorului
+Bifeazã aceastã cãsuþã pentru a adãuga opþiunile "Descarcã cu FDM" ºi "Descarcã Situl cu FDM" la meniul contextual al exploratorului (meniul apare la efectuarea clic-dreapta)
+Selecteazã itemurile legate de FDM ce vor fi prezente în meniul contextual al exploratorului
+Nu pot instala monitorizarea pentru Firefox
+Mutã Filele în Dosarul...
+Viteza e prea micã. Repornesc secþiunea...
+Reporneºte dacã viteza e prea micã timp de (în min):
+Reporneºte secþiunea în caz de scãdere dramaticã a vitezei de descãrcare.
+Vrei sã vezi din nou fereastra cu progresul descãrcãrii?
+Scuze, acest serviciu este indisponibil pe moment. Te rugãm sã încerci mai tîrziu.
+Mutã la Început
+Mutã la Sfîrºit
+Pune descãrcarea în vîrful listei
+Bifeazã aceastã opþiune dacã vrei ca descãrcarea sã fie pusã în vîrful listei de descãrcãri.
+Monitorizarea în Firefox nu poate fi activatã din cauza implantului [plugin] FlashGot.\nVa trebui sã dezinstalezi mai întîi FlashGot.
+Activeazã
+Dezactiveazã
+Comutã
+Dacã modul "Pauzeazã Toate Descãrcãrile" este activat, el va fi dezactivat, în caz contrar el va fi activat.
+În mod oficial %s va începe în data de 16 August 2006. Scopul nostru este sã facem din FDM cea mai rapid rãspînditã aplicaþie de internet dupã Firefox!
+Descarcã ºi instaleazã automat actualizãrile
+Avertizeazã-mã cînd este disponibilã o actualizare
+Dezactiveazã actualizãrile automate
+Acum monitorizarea este activatã în %s.
+ªterge intrarea
+E bine dacã ºterg?
+Nu este activatã permisiunea de scriere în dosarul lui Free Download Manager.\nTrebuie sã permiþi scrierea pentru ca Free Download Manager sã-ºi poatã salva filele de serviciu, altfel toate datele vor fi pierdute la repornirea lui.
+Aceastã cutie micã (Colectorul) îþi permite sã tragi ºi sã pui legãturi din explorator [browser] în Free Download Manager.\nDe asemenea cutia permite sã fie afiºatã sau ascunsã rapid fereastra Free Download Manager, fãcîndu-se dublu-clic cu butonul stîng al mausului pe ea. \n\nPentru a o ascunde permanent, clicheazã-dreapta pe ea ºi debifeazã itemul "Colector" din meniu.
+Colectorul lui Free Download Manager
+Dezactiveazã toate notificãrile pentru descãrcãrile grupate
+Bifeazã aceastã opþiune ca sã dezactivezi toate notificãrile (baloane, sunete) pentru descãrcãrile create cu comanda "%s" .
+Lista de Excluderi
+Specificã lista de extensii ale filelor ºi lista de situri care nu trebuie monitorizate.
+Nu intercepta descãrcãrile de pe aceste situri (separate prin spaþii):
+Free Download Manager nu va monitoriza descãrcãrile din siturile specificate în listã. Specificã aici numele de domenii (de ex. "sit.com"). Poþi utiliza simbolurile '*' .
+Atenþie!\nS-a produs o eroare în timpul încercãrii de scanare anti-virus.\nVrei cu toate astea sã lansezi fila descãrcatã?
+Integritate
+Verificã integritatea filei înainte de descãrcarea ei
+Pentru a putea efectua verificarea integritãþii Free Download Manager trebuie sã cunoascã suma de control validã a filei. În cele mai multe cazuri va trebui s-o furnizeze utilizatorul pentru fiecare descãrcare.
+Dacã verificarea a eºuat
+Suma de control validã pentru aceastã filã
+Nu face nimic
+Specificã aici ce trebuie sã facã FDM dacã verificarea integritãþii a eºuat.\nÎntreabã - FDM te va întreba ce sã facã.\nReporneºte - FDM va reporni aceastã descãrcare de la început.\nNu face nimic - FDM va adãuga o intrare despre controlul eºuat la jurnalul descãrcãrii ºi nu va mai face nimic în plus.
+Efectuez verificarea integritãþii...
+Verificarea integritãþii a avut succes.
+Verificarea integritãþii a eºuat!
+Specificã algoritmul de verificare a integritãþii.
+Suma de control validã
+Suma de control obþinutã
+; fereastra previzionãrii arhivei zip
+Bifeazã/debifeazã tot
+; dialogul proprietãþilor grupului
+Macrouri
+numele serverului (de ex. "freedownloadmanager.org")
+calea cãtre fila de descãrcat de pe server
+anul curent
+luna curentã (numãr de la 1 la 12)
+ziua curentã
+; mai jos nu trebuie tradus "%year%-%month%-%day%"
+echivalent cu "%year%-%month%-%day%"
+;
+Din Mozilla Firefox
+FDM va prelua setãrile proxy din Firefox
+; setãrile noii descãrcãri
+Foloseºte acest grup
+; Descãrcãri -> Planificator ->
+Porneºte
+Opreºte
+Planificã pornirea descãrcãrii
+Planificã oprirea descãrcãrii
+;
+; descãrcãri neterminate sau terminate recent
+Neterminate+Recente
+Grupul Implicit
+;
+; dialogul de creare a unei noi descãrcãri -> seteazã dosarul de salvare ca implicit
+Seteazã de asemenea ca implicit pentru toate celelalte grupuri de descãrcãri
+; %s - locul numelui grupului. nu-l schimba
+E bine dacã setez acest dosar ca dosar de descãrcare implicit pentru grupul "%s" ?
+;
+;
+Curãþã Lista de Descãrcãri
+Încãrcãtor
+Încarcã File
+Porneºte Încãrcarea
+Opreºte Încãrcarea
+Planificã Încãrcarea
+Mutã în sus incãrcãrile selectate 
+Mutã în jos incãrcãrile selectate 
+Încãrcat
+Lista de Încãrcãri
+Extrag adresa de destinaþie a încãrcãrii din serverul de bazã...
+Întrerupe
+; outlook express: vezi | insereazã fila | ...
+Ca ataºament
+Ca legãturã (încãrcare)
+Dosar
+;
+Adaugã file
+Adaugã dosar
+BitTorrent
+Activeazã suportul pentru protocolul BitTorrent
+Limiteazã traficul de încãrcare [upload] :
+Limiteazã numãrul de conexiuni de încãrcare :
+Foloseºte porturile din intervalul 
+la
+Activeazã Tabela de Haºuri Distribuitã [DHT - Distributed Hash Table]
+Activeazã/Dezactiveazã suportul pentru protocolul BitTorrent. Totuºi dacã existã descãrcãri BitTorrent în lista de descãrcare sau în Reciclatorul FDM, protocolul BitTorrent nu va fi dezactivat complet.
+Limiteazã viteza maximã însumatã a conexiunilor de încãrcare. Acest lucru nu este recomandat pentru protocolul BitTorrent ºi ar putea duce la reducerea vitezei de descãrcare.
+Limiteazã numãrul maxim însumat de conexiuni de încãrcare. Setarea unui numãr prea mic poate duce la reducerea vitezei de descãrcare.
+Specificã aici intervalul de porturi pe care îl va folosi FDM pentru conexiunile de încãrcare.
+Activeazã extensia DHT
+Nume
+Este necesarã autentificarea pentru accesul la tracker
+Adaugã Descãrcare BitTorrent
+S-a produs o eroare în timp ce încercam procesarea filei torent.
+Filã Torent
+Se pare cã vrei sã descarci o filã de tip torent. Pentru asta e necesar sã activezi suportul pentru BitTorrent în Free Download Manager.\n\nVrei sã activezi protocolul BitTorrent?
+Retasteazã parolele: parolele pe care le-ai tastat nu se potrivesc.
+Specificã filele pe care vrei sã le încarci.
+Proprietãþile Încãrcãrii
+Am detectat o filã de tip Metalink. Continui descãrcarea.
+Am detectat o filã de tip BitTorent. Continui descãrcarea.
+Accesarea filelor de pe hardisc a eºuat.
+Mã conectez la tracker...
+Nu am primit un rãspuns valid de la tracker.
+Am primit un rãspuns valid de la tracker.
+Verificarea haºului pentru partea aceasta din descãrcare a eºuat. Va fi redescãrcatã...
+Alocã Toatã Viteza Acestei Descãrcãri
+Dezactivez lansarea automatã a Free Download Manager la pornirea Windows?
+Scuze, Comunitatea FDM nu e disponibilã pe moment. Reîncearcã mai tîrziu.
+Numele filei nu trebuie sã conþinã niciunul din aceste \ / : * ? " < > | simboluri. Tasteazã alt nume.
+Numele dosarului nu trebuie sã conþinã niciunul din aceste : * ? " < > | simboluri. Tasteazã alt nume.
+Personalizeazã fereastra flotantã...
+Transparenþã
+Date
+Pãstreazã toate filele de serviciu în dosarul utilizatorului curent
+Pãstreazã filele în acest dosar
+Schimbãrile vor fi aplicate dupã repornirea Free Download Manager.
+Aratã Fereastra de Progres a Descãrcãrii
+Creeazã Versiune Portabilã
+Versiunea portabilã a lui Free Download Manager poate fi utilizatã pe calculatoare diferite fãrã a o mai instala ºi configura pe fiecare din ele.\n\nO poþi pune de exemplu pe un memocard flash.\n\nOdatã lansatã, ea se va înregistra automat în sistem ºi se va integra cu exploratoarele.Iar la ieºire se va dezînregistra automat.\n\nAlege calea unde vrei sã creezi aceastã versiune. Aceasta trebuie sã fie un dosar de pe un dispozitiv amovibil.\n\nDe ex. "H:\Programele mele portabile\".
+Integrare
+Asociazã FDM cu filele torent [.torrent]
+Foloseºte mereu acest grup pentru descãrcãrile noi
+Foloseºte mereu acest grup ºi memoreazã ultimul dosar de descãrcare
+Flash
+Descarcã Videoul cu FDM
+Acest sit nu e suportat. Consultã lista de situri suportate.
+Comutã la Descãrcãri
+Aceasta e pagina cu videoul Flash. Descarc clipul Flash...
+Convertesc...
+Converteºte
+Opþiuni de Convertire
+Formatul filei
+Rezoluþia
+; video quality
+Calitatea
+Foarte Scãzutã
+Scãzutã
+Normalã
+Medie
+Înaltã
+Foarte Înaltã
+;
+AVI folosind MPEG-4 (*.avi)
+AVI folosind XVID (*.avi)
+Nu schimba
+Bitrata Video
+Bitrata Audio
+Memoreazã setãrile ca implicite
+;
+Adaugã Descãrcare Video Flash
+Converteºte automat videoul descãrcat în formatul specificat
+Seteazã opþiunile avansate
+Vezi lista de situri suportate
+; used in "create flash video download" window
+de ex.
+Urmãtoarea încercare de conectare la tracker în %d secunde
+Pregãtesc filele de pe hardisc... Aceasta poate lua cîteva minute
+Stare
+Pregãtesc filele de pe hardisc...
+MP4 pentru iPod/PSP (MPEG4 + AAC, *.mp4)
+Previzioneazã / Converteºte Media 
+Converteºte Fila Media 
+Comutã automat la acest tab
+;keep "\n\n%s\n" as is
+Fila media a fost convertitã cu succes ºi e stocatã în\n\n%s\n.
+Convertire eºuatã a filei media\n\n%s.
+Grupul Descãrcãrilor Noi
+Informaþii despre haº
+Parteneri
+Client
+Bucãþi
+Tracker
+Starea Trackerului
+Viteza de Încãrcare
+Baiþi Încãrcaþi
+Raportul de Partajare (Î/D)
+Baiþi pierduþi
+Adresa filei torent
+Eºti sigur?\nAsta va reporni descãrcarea de la început.
+Trafic utilizat ("descãrcat"; "încãrcat") în aceastã lunã\n(%s a fost utilizat în luna precedentã)
+Viteza Totalã ("descãrcare"; "încãrcare")
+File de încãrcat
+Numele Pachetului
+Comprimare
+Seteazã o parolã pentru aceastã descãrcare
+Retasteazã
+Pãstreazã aceste file
+Numãrul presupus de descãrcãri
+Adaugã o legãturã cãtre file în catalogul nostru
+Include informaþii avansate (toate cîmpurile sînt opþionale)
+Descriere
+Taguri
+Numele tãu
+Adresa ta de e-mail
+Adresa de e-mail a destinatarului
+Mai puþin de 10
+Între 10 ºi 100
+Mai mult de 100
+2 zile
+7 zile
+1 lunã
+;compression methods
+Fãrã
+Rapidã
+Medie
+Puternicã
+Setãrile Încãrcãtorului
+Integreazã Încãrcãtorul cu
+Meniul contextual din Windows Explorer
+Meniul "Trimite La" [Send To] din Windows Explorer
+Foloseºte un meniu de încãrcare simplu
+Mãrimea minimã a filei de încãrcat
+Setãrile Serverului Proxy HTTP
+Activarea Încãrcãrii
+Încãrcarea necesitã activare. Aceasta e necesarã pentru a proteja serverul nostru de încãrcãrile automate. Scrie codul de activare.
+Fac conectarea la serverul de încãrcare
+Conectarea la serverul de încãrcare a avut succes
+Încãrcarea filei pe server s-a fãcut cu succes
+Încãrcarea filei a fost opritã
+Creez o arhivã zip din filele încãrcate...
+Crearea arhivei zip a eºuat
+Crearea arhivei zip s-a fãcut cu succes
+Trimit cererea la server
+Trimit serverului informaþii despre aceastã încãrcare 
+Informaþiile au fost trimise
+Trimiterea de informaþii despre aceastã încãrcare cãtre server a eºuat
+Activez încãrcarea...
+Încãrcarea a fost activatã cu succes
+Activarea încãrcãrii a eºuat
+Fila de încãrcat a fost modificatã pe hardisc
+Eroare neaºteptatã
+Calculez suma de control...
+; "I agree to terms" string in two lines
+Sînt de acord cu
+termenii
+Trebuie sã fii de acord cu termenii.
+Cãutarea de actualizãri a eºuat
+O nouã versiune a softului este disponibilã. Trebuie sã-l actualizezi.\nVrei sã-l actualizezi acum?
+Este necesarã actualizarea Free Download Manager 
+Este necesarã repornirea Free Download Manager
+Sugereazã-mi sã încarc ataºamentele
+Ataºeazã la mesaj (lent)...
+Încarcã filele de ataºat ºi apoi insereazã o legãturã (rapid)...
+A apãrut o eroare în timpul iniþierii încãrcãrii. Verificã conexiunea la internet sau reîncearcã mai tîrziu.
+Ai ataºat file de dimensiuni mari.\nDin mai multe motive nu e recomandat sã se foloseascã file mari ca ataºamente, ci sã se încarce filele ºi sã se punã legãturi cãtre ele.\n\nVrei sã continui încãrcarea?
+Se recomandã încãrcarea  
+Setãrile de Integrare
+Încãrcarea %s a fost terminatã.\nFoloseºte urmãtoarea adresã ca legãturã de descãrcare:
+Mãrime Totalã
+Deschide în Exploratorul de Internet
+Versiunea curentã de Free Download Manager nu mai poate fi folositã pentru a încãrca file. Este necesar s-o actualizezi.
+Versiunea curentã de Free Upload Manager nu mai poate fi folositã. Este necesar s-o actualizezi. Viziteazã situl freedownloadmanager.org .
+Input prea lung.
+Setãri de Integrare ale Încãrcãtorului
+Setãri de Integrare ale Free Upload Manager
+Încarcã
+Descarc actualizarea...
+Activeazã Donarea Torentelor Descãrcate
+Dezactiveazã donarea torentelor [seeding] (altfel softul va dona automat la deschiderea lui)
+Este consideratã maliþioasã dacã cel puþin
+% din utilizatori au marcat-o ca atare
+E bine, utilizatorii Free Download Manager nu au raportat despre aceastã descãrcare cã ar fi maliþioasã.\n\nTotuºi, aceasta nu garanteazã sutã la sutã cã ea nu e maliþioasã, deci este recomandat s-o verifici utilizînd un antivirus actualizat.
+E bine, utilizatorii Free Download Manager nu au raportat despre aceastã descãrcare cã ar fi maliþioasã
+litera dispozitivului de pe care a fost pornit FDM. De ex. "C:". Util pentru versiunea portabilã.
+Pentru a utiliza aceastã facilitate trebuie sã instalezi implantul [plugin] de Convertire Video.
+Pentru a descãrca cu ajutorul protocolului BitTorrent trebuie sã instalezi implantul [plugin] BitTorrent.
+Notã: acestea sînt filele de serviciu ale softului FDM (nu sînt filele pe care le descarci).
+Vrei sã copiezi filele curente cu date în noul dosar (filele existente vor fi suprascrise) ?
+Acest dosar va conþine subdosarele de descãrcare implicite pentru toate grupurile.\nE în regulã sã continui?
+Seteazã Dosarul Implicit de Descãrcare
+Nu permite calculatorului sã intre în stare de veghe [stand-by] cînd se descarcã file
+Numãrul maxim de conexiuni semideschise [half-open]
+Torente
+Eºec la accesarea filelor de pe hardisc. Verificã dacã nu cumva hardiscul e plin sau e protejat la scriere.
+Raport Î/D
+Lista de Torente
+Adaugã Torent din Adresã
+Adaugã Torent din Filã
+Creeazã Torent Nou
+(automatã)
+Sursã
+Mãrimea Bucãþilor
+Trackere
+Adaugã Tracker
+Înlãturã Tracker
+Porneºte donarea [seeding] acestui torent
+Salveazã
+Creeazã Torent Nou
+File Torent
+Prioritate
+;normalã/crescutã
+sari
+normalã
+crescutã
+Ferestre Flotante (plutitoare pe suprafaþa ecranului)
+File de Serviciu (listã de descãrcãri, istorie, etc.)
+Setãrile Implicite ale Descãrcãrii de Situri
+Ai pauzat toate descãrcãrile. Aceasta înseamnã cã toate descãrcãrile vor continua cu o vitezã foarte redusã (de obicei 1B/s).\nAceasta permite "pauzarea" inclusiv a descãrcãrilor care nu au suport pentru reluare.\n\nVa trebui sã dai din nou aceastã comandã sau sã reporneºti FDM pentru revenirea la starea normalã.
+Donare
+Activeazã donarea (recomandat)
+Doneazã pe timp nelimitat
+Doneazã pînã este atinsã o valoare a Raportului Încãrcare/Descãrcare
+Doneazã pînã cînd raportul [ratio] e
+Limitare dupã timp
+Doneazã timp de
+Verificã dacã existã deja o descãrcare cu aceeaºi adresã (URL)
+Salveazã istoria descãrcãrilor
+Listeazã filele descãrcate cel mai recent
+Setãrile Implicite ale Descãrcãrilor BitTorrent
+Reporneºte descãrcãrile terminate
+Specificã dosarul versiunii portabile de Firefox.
+Nu pot gãsi dosarul implanturilor [plugins] pentru Apple Safari. Vrei sã-l specifici manual?
+Nu pot gãsi dosarul implanturilor [plugins] pentru Google Chrome. Vrei sã-l specifici manual?
+Nu pot instala monitorizarea pentru Apple Safari
+Nu pot dezinstala monitorizarea pentru Apple Safari
+Nu pot instala monitorizarea pentru Google Chrome
+Nu pot dezinstala monitorizarea pentru Google Chrome
+Limitã de Timp
+;hours, for shprt
+ore
+Limiteazã intervalul de timp în care FDM poate porni descãrcãrile
+Permite pornirea doar de la
+Prioritate Normalã
+Prioritate Înaltã
+Esenþiale
+Baloanele ce semnaleazã terminarea descãrcãrilor nu expirã
+Verificã dacã o descãrcare nouã este de fapt o clonã a uneia deja existente
+Aratã o micã fereastrã care informeazã despre terminarea descãrcãrii
+Ascunde automat dupã
+Îþi place FDM? Încearcã ºi Personal Informer!
+Ultima versiune de FDM vine cu un bonus: Personal Informer.
+El plaseazã legãturi rapide cãtre toate
+siturile tale favorite
+; next line means --- after you start _browser_. "_browser_" will be Internet Explorer or Firefox
+pe pagina de pornire, ca sã poatã fi accesate rapid
+; \n means next line. don't change this.
+Va fi analizatã istoria explorãrii internetului ºi va fi arãtatã lista\nsiturilor vizitate pe care credem cã vrei\nsã le ai pe pagina de pornire. Vei putea personaliza\nlista atunci.
+Eºti sigur? Întreg procesul nu va dura mai mult de 1 minut ºi vei avea o paginã de pornire foarte utilã.
+Anuleazã
+Continuã
+Vrei sã þi se reaminteascã peste cîteva zile?
+Titlu
+Monitorizeazã descãrcãrile video Flash din paginile web vizitate
+Folosirea acestei funcþii poate cauza conflicte cu alte softuri instalate pe calculator. Dacã vor apãrea probleme va trebui sã dezactivezi funcþia aceasta din FDM sau sã rezolvi conflictele prin dezinstalarea softurilor sau dezactivarea funcþiilor acestora care le cauzeazã.
+Paginã Web
+Videouri Flash gãsite în aceastã paginã
+Trebuie sã activezi monitorizarea videourilor Flash pentru asta. Vezi Opþiuni | Descãrcãri | Videouri Flash.
+Introdu adresa paginii web de pe care vrei sã descarci videouri Flash. Atenþie, pagina respectivã trebuie sã fie deja afiºatã în exploratorul de internet, iar videourile trebuie sã ruleze.
+Caut videouri Flash...
+Nu au fost gãsite videouri Flash pe aceastã paginã. Asigurã-te cã videourile din paginã ruleazã sau redeschide pagina (împrospãteaz-o cu tasta F5 sau combinaþia Ctrl+F5).
+; keep "0x%x" as is
+A apãrut o eroare la preluarea descãrcãrilor.\nEroare: 0x%x.
+Eroare
+Aratã butonul "Descarcã"
+(doar Internet Explorer)
+Nu au putut fi gãsite informaþii despre aceastã paginã web. Forþeazã exploratorul de internet s-o redeschidã.
+Videouri Flash
+Limiteazã numãrul maxim de conexiuni
+Ponturile FDM vor fi dezactivate. Eºti sigur?\nLe poþi reactiva în Opþiuni | Setãri | Notificãri.
+Aratã ponturi informative [tips] la partea de sus a ferestrei softului
+Eroare! Fila de actualizare nu este semnatã de FreeDownloadManager.ORG.
+; 
+; Also, please download and translate this file:
+;  http://freedownloadmanager.org/tips-eng.txt
+; Note, that it's UTF-8 encoded file (use Notepad.exe to edit).
+;  and do not change text in tags (between "<>", e.g. "<a href...>")
+; Send translated file to support@freedownloadmanager.org.
+;
+;
+(merge doar cu IE ºi FF)
+Aratã butonul "Descarcã" lîngã videouri Flash
+Modulul de monitorizare a videourilor Flash nu este funcþional. Asigurã-te cã FDM ruleazã ºi cã ai activat opþiunea în FDM (vezi Opþiuni | Setãri | Descãrcãtor | Videouri Flash).
+; do not change "0x%x"
+A apãrut o eroare la transferarea descãrcãrilor cãtre FDM.\nEroare: 0x%x.
+Descarcã
+Aratã Acest Buton
+Nu existã descãrcãri de exportat.
+Nu existã nimic de exportat.
+dupã crearea "silenþioasã" a ei
+Trebuie sã ai drepturi de Administrator pentru a putea sã activezi/dezactivezi monitorizarea.
+A apãrut o eroare la activarea/dezactivarea integrãrii.
+Drepturi de administrare insuficiente
+Trebuie sã ai drepturi de Administrator pentru a putea exporta/importa setãrile.
+Descarcã cu FDM
+; please keep %d, %s and %% as is
+; %d - percents
+%d%% descãrcat în total
+; left to download at... some speed
+%s rãmas de descãrcat
+calea cãtre dosarul cu profilul utilizatorului.
+Importã Lista de Descãrcãri din uTorrent
+Dosarul de salvare folosit de uTorrent n-a fost gãsit!
+FDM poate importa lista descãrcãrilor existente în uTorrent. Vrei sã fie importatã?\nPoþi face asta oricînd folosind meniul Filã | Importã | Importã Lista de Descãrcãri din Alte Softuri.
+FDM poate importa lista tuturor descãrcãrilor din uTorrent.\nPoþi face asta ºi mai tîrziu folosind meniul Filã | Importã | Importã Lista de Descãrcãri din Alte Softuri.
+Importã Lista de Descãrcãri din Alte Softuri
+Orbit Downloader
+LeechGet
+Calea cãtre datele aplicaþiei Orbit Downloader nu poate fi gãsitã.
+Calea cãtre datele aplicaþiei Orbit Downloader nu poate fi detectatã.
+Eroare: %d (%02X)
+Diagnostic de sistem: %s
+Fila în care se gãseºte lista de descãrcãri a softului Orbit Downloader nu poate fi gãsitã.
+Lista de descãrcãri a softului Orbit Downloader nu poate fi cititã.
+Lista de descãrcãri a softului Orbit Downloader nu poate fi parsatã (analizatã). Este într-un format necunoscut.
+%d descãrcãri nu au putut fi create ºi configurate dupã calea, numele filei ºi adresa de internet importate din Orbit Downloader.
+Descãrcãrile nu pot fi importate.
+Nu existã date în lista de descãrcãri a softului Orbit Downloader!
+Softul Orbit Downloader nu este instalat pe acest calculator!
+Importarea descãrcãrilor din %s a fost opritã din cauza erorii urmãtoare.
+Vrei sã continui sã imporþi datele ºi din alte softuri de descãrcare?
+Procesate:
+Realizate:
+Eºuate:
+Neprocesate:
+Total:
+uTorrent
+nedefinit
+%d din %d
+Alege din ce softuri vrei sã imporþi lista de descãrcãri:
+FDM poate importa datele din alte softuri de descãrcare. Vrei sã fie fãcutã importarea?\nPoþi face asta ºi mai tîrziu folosind meniul Filã | Importã | Importã Lista de Descãrcãri din Alte Softuri.
+Detalii: %s
+O solicitare a unui partener nu poate fi procesatã.
+A apãrut o eroare fatalã în timpul deschiderii listei de descãrcãri.\nClicheazã pe OK pentru a continua (unele sau chiar toate descãrcãrile vor fi pierdute) sau pe ANULEAZÃ pentru a abandona operaþia.\nAceastã problemã poate fi cauzatã de instalarea incorectã a FDM sau de o filã cu date stricatã.
+Instalare nevalidã: modulul BitTorrent instalat nu poate fi folosit cu aceastã versiune de FDM.\nReinstaleazã FDM.\nClicheazã OK pentru a ieºi.
+; %d - is the number
+%d parteneri conectaþi
+Aceastã descãrcare BitTorrent existã deja
+Trebuie sã ai drepturi de Administrator pentru a aplica setãrile.
+Determinã automat
+Specificã manual...
+Viteza Conexiunii la Internet
+Setãri pentru modurile de utilizare a traficului
+% din viteza de conectare
+Administreazã automat
+; set some setting (maximum number of connections, for example) to some number
+Seteazã la
+Viteza de transfer a conexiunii e mãsuratã automat de FDM. Dacã crezi cã valorile obþinute nu sînt corecte, lasã programul sã ruleze în continuare ºi vei vedea cã valorile calculate de soft se vor apropia de cele reale. Trebuie menþionat cã FDM mãsoarã viteza doar la operaþiile de descãrcare/încãrcare. Cu cît este mai mare numãrul acestora, cu atît programul va putea sã determine mai bine viteza de transfer a conexiunii.
+Vitezã de Descãrcare
+Mãsoarã din Nou
+Specificã Valoarea
+Valoarea trebuie sã fie mai mare sau egalã cu zero.
+Specificã în biþi în loc de baiþi
+Creeazã descãrcare RTSP sau MMS
+Fluxare în Direct [Live Streaming]
+Reîncearcã
+Abandoneazã Tot
+Am încercat mutarea filei:\n %s\n\n în dosarul de destinaþie sub acest nume:\n %s\n\n%s: %s\n\nÎnchide toate aplicaþiile care ar putea utiliza aceastã filã.
+Codarea acestui conþinut e nesuportatã
+Selecteazã Tot
+Reseteazã Tot
+Sînt necesare drepturi de Administrator pentru a integra FDM în Internet Explorer. Clicarea pe "Anuleazã" îl va integra doar parþial.
