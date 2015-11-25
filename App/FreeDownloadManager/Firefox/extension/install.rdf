@@ -5,7 +5,7 @@
           <em:type>2</em:type>
           <em:bootstrap>true</em:bootstrap>
           <em:unpack>false</em:unpack>
-          <em:version>2.0.14</em:version>
+          <em:version>2.0.17</em:version>
           <em:name>Free Download Manager extension</em:name>
           <em:description>Free Download Manager integration with Firefox browser.</em:description>
           <em:creator>FreeDownloadManager.ORG</em:creator>
@@ -15,7 +15,7 @@
             <Description>
               <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
               <em:minVersion>38.0</em:minVersion>
-              <em:maxVersion>41.0</em:maxVersion>
+              <em:maxVersion>42.0</em:maxVersion>
 </Description>
 </em:targetApplication>
 

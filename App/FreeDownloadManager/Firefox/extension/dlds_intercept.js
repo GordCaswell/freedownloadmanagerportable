@@ -172,8 +172,10 @@ function DownloadsInterceptor (httpRedirectsWatcher)
 		info.httpCookies = "";
 		
 		try {
-			if (doc.URL != "about:blank")
+			if (doc.URL && doc.URL != "about:blank")
 				info.httpReferer = doc.URL;
+			else if (doc.baseURI && doc.baseURI != "about:blank")
+				info.httpReferer = doc.baseURI;
 		} catch(err) {}
 		
 		try {

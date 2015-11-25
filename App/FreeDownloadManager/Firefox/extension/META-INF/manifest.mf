@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 
 Name: install.rdf
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: TcC/cqRTeL914kPNF+RIsg==
-SHA1-Digest: 2ElDJ/fodho2u/Z7MNGeBnTArd4=
+MD5-Digest: UqdUt4077pC8CqDVQqvLVg==
+SHA1-Digest: DmAoB5IcpSszs0Ooaf1SxldmPlg=
 
 Name: icon.png
 Digest-Algorithms: MD5 SHA1
@@ -17,8 +17,8 @@ SHA1-Digest: zJpzqwwkcqSyH1WTx95W5OVwAf8=
 
 Name: dlds_intercept.js
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: hBaG8sbl+EnIQ0Cjx9/0+A==
-SHA1-Digest: CLZsvZ8CVrTmRPHTEBHR76xd3nU=
+MD5-Digest: cwRKA56SejO989YDfFXuNA==
+SHA1-Digest: LAGllKbUb0IPVQRBiJqJLmFMH3M=
 
 Name: dm_ctx_menus.js
 Digest-Algorithms: MD5 SHA1
@@ -62,8 +62,8 @@ SHA1-Digest: ShS8fvmyxrlv8NzIuK5E2kG3PcU=
 
 Name: fdm_extension.js
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: GTG02foJD+qviiLMAXMxMg==
-SHA1-Digest: YEHzdHe+zpBZSLpdodDQt50Z1kQ=
+MD5-Digest: 8f64S4SpnkchbBTKB+rRQg==
+SHA1-Digest: +8dfaePqUkdKz9ThVVkjslWpVw0=
 
 Name: fdm_ffproxy.js
 Digest-Algorithms: MD5 SHA1
@@ -107,8 +107,8 @@ SHA1-Digest: ++AVIAzZ1GgC9HgqdbrKe87VRlA=
 
 Name: package.json
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: fInmOjcecV0LAw4LPDmnNQ==
-SHA1-Digest: 1J84PPL6gPiwbH1kf4xHE/QgHsk=
+MD5-Digest: JRtrqYQEbekIBOrYkXDxtw==
+SHA1-Digest: lBIFNM3kDcfcsNc3Mv9XMRAsi9U=
 
 Name: README.md
 Digest-Algorithms: MD5 SHA1

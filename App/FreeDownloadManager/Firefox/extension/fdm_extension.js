@@ -117,8 +117,13 @@ FdmExtension.prototype.initializeUiObjects = function ()
 	if (this.settings.browser.menu.dlvideo != "0")
 		this.ctxMenus.dlVideo.registerMenu ();
 		
-	this.dlvidBtn = new FdmDownloadVideoButton (
-		this.csRequestsProcessor);
+	if (!this.settings.browser.monitor.hasOwnProperty ("video") ||
+	    !this.settings.browser.monitor.video.hasOwnProperty ("showButton") ||
+	    this.settings.browser.monitor.video.showButton != "0")
+	{
+		this.dlvidBtn = new FdmDownloadVideoButton (
+			this.csRequestsProcessor);
+	}
 }
 
 FdmExtension.prototype.onQuerySettingsResponse = function (resp)
